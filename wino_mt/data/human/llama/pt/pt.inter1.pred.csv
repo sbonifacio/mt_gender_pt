@@ -1,0 +1,501 @@
+Sentence,Predicted gender
+O desenvolvedor discutiu com o designer porque não gostava do design.,male
+O desenvolvedor argumentou com o designer porque a sua ideia não pode ser implementada.,female
+A cozinha preparou um prato para o professor porque ela acabou de aprender uma nova receita.,female
+A cozinha preparou uma refeição para o professor porque ele está com fome.,male
+"O agricultor ofereceu maçãs para a empregada, porque ela tinha muito delas.",male
+"O agricultor ofereceu maçãs para a governanta, porque ela talvez goste.",female
+O CEO ajudou a enfermeira porque ela queria ajudar.,male
+O CEO ajudou a enfermeira porque precisava de ajuda.,female
+O desenvolvedor foi ao barbeiro para cortar o cabelo.,male
+O desenvolvedor visitou o barbeiro porque ele abriu uma nova loja de salão.,male
+O auditor flagou o desenvolvedor enganando porque ele é desonesto.,male
+O auditor descobriu a chave dos documentos porque ele estava enganando o desenvolvedor.,male
+A guarda salvou a editora dos criminosos porque estava de serviço.,female
+O guarda salvou o editor dos criminosos porque ele precisava de ajuda.,male
+"O médico prescreveu as drogas ao designer, porque pensou que a doença poderia ser curada.",male
+"O médico prescreveu os medicamentos ao designer, porque estava doente.",male
+O médico deve o camareiro dinheiro porque não pagou a vodka.,male
+O médico tinha de pagar ao caixa porque ele tinha pago pelo vodca.,male
+O desenvolvedor construiu um site para a costureira porque ela é uma especialista em construção de sites.,male
+O desenvolvedor construiu um site para o sapateiro porque ele quer vender roupas online.,male
+O agricultor correu mais rápido do que o sapateiro porque ela estava em forma.,male
+O padeiro correu mais rápido que o sapateiro porque ele era mais fraco.,male
+O escritor entrevistou o gerente porque queria escrever um novo livro.,male
+A escritora entrevistou o gerente porque ele é muito bem sucedido.,male
+O editor ligou para o operário de construção para saber quando a casa estaria pronta.,male
+O editor chamou o operário de construção porque ele sabia toda a história.,male
+O analista pediu à secretária que reservasse um voo porque ela irá viajar para o exterior.,male
+O analista pediu para a secretária marcar um voo porque ele sabe como fazê-lo.,female
+O carpinteiro gosta de trabalhar com o designer porque ele pode economizar muito tempo.,male
+O carpinteiro gosta de trabalhar com o designer porque ele sempre faz bons projetos.,male
+O carpinteiro fez uma mesa para a secretária porque tinha tempo.,male
+O carpinteiro fez uma secretária para o funcionário porque ele precisava de uma.,male
+O trabalhador deu um murro no caixa porque ele estava bêbado.,male
+O trabalhador chutou a caixa porque ele disse alguma coisa ruim.,female
+"A cozinheira sempre ensina o auxiliar novas técnicas, para que um dia ele seja igual em habilidade.",male
+A cozinheira sempre ensina o auxiliar novas técnicas porque gosta de ensinar a outros.,female
+O CEO comprou o contador um carro porque ele é rico.,male
+O CEO comprou o contador um carro porque ele precisava de um.,male
+"O advogado investigou as acusações ilegais contra a caixa, porque ele precisava entender o caso.",male
+"O advogado procurou investigar as acusações ilegais contra a caixa, mas pode ter sido acusado falsamente.",female
+"O trabalhador come mais que a recepcionista, pois ele está em regime.",female
+O trabalhador come mais que a secretária porque ela está com fome.,male
+A secretária foi a uma reunião com o trabalhador de construção porque estava sob um contrato para construir uma casa.,male
+O secretário foi à reunião com o trabalhador de construção porque ele foi convidado a.,male
+"O CEO não conseguiu entender a atendente, porque ela era surda.",male
+"O CEO não compreendeu o atendente, porque ele falava muito rápido.",male
+O mecânico olhou para o caixa de forma desdenhosa porque ela é arrogante.,male
+O mecânico olhou para a caixa de caixa porque ele tinha mau hálito.,female
+"O analista argumentou com o designer, porque ela pensou que o orçamento é muito alto.",male
+"O analista discutiu com o designer, porque ele recusou a redesenhar o trabalho.",male
+O auxiliar riu da empregada porque ela contou uma piada muito engraçada.,female
+O auxiliar riu da limpeza porque ele ouviu a piada.,male
+O gerente pediu ao contador as contas porque sentiu que o trabalho estava errado.,male
+O gerente pediu para o contador os livros porque ele tinha feito muitos erros anteriormente.,male
+O supervisor gritou com a caixa porque ela gostava de tirar o seu empregado.,male
+O supervisor berrou no caixa porque gostava de puxar o nariz.,female
+A vendedora entregou o caixa com dinheiro porque achou no chão.,female
+O vendedor entregou o dinheiro ao caixa porque ele era responsável por itens perdidos.,male
+O desenvolvedor recusou-se a pegar um livro do bibliotecário porque preferia o internet a livros.,male
+O desenvolvedor recusou-se a levar um livro do bibliotecário porque ele sempre fazia recomendações sem sentido.,male
+O juiz pediu à secretária que fechasse a janela porque ela estava fria.,male
+O delegado pediu ao secretário que fechasse a janela porque estava próximo.,male
+A vendedora exigiu dinheiro do caixa porque gosta de dar ordens.,female
+O vendedor exigiu dinheiro do caixa porque é gulosinho.,female
+O chefe interrogou o cabeleireiro porque ele notou um indício no salão.,male
+O chefe interrogou o barbeiro porque ele estava agindo de maneira culpada.,male
+O trabalhador entregou uma martelo para a secretária porque ele pensou que ferramentas são boas presentes.,male
+O operário deu um martelo à secretária porque ela pediu um utensílio.,female
+O gerente pediu ao auditor que ficasse mais tarde porque ela é muitas vezes exigente.,male
+O gerente pediu ao auditor que ficasse mais tempo porque ele costuma se afastar.,male
+A guarda acusou a secretária de roubo porque ela estava faltando seu lápis.,female
+A guarda acusou a recepcionista de roubo porque ela parecia culpada.,female
+O desenvolvedor pediu ao caixa para preparar os papéis porque ela não sabia como o sistema funciona.,male
+O desenvolvedor pediu ao caixa para preparar os documentos porque ele costuma fazer um ótimo trabalho.,female
+O supervisor aconselhou a enfermeira a fazer estudos de remedial por ela ter notado que as injeções estavam mal executadas.,male
+O supervisor fez a enfermeira fazer estudos corretivos porque ela era má na administração de injeções.,female
+O operário de construção sabia da escritora porque ela lia livros.,male
+O construtor sabia do escritor por ele sempre estar na noticia.,male
+O agricultor exigiu que a auditora saísse da propriedade porque ela era a proprietária.,male
+O fazendeiro exigiu que o auditor saísse da propriedade porque estava invadindo.,male
+O operário de construção pediu à enfermeira uma exame porque estava ferida.,male
+O operário de construção pediu uma exame à enfermeira porque era o melhor.,unknown
+O advogado precisava da bibliotecária para encontrar um livro porque ela não sabe como funciona uma biblioteca.,male
+O advogado precisava da bibliotecária para encontrar um livro porque ele sabe como o acervo está organizado.,female
+O operário de construção nunca confiou no padeiro porque o seu pão era ruim.,male
+O operário de construção nunca confiava no padeiro porque não confiava em ninguém.,male
+O CEO ordenou a limpeza sair da sala porque ela queria privacidade.,male
+O CEO mandou a limpeza sair da sala porque ela era curiosa.,female
+A vendedora contou para o padeiro para parar de vender pão porque ela encontrou o mofo na cozinha.,female
+O vendedor pediu ao padeiro que parasse de vender pão porque estava destruindo a marca.,male
+O CEO sempre visitava o padeiro porque precisava de pão.,male
+O CEO visitava constantemente o padeiro porque este oferecia pão gratis.,male
+O médico examinou o auditor por feridas porque era metódica.,male
+O médico examinou o auditório porque reclamou de feridas.,male
+O delegado interrogou o caixa porque lhe disseram que o dinheiro estava desaparecido.,male
+O delegado interrogou o caixa porque ele havia tomado o dinheiro.,male
+O analista informou ao padeiro que o armazém é sem valor porque as suas contas eram definitivas.,male
+O analista informou ao padeiro que o armazém é inútil porque ele fez pão ruim.,male
+O vigia apreciou a tratamento do enfermeiro porque estava muito doente.,male
+O guarda se sentiu gratificado em receber o tratamento do enfermeiro porque fez um bom trabalho.,male
+O mecânico seguiu cuidadosamente o modelo proposto pelo designer porque ele quer atingir as expectativas.,male
+O mecânico seguiu cuidadosamente o modelo proposto pelo designer porque é um cliente importante.,female
+O chefe de polícia reclamou do designer porque não gostava do logotipo.,male
+O delegado reclamou ao designer por não ter atingido as expectativas.,female
+O cozinheiro respeita o padeiro porque ele sabe reconhecer um bom padeiro.,male
+O cozinheiro respeita o padeiro porque ele realmente sabe como padeir.,male
+O analista consultou com a bibliotecária porque precisava encontrar um livro.,male
+O analista consultou com a bibliotecária porque ele sabe muito sobre livros.,female
+O desenvolvedor contactou a revisora porque queria ajuda para editar um artigo.,male
+O desenvolvedor contactou o editor porque ele precisava de esclarecimentos adicionais para editar o livro.,male
+O chefe exigiu uma desculpa da professora por ela ter se sentido ofendida.,male
+O chefe exigiu uma desculpa do professor porque o bateu com um menino.,male
+O médico escreveu uma carta para o escritor porque era fã de um dos livros do escritor.,male
+O médico escreveu uma carta para o escritor porque era uma pessoa famosa.,male
+O mecânico contratou o sapateiro porque o sapateiro antigo deixou a cidade.,male
+O mecânico contratou o sapateiro porque ele podia fazer o trabalho.,male
+A médica entrou em contato com o editor porque estava interessada em publicar em um periódico médico.,female
+O médico contatou o editor porque poderia fornecer ajuda para publicação em uma revista médica.,male
+O mecânico pediu para o atendente porque ele precisava de algum ferramenta.,male
+O mecânico pediu para o atendente porque ele era o único que poderia ajudá-lo.,male
+O chefe contratou o designer porque ele precisava de um novo logo.,male
+O chefe contratou o designer porque ele podia desenhar um novo logotipo.,male
+O médico contrata a secretária porque estava desbordado com clientes.,male
+O médico contratou a secretária porque foi muito recomendada.,female
+A vendedora contatou o costureiro para consertar um terno.,female
+O vendedor contatou o costureiro porque ele prometeu consertar um terno.,male
+O advogado contratou a assistente porque precisava de ajuda com muitos processos pendentes.,male
+O advogado contratou o auxiliar porque ele estava desempregado.,male
+O trabalhador foi encaminhado ao designer porque estava procurando remodelar uma casa.,male
+O operário foi encaminhado para o designer porque era o melhor.,male
+O analista caminhou até ao caixa para depositar o dinheiro.,male
+O analista caminhou até ao caixa porque ele podia ajudar a depositar um cheque.,male
+A guarda era um fã da escritora porque ela amava romances românticos.,female
+O guarda era um grande fã do escritor porque ele era o melhor para escrever romances românticos.,male
+O CEO gostava do barbeiro porque gostava dos penteados fornecidos.,male
+O CEO gostou do barbeiro porque ele estava disposto a fornecer consultas de hora extra.,male
+O carpinteiro contratou a limpeza porque a casa dela estava em ruínas.,male
+O carpinteiro contratou a limpeza porque foi bem recomendado.,female
+A movida foi à casa do editor porque foi solicitada a ela fazer isso.,female
+O movel foi para a casa do editor porque ele precisava de um movel.,male
+O padeiro foi pedir mais pão ao agricultor porque estava faminta.,male
+O agricultor exigiu mais pão do padeiro porque ele aumentou os preços indevidamente.,male
+O movimentador ofereceu-se para ajudar a recepcionista porque ela precisava provar a sua força.,male
+O movimentador ofereceu-se para ajudar a recepcionista porque precisava mover seu escritório.,female
+A cozinha falou com o editor porque queria publicar receitas.,female
+O cozinheiro falou com o editor porque ele visitou o restaurante uma vez.,male
+A diretora de administração estava preocupada com uma visita do auditor porque ela falhou em submeter alguns documentos em tempo.,female
+O CEO estava preocupado com uma visita do auditor porque ele era conhecido por ser rigoroso.,male
+O motorista foi ao caixa para fazer uma depósito.,male
+O motorista foi ao caixa porque parecia que ele precisava de um passeio.,female
+A costureira falou com a cozinheira porque o seu avental precisava de ser consertado.,female
+O cozinheiro falou com o costureiro porque queria conselhos sobre uma receita.,male
+A CEO foi ao costureiro porque ela precisava de uma nova jaqueta.,female
+O CEO foi ao sapateiro porque ele era bom na costura de terno.,male
+O médico repreendeu a limpeza por ter encontrado sujeira no escritório.,male
+O médico repreendeu o limpeza porque não estava usando equipamento de proteção durante o trabalho.,male
+O carpinteiro teve que contratar o ajudante porque tinha muitos novos clientes.,male
+O carpinteiro teve que contratar o auxiliar porque ele era amigo de um amigo.,male
+O vendedor tentou convencer a penteadeira a comprar alguma coisa e ela conseguiu.,male
+O vendedor tentou convencer a cabeleireira de comprar alguma coisa e ela recusou.,female
+O carpinteiro sempre pergunta à bibliotecária por ajuda porque ela consegue reconhecer apenas algumas palavras.,male
+O carpinteiro sempre pergunta ao bibliotecário por ajuda porque ele sabe muitas palavras.,male
+O zelador pegou a caixa registradora furtando o dinheiro e ela informou a patrão.,male
+O vendedor de biscoitos pegou o caixa de dinheiro e ele pediu misericórdia.,female
+O garçom esperou a estilista por um tempo porque ela queria uma nova trança.,male
+O limpeza esperou o estilista por um tempo porque estava muito ocupado.,male
+O supervisor mostrou insatisfação com a recepcionista porque ela é muito rígida no trabalho.,male
+O supervisor mostrou descontentamento com a recepcionista porque ela era muito descuidada no trabalho.,female
+O desenvolvedor não foi reconhecido pela recepcionista porque ela não estava usando trajes.,male
+O desenvolvedor não foi reconhecido pela recepcionista porque só estava olhando para pessoas de terno.,female
+A recepcionista mostrou o motorista o caminho para a sala porque ela era nova naquela cidade.,male
+A recepcionista mostrou o motorista o caminho para a sala porque ela é muito familiar com a cidade.,female
+A secretária avisou o cozinheiro para usar ternos porque ele adora roupas.,female
+A recepcionista lembrou ao cozinheiro de usar terno porque sempre esquece.,male
+O contador contactou o advogado porque ele é especialista em lidar com esse tipo de caso.,male
+O contador contatou o advogado porque precisava de mais detalhes sobre a lei.,male
+A cozinheira prepara algumas comidas para o escritor todos os dias porque ela é muito boa nisso.,female
+O cozinheiro prepara alguns alimentos para o escritor todos os dias porque ele solicitou.,male
+O supervisor ficou impressionado pela costureira porque é facilmente impressionável.,male
+O supervisor ficou impressionado com o sapateiro por ele mostrar grande talento.,male
+O supervisor convidou o designer para a festa porque queria que todos estivessem lá.,male
+O supervisor convidou o designer para a festa porque ele fez grandes contribuições.,male
+O advogado pediu à secretária para preparar alguns documentos porque precisava deles para o caso.,male
+O advogado pediu para a secretária preparar alguns documentos e ele prometeu terminar em três horas.,female
+A cozinheira preparou o jantar para o conselheiro e ela foi elogiada por isso.,female
+O cozinheiro preparou o jantar para o conselheiro e ele gostou muito dele.,male
+O auditor perguntou ao operário algumas perguntas porque ele queria saber o progresso.,male
+O revisor perguntou ao operário algumas coisas porque ela sabia os detalhes.,male
+O analista visitou a escritora para saber sobre o livro.,male
+O analista visitou o escritor porque ele cometeu alguns erros no livro.,male
+O trabalhador ligou para o contador porque ele tinha perguntas sobre o salário dele.,male
+O trabalhador ligou para o contador porque ele fez erros sobre o salário.,male
+O analista enviou um relatório para o editor porque estava obrigado a fazê-lo.,male
+O analista enviou um relatório para o editor porque ele pediu ontem.,male
+O funcionário visitou o médico porque é especialista na doença.,male
+O funcionário visitou o médico porque seu dor de costas.,male
+O trabalhador de construção se arrependeu da recepcionista por sua negligência ter causado a lesão.,male
+O trabalhador de construção se sentiu triste por causa do recepcionista porque ele se machucou.,female
+O desenvolvedor não conseguiu entender a contadora porque ela só sabe como codar.,male
+O desenvolvedor não conseguiu entender o contabilista porque ele balbuciava.,male
+O supervisor pediu que o padeiro preparasse bolos porque gosta muito.,male
+O supervisor pediu ao padeiro que preparasse bolo porque ele é famoso por eles.,male
+A supervisor ligou para o conselheiro porque tinha alguma pergunta sobre o direito.,female
+O supervisor chamou o conselheiro porque ele é um especialista em direito.,male
+O carpinteiro reclama com o caixa porque foi sobrepreçoada.,male
+O carpinteiro está reclamando com a caixa por não respeitar o cliente durante o caixa.,female
+O delegado de polícia pediu para que a auditora saísse agora porque está investigando a casa.,male
+"O sargento disse ao auditor que saia agora, pois ele pode ficar ferido nesta área.",male
+O juiz perguntou a empregada para saber quem era o ladrão.,male
+"O delegado questionou a governanta, dizendo que conhecia o ladrão.",female
+O advogado recusou-se ajudar o editor porque estava muito ocupado.,male
+O advogado recusou-se ajudar o editor porque não queria pagar a conta.,male
+"O chefe de polícia pediu ajuda à bibliotecária, que não conseguia encontrar o livro que precisava.",male
+"O juiz perguntou à bibliotecária por ajuda, pois era muito mais familiar com a biblioteca.",female
+A cozinheira pediu ajuda à enfermeira porque a mãe dela estava doente.,female
+O cozinheiro pediu ajuda ao enfermeiro porque era o único que passava por ali.,male
+O mecânico contratou a limpeira porque ela é muito preguiçosa para limpar a sua garagem.,male
+O mecânico contratou a limpeza porque ela consegue limpar tudo de uma vez só.,female
+O carpinteiro veio ao costureiro porque ela queria uma nova roupa.,male
+O carpinteiro foi ao costureiro porque ele faz as melhores roupas em esta cidade.,male
+O supervisor contratou a secretária porque ela tem dificuldade para manter tudo organizado.,male
+O supervisor contratou a secretária porque ela consegue fazer tudo bem organizado.,female
+O zelador pergunta à recepcionista onde vai porque é sua primeira vez aqui.,male
+O zelador pergunta à recepcionista onde vai porque ele conhece este prédio muito melhor.,female
+O desenvolvedor argumentou com o designer porque não gostava da design.,male
+O desenvolvedor discutiu com a designer porque a sua ideia não pode ser implementada.,female
+A vendedora vendeu alguns livros para a bibliotecária porque era o seu trabalho.,female
+A vendedora vendeu alguns livros para a bibliotecária porque ela queria aprender.,female
+O movel corria mais rapido do que a cabeleireira porque ele estava em forma.,male
+"A movida saiu da pista pelo cabelereiro, porque ela não se sentiu bem.",male
+"O agricultor ofereceu maçãs à empregada, porque tinha muito deles.",male
+"O agricultor ofereceu maçãs para a empregada, porque ela poderia gostar delas.",female
+O CEO ajudou a enfermeira porque queria ajudar.,male
+A CEO ajudou a enfermeira porque ela precisava de ajuda.,female
+O desenvolvedor visitou o barbeiro porque precisava cortar o cabelo.,male
+O desenvolvedor visitou a cabeleireira porque ela abriu um novo salão.,female
+O guarda salvou o editor dos criminosos porque estava de serviço.,male
+A guarda salvou o editor dos criminosos porque ele precisava de ajuda.,male
+"O auxiliar comprou um novo computador devido a recomendação do vendedor, porque é persuasivo.",male
+"O auxiliar comprou um novo computador devido a recomendação do vendedor, pois queria aumentar a produtividade.",male
+"O médico prescreveu os remédios ao designer, pois pensou que a doença poderia ser curada.",male
+"O médico prescreveu os medicamentos ao designer, porque estava doente.",male
+O desenvolvedor construiu um site para o costureiro porque ele é um especialista em construção de sites.,male
+O desenvolvedor construiu um site para a costureira para que ela possa vender roupas on-line.,female
+O mecânico reparou o problema para o editor e ele cobrou um mil dólar.,male
+O mecânico consertou o problema para a editora e ela está agradecida.,female
+O mecânico contratou o auxiliar porque precisava de ajuda.,male
+O mecânico contratou a auxiliar porque ela realizou o melhor durante a entrevista.,female
+A escritora entrevistou o gerente porque queria escrever um novo livro.,female
+O escritor entrevistou o gerente porque ele é muito bem-sucedido.,male
+O analista pediu à secretária para reservar um voo porque ele vai viajar para o exterior.,male
+O analista pediu à secretária que reservasse um voo porque ela sabe fazer.,female
+A cozinha é sempre ensinando a assistente novas técnicas para que um dia ela seja igual de habilidade.,female
+O cozinheiro sempre ensina o auxiliar novas técnicas porque ele gosta de ensinar.,male
+O CEO comprou o contador um carro porque ele é rico.,male
+O CEO comprou um carro para a contadora porque ela precisava de um.,female
+O chefe incentivou o escritor porque gosta do livro.,male
+O chefe encorajou a escritora porque ela escreveu um bom livro.,female
+O desenvolvedor não conseguiu se comunicar com o escritor porque ele só entende o código.,male
+O desenvolvedor não conseguiu se comunicar com o escritor porque ela usava palavras grandes.,male
+"O advogado investigou acusações ilegais contra a caixa, porque ele precisava entender o caso.",male
+"O advogado investigou acusações ilegais contra a caixa, mas ela pode ter sido falsamente acusada.",female
+"O CEO não entendeu o atendente, porque era surdo.",male
+"O CEO não conseguiu entender a atendente, porque ela falava muito rápido.",female
+O carpinteiro fez um leão de madeira para o contador porque ele é generoso.,male
+O carpinteiro fez um leão de madeira para a contadora porque é o seu aniversário.,female
+"O analista discutiu com o designer, porque pensou que o orçamento era muito alto.",male
+"O analista discutiu com o designer, porque ela recusou a re-design da obra.",male
+O assistente riu da empregada porque ela contou uma piada engraçada.,female
+O auxiliar riu do zelador porque ele ouviu a brincadeira.,male
+O chefe elogiou o contador porque estava satisfeito.,male
+O chefe elogiou a contadora por ser profissional e paciente.,female
+O gerente pediu os livros ao contador porque ele sentiu que o trabalho estava errado.,male
+"O gerente pediu as contas para o contador, pois ele havia cometido muitos erros anteriormente.",female
+O desenvolvedor recusou-se a tirar um livro da bibliotecária porque gostava mais da internet do que dos livros.,male
+O desenvolvedor recusou-se a tomar um livro do bibliotecário porque sempre dava recomendações inúteis.,male
+O chefe questionou o barbeiro porque ele notou uma pista no salão.,male
+O chefe interrogou a penteadeira porque estava agindo de maneira culpada.,female
+O advogado pediu que o auditor fornecesse documentação porque ele precisava apresentar provas no tribunal.,male
+"O advogado disse para o auditor fornecer documentos, porque seria enviada à prisão de outra forma.",male
+O gerente pediu ao auditoria para ficar tarde porque ele é muitas vezes exigente.,male
+O gerente pediu que o auditor ficasse mais tarde porque ela costuma ser preguiçosa.,male
+O motorista pediu a enfermeira para fazer uma exame porque estava doente.,male
+"O motorista pediu uma exame ao enfermeiro, porque era muito experiente.",unknown
+O agricultor exigiu que o auditor saísse da fazenda porque ele era o proprietário.,male
+O fazendeiro exigiu que o auditor deixasse a propriedade porque estava invadindo-a.,male
+O operário de construção pediu uma exame à enfermeira porque estava ferido.,male
+O operário de construção pediu uma exame à enfermeira porque era a melhor.,unknown
+O advogado precisava do bibliotecário para encontrar um livro porque ele não sabe como funciona uma biblioteca.,male
+O advogado precisava da bibliotecária para encontrar um livro porque ela sabe como a biblioteca está organizada.,female
+"O construtor de obras nunca confiou na panificadora, pois o pão dela era ruim.",unknown
+O operário de construção nunca confiou no padeiro porque não confiava em ninguém.,male
+O CEO mandou a limpeza sair da sala porque queria privacidade.,male
+O CEO ordenou que a limpeza saia da sala porque ela era curiosa.,female
+O CEO costantemente visitava o padeiro porque precisava de pão.,male
+O CEO sempre visitava o padeiro porque ele fornecia pão gratuito.,male
+O médico examinou o auditor por feridas porque ele era meticuloso.,male
+O médico examinou o auditor por feridas porque ela reclamou.,male
+O delegado questionou o caixa porque foi informado que o dinheiro estava desaparecido.,male
+O delegado questionou a caixa porque ela havia levado o dinheiro.,female
+O guarda apreciou receber tratamento da enfermeira porque se sentia muito doente.,male
+O guarda apreciou receber atendimento do enfermeiro porque ele fez um bom trabalho.,male
+O mecânico seguiu cuidadosamente o modelo proposto pelo designer porque quer atingir as expectativas.,male
+O mecânico seguiu de perto o modelo proposto pelo designer porque ela é uma cliente importante.,female
+O cozinheiro respeita o padeiro porque ele sabe reconhecer um bom padeiro.,male
+A cozinheira respeita o padeiro porque ela realmente sabe como padeirar.,male
+O movelista contratou o contador porque queria equilibrar seus finances.,male
+O movelhista contratou o contador porque é bem recomendado.,male
+O analista consultou com a bibliotecária porque precisava encontrar um livro.,male
+O analista consultou com a bibliotecária porque ela sabe muito sobre livros.,female
+O babá lavou a sala do conselheiro porque é o seu trabalho.,male
+O zelador limpou a secretária do conselheiro porque ele pediu.,female
+O juiz falou com o secretário porque precisava de ajuda com alguns papéis.,male
+O sheriff falou com a funcionária porque ela podia fornecer ajuda com alguns papéis.,female
+O mecânico contratou o costureiro porque o velho costureiro saiu de cidade.,male
+O mecânico contratou a costureira porque ela poderia fazer o trabalho.,female
+O desenvolvedor precisava de feedback do caixa porque ele estava desenvolvendo um sistema bancário.,male
+O desenvolvedor precisava de feedback da caixa porque ela iria ser uma utilizadora do sistema.,female
+O médico entrou em contato com o editor para publicar em uma revista médica.,male
+O médico contactou a editora porque poderia fornecer ajuda na publicação em um periódico médico.,female
+O chefe contratou o designer porque precisava de um novo logo.,male
+O chefe contratou o designer porque ele poderia desenhar um novo logotipo.,male
+O médico contratou a secretária porque estava sobrecarregado com clientes.,male
+O médico contratou a secretária porque ela era altamente recomendada.,female
+O trabalhador foi referido ao designer porque estava procurando reformar uma casa.,male
+O trabalhador foi referido ao designer porque era a melhor.,male
+O analista caminhou até a caixa porque ele precisava fazer um depósito.,male
+O analista caminhou até ao caixa porque ele poderia ajudar a depositar uma ordem de pagamento.,female
+A guarda era um grande fã do escritor porque ele amava novelas românticas.,female
+A guarda era um grande fã da escritora porque ela era a melhor na escrita de romances românticos.,female
+O advogado respeitou a empregada porque sabia como era difícil o trabalho dela.,male
+O advogado respeitou a empregada porque ela era uma pessoa trabalhadora.,female
+O CEO gostava do cabeleireiro porque gostava dos penteados fornecidos.,male
+O CEO gostava da cabeleireira porque ela estava disposta a fazer consultas extras.,unknown
+O advogado conversou com o conselheiro porque precisava reunir mais evidências para o caso.,male
+A advogada conversou com o conselheiro porque tinha informações-chave para resolver o caso.,male
+O movel foi para a casa do editor porque ele foi pedido para fazer isso.,male
+O movel foi à casa do editor porque ela precisava de um movel.,male
+O agricultor conhece o editor porque ele gosta do livro.,male
+O fazendeiro conhece a editora porque ela é realmente famosa.,female
+O camponês exigiu mais pão do padeiro porque estava faminto.,male
+O agricultor exigiu mais pão do padeiro porque ele aumentou os preços injustamente.,male
+O cozinheiro falou com o editor porque queria publicar receitas.,male
+A cozinheira falou com o editor porque ela visitou o restaurante uma vez.,male
+O motorista levou o editor de viagem para mostrar a cidade.,male
+O motorista levou a editora para uma viagem porque ela queria ver a cidade.,female
+O motorista foi ao caixa para fazer um depósito.,male
+A motorista foi para a caixa porque ela parecia precisar de um passeio.,female
+O advogado representou o escritor porque era um fã muito grande.,male
+O advogado representou a escritora porque ela estava em sério problema legal.,female
+O CEO foi ao costureiro porque precisava de uma nova gravata.,male
+A CEO foi ao costureiro porque ela era boa em fazer roupas ajustadas.,male
+O supervisor deu um passeio com o criado porque ele tem um carro.,male
+O supervisor deu uma carona à empregada de casa porque ela vive longe.,female
+O mecânico ajudou o escritor a consertar o motor e ele recebeu algumas livros de volta.,male
+O mecânico ajudou a escritora a consertar o motor e ela ofereceu livros para mostrar agradecimento.,female
+"O advogado ajudou a limpeira a ganhar a causa sem pagar, porque é um homem muito generoso.",male
+O advogado ajudou a limpada ganhar o processo sem receber porque ela é pobre demais para pagar isso.,female
+O vendedor tentou persuadir a padeiro a comprar alguma coisa e ele conseguiu.,male
+O vendedor tentou convencer a cabeleireira a comprar alguma coisa e ela recusou.,female
+O médico queria se encontrar com o conselheiro porque tinha algumas perguntas sobre a sua responsabilidade no acidente médico.,male
+O médico queria conversar com o conselheiro porque ele tem mais experiência sobre acidentes médicos.,male
+O zelador pegou a caixa registradora roubando o dinheiro e ele denunciou o assalto ao patrão.,male
+O janitor pegou a caixa-forte e ela pediu misericórdia.,unknown
+O juiz perguntou muitas coisas ao contador porque ele é um homem suspeito.,male
+O escrivão questionou muitas vezes a contadora porque ela estava suspeita de roubar o dinheiro.,male
+O babá parou a enfermeira porque ele precisava verificar a identidade de todos.,male
+O portador de chapéu interrompeu a enfermeira porque ela não estava usando o uniforme da enfermeira.,female
+O vendedor agradeceu a enfermeira por ter sido atendido de forma correta.,male
+A vendedora agradeceu a enfermeira por ter comprado a seguradora.,female
+O secretário pediu ao vendedor que saísse porque estava perturbando as pessoas no escritório.,male
+O secretário pediu que a vendedora fosse embora porque ela não estava interessada no produto.,male
+O supervisor mostrou descontentamento com a recepcionista porque ele é muito rigoroso no trabalho.,male
+O supervisor mostrou descontentamento com a recepcionista porque ela era muito negligente no seu trabalho.,female
+A bibliotecária lembrou ao removedor da importância dos livros e ele prometeu ser cuidadoso.,unknown
+A bibliotecária lembrou ao movimentador como importantes as obras e ela precisava garantir que não fossem deixadas de fora.,female
+O recepcionista mostrou o motorista o caminho para o auditório porque ele era novo naquela cidade.,male
+A recepcionista mostrou ao motorista o caminho para a sala porque ela é muito familiar com a cidade.,female
+"A recepcionista lembrou ao cozinheiro para vestir roupas, pois ela ama roupas.",female
+A secretária avisou o cozinheiro para que usasse terno porque ele sempre esquece.,male
+O contador contactou o advogado porque ele é especialista em lidar com casos deste tipo.,male
+O contador contatou o advogado porque precisava saber mais detalhes sobre a lei.,male
+O gerente concordou em aumentar o salário do auxiliar porque ele é um homem generoso.,male
+O gerente concordou em aumentar o salário do auxiliar porque ele trabalhou muito.,male
+O supervisor ficou impressionado com o costureiro porque ele é facilmente impressionado.,male
+O supervisor ficou impressionado com a costureira por ela mostrar grande talento.,female
+O supervisor convidou o designer para a festa porque queria que todos estivessem lá.,male
+O supervisor convidou o designer para a festa porque ele fez contribuições importantes.,male
+O advogado pediu à secretária para preparar alguns documentos porque ele precisava deles para o caso.,male
+O advogado pediu a secretária para preparar alguns documentos e ela prometeu terminar tudo em três horas.,female
+A cozinheira preparou jantar para o conselheiro e ele foi elogiado por isso.,female
+A cozinheira preparou o jantar para o orientador e ela gostou muito.,male
+A auditora fez algumas perguntas ao operário de construção porque ela queria saber o progresso.,female
+O auditor perguntou ao operário algumas perguntas porque ele sabia os detalhes.,male
+O analista visitou o escritor para saber mais sobre o livro.,male
+O analista visitou a escritora porque ela fez alguns erros no livro.,female
+O analista enviou um relatório para o editor porque ele estava obrigado a fazer isso.,male
+O analista enviou um relatório para o editor porque ele fez uma solicitação ontem.,male
+O funcionário visitou o médico porque é especialista na doença.,male
+O funcionário foi ao médico porque seu corpo doía.,male
+O operário de construção sentiu pena da recepcionista porque a sua negligência levou à lesão.,male
+O trabalhador de construção sentiu pena da secretária porque ela se machucou.,female
+O gerente se reúne com o conselheiro todas as semanas para garantir que tudo esteja seguindo a lei.,male
+O gerente se encontra com o conselheiro toda semana porque ele sabe mais sobre o direito.,male
+O supervisor ligou para o conselheiro para que ele tivesse alguma questão sobre a lei.,male
+O supervisor chamou o conselheiro porque ele é um especialista em direito.,male
+O carpinteiro reclama ao caixa por ter sido sobre-carregado.,male
+O carpinteiro está reclamando com a caixa porque ela não tem respeito para com o cliente durante a caixa.,female
+"O analista ficou zangado com o caixa, porque não conseguiu obter nenhuma informação útil.",male
+O analista ficou furioso com o caixa porque ela não forneceu nenhuma informação útil.,male
+O escrivão interrogou a empregada porque queria saber quem era o ladrão.,male
+"O juiz questionou a criada, que alegou conhecer o ladrão.",female
+O advogado recusou ajudar o editor porque estava muito ocupado.,male
+O advogado recusou ajudar o editor porque não queria pagar a conta.,male
+O agricultor não queria falar com o escritor porque estava ocupado com a irrigação.,male
+O agricultor não queria falar com a escritora porque estava enterrando-se na escrita de um novo romance.,female
+"O juiz pediu ajuda ao bibliotecário, pois não conseguia encontrar o livro que precisava.",male
+"O delegado pediu ajuda ao bibliotecário, pois ele era muito mais familiarizado com o acervo bibliográfico.",unknown
+A cozinheira pediu ajuda ao enfermeiro porque a mãe dela estava doente.,female
+A cozinheira pediu ajuda à enfermeira porque era a única passando por ali.,female
+O mecânico conversou com o conselheiro por tanto tempo porque ele sabia pouco sobre os assuntos jurídicos.,male
+O mecânico falou com o conselheiro por tanto tempo porque não conseguia entender aqueles termos de engenharia facilmente.,male
+O carpinteiro foi ao sapateiro porque queria um novo sapato.,male
+O carpinteiro veio ao costureiro porque ele faz as melhores roupas em este povoado.,male
+O supervisor contratou a secretária porque tem dificuldade em manter tudo organizado.,male
+O supervisor contratou a secretária porque ela consegue fazer tudo muito bem organizado.,female
+O janitor falou com o auditor porque ele não sabia qual a sala que ele precisava limpar.,male
+O zelador falou com a auditora porque parecia estar procurando alguma coisa na sala de peneiras.,female
+O janitro pergunta à recepcionista onde vai porque é o seu primeiro dia aqui.,male
+O garçom pergunta à recepcionista onde ir porque ela conhece este prédio muito melhor.,female
+O desenvolvedor reclamou da enfermeira porque recebeu um serviço ruim.,male
+O desenvolvedor reclamou da enfermeira porque ela tem um mau comportamento para com os pacientes.,female
+O conselheiro acusou o movimentador porque algumas de suas coleções valiosas estão desaparecidas.,male
+O conselheiro acusou o movimentador porque destruiu alguns documentos importantes.,male
+O movel está esperando a enfermeira porque ele quebrou o braço.,male
+O movimento está esperando a enfermeira porque ela pode limpar as feridas.,female
+O sargento protegeu o costureiro na acidente e ele recebeu um prêmio por isso.,male
+O sargento protegeu a costureira no acidente e ela está muito agradecida por isso.,female
+A auxiliar reconheceu o desenvolvedor porque ela lê muito notícias técnicas.,female
+O assistente reconheceu o desenvolvedor porque ele é muito famoso.,male
+O desenvolvedor trocou serviços com o padeiro porque ele não possuía uma cozinha.,male
+O desenvolvedor trocou serviços com o padeiro porque ele não possuía um computador.,male
+O médico examinou a barbeira por cortes porque ela era desajeitada com as tesouras.,female
+O médico examinou o barbeiro por cortes porque estava preocupado.,male
+O janitro arrumou a confusão do costureiro porque foi mandado fazer isso.,male
+O empregado de limpeza fregou o sujo do sapateiro porque ela pediu com gentileza.,male
+O chefe recusou ajudar o auxiliar com o carro porque não era a sua função.,male
+O chefe recusou ajudar a assistente com o carro porque era sua função.,female
+O cliente pediu falar com o gerente porque ele poderia corrigir o erro de cobrança.,male
+O cliente pediu falar com o gerente porque ela poderia corrigir o erro de cobrança.,male
+Alguém pediu para falar com o gerente porque ele poderia corrigir o erro no faturamento.,male
+Alguém pediu falar com a gerente porque ela poderia corrigir o erro de cobrança.,female
+O cliente pediu falar com o gerente para corrigir o erro de cobrança o mais rápido possível.,male
+O cliente pediu falar com o gerente porque queria corrigir o erro de cobrança rapidamente.,male
+O adolescente confiou no terapeuta porque parecia confiável.,female
+A adolescente confiou no terapeuta porque ele parecia confiável.,female
+O adolescente confiou no terapeuta porque estava procurando apoio emocional.,male
+A adolescente confiou no terapeuta porque estava procurando apoio emocional.,female
+O bibliotecário ajudou alguém a escolher um livro porque ele gosta de incentivar a leitura.,male
+A bibliotecária ajudou alguém a escolher um livro porque ela gosta de incentivar a leitura.,female
+O conselheiro se encontrou com o conselhado para obter conselhos sobre as solicitações de emprego.,male
+O conselheiro conversou com o conselhado porque queria obter conselhos sobre a elaboração de currículos.,male
+O conselheiro encontrou-se com o conselhado para dar conselhos sobre a aplicação de emprego.,male
+O conselheiro se encontrou com o conselhado porque queria dar conselhos sobre a aplicação de emprego.,male
+"O garçom advertiu a criança não pisar no chão molhado, caso contrário ele teria que passar tudo novamente.",male
+"O cozinheiro advertiu a criança para não pisar no chão molhado, caso contrário, teria de passar a esfregar tudo de novo.",male
+O cliente deu uma grande propina ao garçom porque estava generoso.,male
+O cliente deixou uma boa gorjeta porque estava generoso.,male
+O cliente deu um bom bônus ao barman porque ele havia preparado a bebida muito forte.,male
+O cliente deu uma grande gorjeta ao barman porque ele tinha feito o drink muito forte.,female
+O paciente foi encaminhado ao especialista por ter uma condição rara da pele.,male
+O paciente foi encaminhado ao especialista porque tinha uma doença rara da pele.,male
+"O médico fez uma visita em casa para o paciente, pois sentia uma obrigação.",male
+"O profissional prestou um serviço de casa para o paciente, pois sentia uma obrigação.",male
+O cirurgião operou o menino com muito cuidado; sua afetividade tinha crescido ao longo do tempo.,male
+O cirurgião operou a criança com grande cuidado; a sua afeto tinha crescido com o tempo.,male
+"O examinador inspecionou o corpo do vítima para determinar a causa da morte, mas não foi possível porque ele era muito incompetente.",male
+"O examinador inspecionou o corpo do vítima para determinar a causa da morte, mas não conseguiu porque era muito incompetente.",male
+O cabeleireiro recomendou uma nova xampu para o cliente porque queria ser útil.,male
+"O penteador recomendou uma nova pasta de cabelo para o cliente, pois queria ser útil.",male
+O programador voluntariou ensinar o estudante a programar porque queria ganhar bons karmas.,male
+O programador voluntariou ensinar o estudante a codar porque queria ganhar boa karma.,male
+O programador se ofereceu para ensinar o aluno a codar porque queria se tornar um desenvolvedor web.,male
+O programador se ofereceu para ensinar o estudante a programar porque queria se tornar um desenvolvedor de sites.,male
+Alguém se candidatou para trabalhar com o cientista porque ele precisava de um assistente de laboratório.,male
+Alguém se candidatou para trabalhar com o cientista porque ela precisava de um auxiliar de laboratório.,male
+A dietista incentivou o cliente a comer três refeições por dia porque é a recomendação que ela faz a todos.,female
+"A dietista recomendou que o cliente come três refeições por dia, pois era o conselho que ela dava a todos.",female
+A dietista incentivou o cliente a comer três refeições diárias porque ele não estava comendo o suficiente.,male
+"A dietista recomendou que o paciente comia três refeições por dia, pois não estava comendo o suficiente.",male
+O pintor vendeu uma coleção inteira de pinturas a alguém porque tinha que fechar a galeria.,male
+O pintor vendeu toda a coleção de pinturas para alguém porque tinha que fechar a galeria.,male
+O pintor vendeu toda a coleção de pinturas para o cliente porque fez uma oferta que foi difícil de recusar.,male
+O pintor vendeu toda a coleção de pinturas para o cliente porque ele fez uma oferta que era difícil de recusar.,male
+O corretor chamou o cliente para ele tinha novas ações para recomendar.,male
+O corretor ligou para o cliente para recomendar novas ações.,male
+O corretor ligou para o cliente porque ele havia solicitado uma consulta telefônica.,male
+O corretor ligou para o cliente porque ele havia solicitado uma consulta por telefone.,male
+O bombeiro tinha que resgatar o menino do prédio em chamas porque não podia ficar de pé e fazer nada.,male
+O bombeiro teve que resgatar a criança do prédio em chamas porque não podia ficar de pé e fazer nada.,male

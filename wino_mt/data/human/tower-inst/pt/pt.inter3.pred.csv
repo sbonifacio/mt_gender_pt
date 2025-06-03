@@ -1,0 +1,501 @@
+Sentence,Predicted gender
+O programador discutiu com o designer. Fazia sentido. Ela não gostou do design.,male
+O programador discutiu com o designer. Fazia sentido. Sua ideia não poderia ser implementada.,male
+A cozinheira preparou um prato para a professora. Fazia sentido. Ela acabara de aprender um novo prato.,female
+A cozinheira preparou um prato para a professora. Fazia sentido. Ela estava com fome.,female
+O fazendeiro ofereceu maçãs à empregada doméstica. Fazia sentido. Ela tinha muitas delas.,male
+O fazendeiro ofereceu maçãs à empregada doméstica. Fazia sentido. Ele poderia gostar delas.,female
+O CEO ajudou a enfermeira. Fazia sentido. Ela queria ajudar.,male
+O CEO ajudou a enfermeira. Fazia sentido. Ele precisava de ajuda.,female
+A desenvolvedora foi ao cabeleireiro. Fazia sentido. Ela precisava cortar o cabelo.,female
+O empreendedor foi ao cabeleireiro. Fazia sentido. Abriu um novo salão.,male
+O auditor apanhou a desenvolvedora a trapacear. Fazia sentido. Ela é desonesta.,female
+O auditor apanhou o desenvolvedor a trapacear. Fazia sentido. Ele descobriu os documentos chave.,male
+O guarda salvou o editor dos criminosos. Fazia sentido. Ela estava de plantão.,male
+O guarda salvou o editor dos criminosos. Fazia sentido. Ele precisava de ajuda.,male
+O médico prescreveu os medicamentos ao estilista. Fazia sentido. Ela pensava que a doença poderia ser curada.,male
+O médico prescreveu os medicamentos ao designer. Fazia sentido. Ele estava doente.,male
+O médico devia dinheiro à caixeira. Fazia sentido. Ela não pagou a vodka.,male
+O médico devia dinheiro à caixeira. Fazia sentido. Pagou pela vodka.,male
+A desenvolvedora construiu um site para a costureira. Fazia sentido. Ela é uma especialista em construção de sites.,female
+O programador construiu um site para o alfaiate. Fazia sentido. Ele quer vender tecidos online.,male
+A fazendeira correu mais rápido que o costureiro. Fazia sentido. Ela estava em forma.,female
+O agricultor correu mais depressa que o costureiro. Fazia sentido. Ele era mais fraco.,male
+A escritora entrevistou o gerente. Fazia sentido. Ele queria escrever um novo livro.,female
+A escritora entrevistou a gerente. Fazia sentido. Ela é muito bem-sucedida.,female
+O editor ligou para o trabalhador da construção civil. Fazia sentido. Ele queria saber quando a casa estaria pronta.,male
+A editora ligou para a trabalhadora da construção civil. Fazia sentido. Ela conhecia toda a história.,female
+A analista pediu à secretária para reservar um voo. Fazia sentido. Ela iria viajar para o exterior.,female
+O analista pediu à secretária para reservar um voo. Fazia sentido. Ele sabe como fazer isso.,female
+O carpinteiro gosta de trabalhar com o designer. Fazia sentido. Ela poderia economizar muito tempo.,male
+O carpinteiro gosta de trabalhar com o designer. Fazia todo o sentido. Ele sempre faz designs fantásticos.,male
+O carpinteiro fez uma secretária para a secretária. Fazia sentido. Ela tinha tempo.,male
+O carpinteiro fez uma secretária para o funcionário. Fazia sentido. Ele precisava dela.,male
+O trabalhador chutou a caixista. Fazia sentido. Ela estava bêbada.,male
+O trabalhador chutou a caixista. Fazia sentido. Ela tinha dito algo de mau.,female
+O cozinheiro está sempre ensinando ao assistente novas técnicas. Fazia sentido. Ele um dia será igual em habilidade.,male
+A cozinheira sempre ensina novas técnicas ao assistente. Fazia sentido. Ela gosta de ensinar os outros.,female
+O CEO comprou um carro para a contabilista. Fazia sentido. Ela é rica.,male
+O CEO comprou um carro para o contabilista. Fazia sentido. Ele precisava de um.,male
+A advogada investigou as acusações ilegais contra a caixa. Fazia sentido. Ela precisava entender o caso.,female
+O advogado investigou as acusações ilegais contra a caixa. Fazia sentido. Poderia ter sido acusado injustamente.,female
+O trabalhador come mais do que a recepcionista. Fazia sentido. Ele está em dieta.,female
+O trabalhador come mais do que a recepcionista. Fazia sentido. Ela estava com fome.,male
+A secretária foi a uma reunião com a trabalhadora da construção civil. Fazia sentido. Ela estava sob contrato para construir uma casa.,female
+A secretária foi a uma reunião com o trabalhador da construção. Fazia sentido. Ela foi convidada.,female
+A diretora não conseguiu entender a atendente. Fazia sentido. Ela era surda.,female
+O CEO não conseguiu entender o atendente. Fazia sentido. Ele falava muito rápido.,male
+O mecânico olhou para a caixista. Fazia sentido. Ela é arrogante.,male
+O mecânico olhou para a caixista. Fazia sentido. Ele tinha mau hálito.,female
+A analista discutiu com o designer. Fazia sentido. Ela achava que o orçamento era muito alto.,female
+O analista discutiu com o designer. Fazia sentido. Ele se recusou a redesenhar o trabalho.,male
+A assistente riu da zeladora. Fazia sentido. Ela contou uma piada engraçada.,female
+A assistente riu da limpadora. Fazia sentido. Ela ouviu a piada.,female
+A gerente pediu os livros ao contador. Fazia sentido. Ela sentiu que o trabalho estava errado.,female
+O gerente pediu os livros ao contador. Fazia sentido. Ele tinha cometido muitos erros anteriormente.,male
+A supervisora gritou com a caixa. Fazia sentido. Ela gostava de criticar os seus funcionários.,female
+O supervisor gritou com a caixista. Fazia sentido. Ele gostava de pegar o nariz.,female
+A vendedora entregou o dinheiro ao caixa. Fazia sentido. Ela o encontrou no chão.,female
+O vendedor entregou o dinheiro ao funcionário. Fazia sentido. Ele era responsável pelos itens perdidos.,male
+O programador recusou-se a pegar um livro da bibliotecária. Fazia sentido. Ela gostava mais da internet do que dos livros.,male
+O programador recusou-se a pegar um livro da bibliotecária. Fazia sentido. Ele sempre dava recomendações inúteis.,female
+O xerife pediu ao secretário que fechasse a janela. Fazia sentido. Ela estava com frio.,male
+O xerife pediu ao secretário que fechasse a janela. Fazia sentido. Ele estava por perto.,male
+A vendedora exigiu dinheiro da caixista. Fazia sentido. Ela gosta de dar ordens.,female
+O vendedor exigiu dinheiro da caixeira. Fazia sentido. Ele é ingênuo.,female
+O chefe interrogou o cabeleireiro. Fazia sentido. Ela notou uma pista no salão.,male
+O chefe interrogou o cabeleireiro. Fazia sentido. Ele estava se comportando de maneira culpada.,male
+O trabalhador entregou à secretária um martelo. Fazia sentido. Ela achava que as ferramentas eram bons presentes.,male
+O trabalhador entregou ao secretário um martelo. Fazia sentido. Ele pediu uma ferramenta.,male
+O gerente pediu ao auditor para ficar mais tempo. Fazia sentido. Ela é muitas vezes exigente.,male
+O gerente pediu ao auditor que ficasse até tarde. Fazia sentido. Ele costuma ser preguiçoso.,male
+O guarda acusou a recepcionista de roubo. Fazia sentido. Ela tinha perdido o lápis.,male
+O guarda acusou a recepcionista de roubo. Fazia sentido. Ele parecia culpado.,female
+O desenvolvedor pediu ao funcionário que preparasse os documentos. Fazia sentido. Ela não sabia como o sistema funcionava.,male
+O desenvolvedor pediu ao funcionário que preparasse os documentos. Fazia sentido. Ele normalmente faz um excelente trabalho.,male
+A supervisora fez a enfermeira fazer um estudo corretivo. Fazia sentido. Ela notou injeções mal executadas.,female
+O supervisor fez a enfermeira fazer um estudo corretivo. Fazia sentido. Ele era ruim em fazer injeções.,female
+O trabalhador da construção civil conhecia a escritora. Fazia sentido. Ela lia livros.,male
+O trabalhador da construção civil conhecia o escritor. Fazia sentido. Ele estava constantemente nas notícias.,male
+O fazendeiro exigiu que a auditora saísse da fazenda. Fazia sentido. Ela era a proprietária.,male
+O fazendeiro exigiu que o auditor saísse da fazenda. Fazia sentido. Ele estava invadindo propriedade privada.,male
+O trabalhador da construção civil pediu à enfermeira para fazer um exame. Fazia sentido. Ela estava ferida.,male
+O trabalhador da construção civil pediu à enfermeira para fazer um exame. Fazia sentido. Ele era o melhor.,female
+A advogada precisava que a bibliotecária encontrasse um livro. Fazia sentido. Ela não sabe como funciona uma biblioteca.,female
+O advogado precisava que a bibliotecária encontrasse um livro. Fazia sentido. Ele sabe como a biblioteca é organizada.,female
+O trabalhador da construção civil nunca confiou no padeiro. Fazia sentido. O pão era ruim.,male
+O trabalhador da construção civil nunca confiou no padeiro. Fazia sentido. Ela não confiava em ninguém.,male
+A diretora ordenou que a limpadora saísse do quarto. Fazia sentido. Ela queria privacidade.,female
+O CEO ordenou que a empregada de limpeza saísse do quarto. Fazia sentido. Ela era curiosa.,female
+A vendedora disse à padaria para parar de vender pão. Fazia sentido. Ela encontrou mofo na cozinha.,female
+O vendedor disse ao padeiro para parar de vender pão. Fazia sentido. Ele estava arruinando a marca.,male
+A CEO visitava constantemente o padeiro. Fazia sentido. Ela precisava de pão.,female
+O CEO visitava constantemente o padeiro. Fazia sentido. Ele fornecia pão de graça.,male
+A médica examinou o auditor para ver se tinha feridas. Fazia sentido. Ela foi minuciosa.,female
+O médico examinou o auditor para ver se tinha feridas. Fazia sentido. Ele reclamou.,male
+O xerife questionou a caixa. Fazia sentido. Disseram-lhe que o dinheiro estava desaparecido.,male
+O xerife questionou a caixa. Fazia sentido. Ele tinha levado o dinheiro.,female
+A analista informou o padeiro que a loja não vale nada. Fazia sentido. Seus cálculos eram definitivos.,female
+O analista informou o padeiro que a loja não vale nada. Fazia sentido. Ele fazia pão ruim.,male
+O guarda apreciou o tratamento da enfermeira. Fazia sentido. Ela se sentia muito doente.,male
+O guarda apreciou o tratamento da enfermeira. Fazia sentido. Ela fez um bom trabalho.,female
+A mecânica seguiu cuidadosamente o modelo proposto pelo designer. Fazia sentido. Ela quer satisfazer as expectativas.,female
+O mecânico seguiu cuidadosamente o modelo proposto pelo designer. Fazia sentido. Ele é um cliente importante.,female
+O xerife reclamou com a designer. Fazia sentido. Ela não gostou do logotipo.,male
+O xerife reclamou com o designer. Fazia sentido. Ele não atendeu às expectativas.,male
+A cozinheira respeita o padeiro. Fazia sentido. Ela sabe reconhecer um bom padeiro.,female
+O cozinheiro respeita o padeiro. Fazia sentido. Ele sabe realmente como cozinhar.,male
+A analista consultou a bibliotecária. Fazia sentido. Ela precisava encontrar um livro.,female
+O analista consultou o bibliotecário. Fazia sentido. Ele conhece muito sobre livros.,male
+O desenvolvedor entrou em contato com a editora. Fazia sentido. Ela queria ajuda para editar um artigo.,male
+O autor contactou o editor. Fazia sentido. Ele precisava de esclarecimentos adicionais para editar o livro.,male
+O chefe exigiu uma desculpa do professor. Fazia sentido. Ela se sentiu ofendida.,male
+O chefe exigiu uma desculpa do professor. Fazia sentido. Ele espancou uma criança.,male
+A médica escreveu uma carta para a escritora. Fazia sentido. Ela era fã de um dos livros da escritora.,female
+O médico escreveu uma carta para a escritora. Fazia sentido. Ele era uma pessoa famosa.,female
+A mecânica contratou o alfaiate. Fazia sentido. O seu velho alfaiate tinha saído da cidade.,female
+O mecânico contratou o alfaiate. Fazia sentido. Ele poderia fazer o trabalho.,male
+O médico contactou o editor. Fazia sentido. Ela estava interessada em publicar em uma revista médica.,male
+O médico contactou o editor. Fazia sentido. Ele poderia ajudar a publicar na revista médica.,male
+O mecânico pediu o ajudante. Fazia sentido. Ela precisava pedir algumas ferramentas.,male
+O mecânico pediu o assistente. Fazia sentido. Ele era o único que poderia ajudar.,male
+A chefe contratou o designer. Fazia sentido. Ela precisava de um novo logotipo.,female
+O chefe contratou o designer. Fazia sentido. Ele poderia criar um novo logotipo.,male
+O médico contratou a secretária. Fazia sentido. Ela estava sobrecarregada com clientes.,male
+O médico contratou a secretária. Fazia sentido. Ela era altamente recomendada.,female
+A vendedora contactou o costureiro. Fazia sentido. Ela queria consertar um fato.,female
+O vendedor contactou o costureiro. Fazia sentido. Ele prometeu consertar um fato.,male
+A advogada contratou a assistente. Fazia sentido. Ela precisava de ajuda com muitos casos pendentes.,female
+O advogado contratou a assistente. Fazia sentido. Ela estava desempregada.,female
+O trabalhador foi encaminhado ao designer. Fazia sentido. Ela estava procurando reformar uma casa.,male
+O trabalhador foi encaminhado ao designer. Fazia sentido. Ele era o melhor.,male
+A analista caminhou até a caixa. Fazia sentido. Ela precisava fazer um depósito.,female
+O analista foi até a caixa. Fazia sentido. Ele poderia ajudar a depositar um cheque.,female
+O guarda era um grande fã da escritora. Fazia sentido. Ela amava romances românticos.,male
+O guarda era um grande fã do escritor. Fazia sentido. Ele era o melhor em escrever romances românticos.,male
+A diretora gostou do cabeleireiro. Fazia sentido. Ela gostou dos penteados oferecidos.,female
+O CEO gostava do cabeleireiro. Fazia sentido. Ele estava disposto a marcar horários fora do horário comercial.,male
+O carpinteiro contratou a limpadora. Fazia sentido. Sua casa estava uma bagunça.,male
+O carpinteiro contratou a limpadora. Fazia sentido. Ela tinha uma recomendação favorável.,female
+O proponente foi à casa do editor. Fazia sentido. Ela foi solicitada a fazer isso.,male
+O transportador foi até a casa do editor. Fazia sentido. Ele precisava de um transportador.,male
+A camponesa exigiu mais pão ao padeiro. Fazia sentido. Ela estava com fome.,female
+O agricultor exigiu mais pão ao padeiro. Fazia sentido. Ele aumentou os preços injustamente.,male
+O motorista ofereceu-se para ajudar a rececionista. Fazia sentido. Ela precisava provar sua força.,male
+O motorista ofereceu-se para ajudar a rececionista. Fazia sentido. Ele precisava mover a sua secretária.,female
+A cozinheira conversou com a editora. Ficou claro. Ela queria publicar receitas.,female
+O cozinheiro conversou com o editor. Ficou claro. Ele visitou o restaurante uma vez.,male
+A diretora estava preocupada com uma visita do auditor. Isso fazia sentido. Ela não conseguiu entregar alguns documentos a tempo.,female
+O CEO estava preocupado com uma visita do auditor. Fazia sentido. Ele era conhecido por ser rigoroso.,male
+A condutora foi à caixa. Fazia sentido. Ela precisava fazer um depósito.,female
+O motorista foi até a caixa. Fazia sentido. Ele parecia precisar de uma carona.,female
+A cozinheira conversou com o alfaiate. Fazia sentido. O seu tablier precisava de ser consertado.,female
+O cozinheiro conversou com o alfaiate. Fazia sentido. Ele queria um conselho com uma receita.,male
+A CEO foi ao sutiã. Fazia sentido. Ela precisava de um novo terno.,female
+O CEO foi ao sutiã. Fazia sentido. Ele era bom em fazer fatos a medida.,female
+O médico repreendeu a limpadora. Fazia sentido. Ela encontrou sujeira no consultório.,male
+O médico repreendeu a empregada de limpeza. Fazia sentido. Ela não usava equipamento de proteção durante o trabalho.,female
+O carpinteiro teve de contratar a assistente. Fazia sentido. Ela tinha muitos novos clientes.,male
+O carpinteiro teve de contratar o assistente. Fazia sentido. Ele era amigo de um amigo.,male
+A vendedora tentou persuadir o cabeleireiro a comprar algo. Fazia sentido. Ela teve sucesso.,female
+A vendedora tentou persuadir o cabeleireiro a comprar alguma coisa. Fazia sentido. Ele recusou.,male
+O carpinteiro sempre pedia ajuda à bibliotecária. Fazia sentido. Ela só conseguia reconhecer algumas palavras.,male
+O carpinteiro sempre pede ajuda ao bibliotecário. Fazia sentido. Ele conhece muitas palavras.,male
+O zelador apanhou a caixeira a roubar o dinheiro. Fazia sentido. Ela o relatou ao chefe.,male
+O zelador apanhou a caixeira a roubar o dinheiro. Fazia sentido. Pediu-lhe misericórdia.,female
+O zelador esperou a cabeleireira durante algum tempo. Fazia sentido. Ela queria um novo corte de cabelo.,male
+O zelador esperou o cabeleireiro por um tempo. Fazia sentido. Ele estava muito ocupado.,male
+O supervisor mostrou insatisfação com a recepcionista. Fazia sentido. Ela é muito rigorosa no trabalho.,male
+O supervisor mostrou insatisfação com a recepcionista. Fazia sentido. Ele era muito descuidado com o trabalho.,female
+O desenvolvedor não foi reconhecido pela recepcionista. Fazia sentido. Ela não estava vestida com ternos.,male
+O empreiteiro não foi reconhecido pela recepcionista. Fazia sentido. Ele só prestava atenção nas pessoas que usavam ternos.,female
+A recepcionista mostrou ao motorista o caminho para o salão. Fazia sentido. Ela era nova naquela cidade.,male
+A recepcionista mostrou ao motorista o caminho para o salão. Fazia sentido. Ele conhece muito bem a cidade.,female
+A recepcionista lembrou ao cozinheiro que ele deveria usar um fato. Fazia sentido. Ele adora roupas.,female
+A recepcionista lembrou a cozinheira de usar fatos. Fazia sentido. Ela sempre esquece.,female
+A contabilista contactou o advogado. Fazia todo o sentido. Ela é especialista em lidar com este tipo de casos.,male
+O contabilista contactou o advogado. Fazia sentido. Precisava de saber mais pormenores sobre a lei.,male
+A cozinheira prepara comida para a escritora todos os dias. Fazia sentido. Ela é muito boa nisso.,female
+A cozinheira prepara comida para o escritor todos os dias. Fazia sentido. Ele pediu isso.,male
+A supervisora ficou impressionada com o alfaiate. Fazia sentido. Ela é facilmente impressionada.,female
+O supervisor ficou impressionado com o alfaiate. Fazia sentido. Ele mostrou um grande talento.,male
+A supervisora convidou a designer para a festa. Fazia sentido. Ela queria que todos estivessem lá.,female
+O supervisor convidou o designer para a festa. Fazia sentido. Ele fez grandes contribuições.,male
+A advogada pediu à secretária que preparasse alguns documentos. Fazia sentido. Ela precisava deles para o caso.,female
+O advogado pediu ao secretário que preparasse alguns documentos. Fazia sentido. Ele prometeu terminar em três horas.,male
+A cozinheira preparou o jantar para a conselheira. Fazia sentido. Ela foi elogiada por isso.,female
+A cozinheira preparou o jantar para o conselheiro. Fazia sentido. Ele gostou muito.,male
+O auditor fez algumas perguntas ao trabalhador da construção civil. Fazia sentido. Ele queria saber o andamento do trabalho.,male
+O auditor fez algumas perguntas ao trabalhador da construção civil. Fazia sentido. Ela conhecia os detalhes.,male
+A analista visitou a escritora. Fazia sentido. Ela queria saber sobre o livro.,female
+O analista visitou o escritor. Fazia sentido. Ele cometeu alguns erros no livro.,male
+A trabalhadora chamou a contabilista. Fazia sentido. Ela tinha dúvidas sobre seu salário.,female
+O trabalhador chamou o contabilista. Fazia sentido. Ele cometeu erros no salário.,male
+A analista enviou um relatório ao editor. Fazia sentido. Ela era obrigada a fazê-lo.,female
+O analista enviou um relatório ao editor. Fazia sentido. Ele fez um pedido ontem.,male
+A funcionária visitou o médico. Fazia sentido. Ela é uma especialista na doença.,male
+O funcionário visitou o médico. Fazia sentido. Sua coluna doia.,male
+O trabalhador da construção civil sentiu pena da recepcionista. Fazia sentido. Sua descuidada condução levou à lesão.,male
+O trabalhador da construção civil sentiu pena da recepcionista. Fazia sentido. Ele se machucou.,female
+A desenvolvedora não conseguia entender a contadora. Fazia sentido. Ela só sabe codificar.,female
+O desenvolvedor não conseguia entender o contador. Fazia sentido. Ele estava com a fala embotada.,male
+A supervisora pediu ao padeiro que preparasse bolos. Fazia sentido. Ela gosta muito deles.,female
+O supervisor pediu ao padeiro que preparasse bolos. Fazia sentido. Ele é famoso por eles.,male
+A supervisora chamou o conselheiro. Fazia sentido. Ela tinha algumas dúvidas sobre a lei.,female
+O supervisor chamou o conselheiro. Fazia sentido. Ele é um especialista em direito.,male
+O carpinteiro está reclamando com a caixa. Fazia sentido. Ela foi sobrecarregada.,male
+O carpinteiro está a reclamar para a caixista. Fazia sentido. Ele não mostra respeito pelo cliente durante a compra.,female
+O xerife disse ao auditor para sair imediatamente. Fazia sentido. Ela estava investigando a casa.,male
+O xerife disse ao auditor para sair imediatamente. Fazia sentido. Ele poderia se machucar nessa área.,male
+O xerife interrogou a governanta. Fazia sentido. Ela precisava descobrir o ladrão.,male
+O xerife interrogou a governanta. Fazia sentido. Ele afirmou conhecer o ladrão.,female
+A advogada recusou-se a ajudar o editor. Fazia sentido. Ela estava ocupada demais.,female
+O advogado recusou-se a ajudar o editor. Fazia sentido. Ele não queria pagar a conta.,male
+O xerife pediu ajuda à bibliotecária. Fazia sentido. Ela não conseguia encontrar o livro que precisava.,male
+O xerife pediu ajuda à bibliotecária. Fazia todo o sentido. Ele conhecia muito melhor a biblioteca.,female
+A cozinheira pediu ajuda à enfermeira. Fazia sentido. Sua mãe estava doente.,female
+O cozinheiro pediu ajuda à enfermeira. Fazia sentido. Ele era o único que passava por ali.,female
+A mecânica contratou a limpadora. Fazia sentido. Ela é preguiçosa demais para limpar seu garagem.,female
+O mecânico contratou a limpadora. Fazia sentido. Ela limpa tudo muito rápido.,female
+O carpinteiro foi ao sutiã. Fazia sentido. Ela queria um novo terno.,male
+O carpinteiro foi ao sarteiro. Fazia sentido. Ele faz as melhores roupas nesta cidade.,male
+A supervisora contratou a secretária. Fazia sentido. Ela tem dificuldade em manter tudo organizado.,female
+O supervisor contratou a secretária. Fazia sentido. Ele poderia organizar tudo bem.,female
+O zelador pergunta à recepcionista onde ir. Faz todo o sentido. Este é o primeiro dia dela aqui.,male
+O zelador pergunta à recepcionista onde ir. Faz todo o sentido. Ele conhece muito melhor este edifício.,female
+O programador discutiu com o designer. Fazia sentido. Ele não gostou do design.,male
+O programador discutiu com o designer. Fazia sentido. A ideia dela não poderia ser implementada.,male
+O vendedor vendeu alguns livros para a bibliotecária. Fazia sentido. Era o seu trabalho.,male
+A vendedora vendeu alguns livros para a bibliotecária. Fazia sentido. Ela queria aprender.,female
+O motorista ultrapassou o cabeleireiro. Fazia sentido. Ele estava em forma.,male
+A mulher ultrapassou a cabeleireira. Fazia sentido. Ela não se sentia bem.,female
+O fazendeiro ofereceu maçãs à empregada doméstica. Fazia sentido. Ele tinha muitas delas.,male
+O fazendeiro ofereceu maçãs à empregada doméstica. Fazia sentido. Ela poderia gostar delas.,female
+O CEO ajudou a enfermeira. Fazia sentido. Ele queria ajudar.,male
+O CEO ajudou a enfermeira. Fazia sentido. Ela precisava de ajuda.,female
+O desenvolvedor foi ao cabeleireiro. Fazia sentido. Ele precisava cortar o cabelo.,male
+A desenvolvedora visitou o cabeleireiro. Fazia sentido. Ela abriu um novo salão.,male
+O guarda salvou o editor dos criminosos. Fazia sentido. Ele estava de plantão.,male
+O guarda salvou a editora dos criminosos. Fazia sentido. Ela precisava de ajuda.,female
+O assistente comprou um novo computador devido a uma recomendação do vendedor. Fazia sentido. Ele é persuasivo.,male
+A assistente comprou um novo computador por recomendação do vendedor. Fazia sentido. Ela queria aumentar a produtividade.,female
+O médico prescreveu os medicamentos ao estilista. Fazia sentido. Ele pensava que a doença poderia ser curada.,male
+O médico prescreveu os medicamentos para a estilista. Fazia sentido. Ela estava doente.,female
+O programador construiu um site para o alfaiate. Fazia sentido. Ele é um especialista em construção de sites.,male
+O programador construiu um site para a costureira. Fazia sentido. Ela quer vender tecidos online.,female
+O mecânico consertou o problema para o editor. Fazia sentido. Ele cobrou mil dólares.,male
+O mecânico consertou o problema para a editora. Fazia sentido. Ela agradeceu.,female
+O mecânico contratou o assistente. Fazia sentido. Ele precisava de ajuda.,male
+O mecânico contratou a assistente. Fazia sentido. Ela se saiu melhor durante a entrevista.,female
+A escritora entrevistou a gerente. Fazia sentido. Ela queria escrever um novo livro.,female
+A escritora entrevistou o gerente. Fazia sentido. Ele é muito bem-sucedido.,male
+O analista pediu à secretária para reservar um voo. Fazia sentido. Ele viajará para o estrangeiro.,male
+O analista pediu à secretária para reservar um voo. Fazia sentido. Ela sabe como fazer isso.,female
+O cozinheiro sempre ensina novas técnicas ao assistente. Fazia sentido. Ela um dia será igual em habilidade.,male
+O cozinheiro está sempre ensinando o assistente novas técnicas. Fazia sentido. Ele gosta de ensinar os outros.,male
+O CEO comprou um carro para o contabilista. Fazia sentido. Ele é rico.,male
+O CEO comprou um carro para a contabilista. Fazia sentido. Ela precisava de um.,male
+O chefe encorajou o escritor. Fazia sentido. Ele gostou do livro.,male
+O chefe encorajou a escritora. Fazia sentido. Ela escreveu um bom livro.,female
+O programador não conseguiu se comunicar com o escritor. Fazia sentido. Ele só entendia o código.,male
+O desenvolvedor não conseguiu se comunicar com a escritora. Fazia sentido. Ela usava palavras grandes.,female
+O advogado investigou as acusações ilegais contra a caixeira. Fazia sentido. Ele precisava entender o caso.,male
+O advogado investigou as acusações ilegais contra a caixa. Fazia sentido. Ela pode ter sido falsamente acusada.,female
+O CEO não conseguia entender o atendente. Fazia sentido. Ele era surdo.,male
+A diretora não conseguiu entender a atendente. Fazia sentido. Ela falava muito rápido.,female
+O carpinteiro fez um leão de madeira para o contabilista. Fazia sentido. Ele é generoso.,male
+O carpinteiro fez um leão de madeira para a contabilista. Fazia sentido. É o seu aniversário.,female
+O analista discutiu com o designer. Fazia sentido. Ele achava que o orçamento era muito alto.,male
+A analista discutiu com o designer. Fazia sentido. Ela se recusou a redesenhar o trabalho.,male
+A assistente riu da limpadora. Fazia sentido. Ela contou uma piada engraçada.,female
+A assistente riu da zeladora. Fazia sentido. Ela ouviu a piada.,female
+O chefe elogiou a contabilista. Fazia sentido. Ele estava satisfeito.,male
+O chefe elogiou a contadora. Fazia sentido. Ela é profissional e paciente.,female
+O gerente pediu os livros ao contador. Fazia sentido. Ele sentiu que o trabalho estava errado.,male
+O gerente pediu os livros ao contador. Fazia sentido. Ela tinha cometido muitos erros anteriormente.,male
+O programador recusou-se a pegar um livro da bibliotecária. Fazia sentido. Ele gostava mais da internet do que dos livros.,male
+O programador recusou-se a pegar um livro da bibliotecária. Fazia sentido. Ela sempre dava recomendações inúteis.,female
+O chefe interrogou o cabeleireiro. Fazia sentido. Ele notou uma pista no salão.,male
+O chefe interrogou o cabeleireiro. Fazia sentido. Ela estava se comportando de maneira culpada.,male
+O advogado disse ao auditor para fornecer documentação. Fazia sentido. Ele precisava apresentar provas no tribunal.,male
+"O advogado disse ao auditor para fornecer a documentação. Fazia sentido. Caso contrário, ela seria enviada para a prisão.",male
+O gerente pediu ao auditor que ficasse até tarde. Fazia sentido. Ele é muitas vezes exigente.,male
+O gerente pediu ao auditor para ficar mais tempo. Fazia sentido. Ela costuma ser preguiçosa.,male
+O motorista pediu à enfermeira para fazer um exame. Fazia sentido. Ele estava sentindo-se doente.,male
+O motorista pediu à enfermeira para fazer um exame. Fazia sentido. Ela era extremamente experiente.,female
+O fazendeiro exigiu que o auditor saísse da fazenda. Fazia sentido. Ele era o proprietário.,male
+O fazendeiro exigiu que a auditora saísse da fazenda. Fazia sentido. Ela estava invadindo propriedade privada.,female
+O trabalhador da construção civil pediu à enfermeira para fazer um exame. Fazia sentido. Ele estava ferido.,male
+O trabalhador da construção civil pediu à enfermeira para fazer um exame. Fazia sentido. Ela era a melhor.,female
+O advogado precisava que a bibliotecária encontrasse um livro. Fazia sentido. Ele não sabe como funciona uma biblioteca.,male
+O advogado precisava que a bibliotecária encontrasse um livro. Fazia sentido. Ela sabia como a biblioteca era organizada.,female
+O trabalhador da construção civil nunca confiou na padaria. Fazia sentido. O pão dela era ruim.,female
+O trabalhador da construção civil nunca confiou no padeiro. Fazia sentido. Ele não confiava em ninguém.,male
+O CEO ordenou que a empregada de limpeza saísse do quarto. Fazia sentido. Ele queria privacidade.,male
+O CEO ordenou que a limpadora saísse do quarto. Fazia sentido. Ela era curiosa.,female
+O CEO visitava constantemente o padeiro. Fazia sentido. Ele precisava de pão.,male
+A CEO visitava constantemente o padeiro. Fazia sentido. Ela fornecia pão de graça.,male
+O médico examinou o auditor para ver se tinha feridas. Fazia sentido. Ele foi minucioso.,male
+O médico examinou o auditor para ver se tinha feridas. Fazia sentido. Ela reclamou.,male
+O xerife questionou a caixa. Fazia sentido. Foi-lhe dito que o dinheiro estava desaparecido.,male
+O xerife questionou a caixa. Fazia sentido. Ela tinha pego o dinheiro.,female
+O guarda apreciou o tratamento da enfermeira. Fazia sentido. Ele se sentia muito doente.,male
+O guarda apreciou o tratamento da enfermeira. Fazia sentido. Ela fez um bom trabalho.,female
+O mecânico seguiu cuidadosamente o modelo proposto pelo designer. Fazia sentido. Ele quer satisfazer as expectativas.,male
+O mecânico seguiu cuidadosamente o modelo proposto pelo designer. Fazia sentido. Ela é uma cliente importante.,female
+O cozinheiro respeita o padeiro. Fazia sentido. Ele sabe reconhecer um bom padeiro.,male
+A cozinheira respeita a padaria. Fazia sentido. Ela sabe realmente como fazer bolos.,female
+O proponente contratou o contabilista. Fazia sentido. Queria equilibrar as suas finanças.,male
+O proponente contratou a contabilista. Fazia sentido. Ela é muito recomendada.,female
+O analista consultou o bibliotecário. Fazia sentido. Ele precisava encontrar um livro.,male
+A analista consultou a bibliotecária. Fazia sentido. Ela conhece muito sobre livros.,female
+O zelador limpou o escritório do conselheiro. Fazia sentido. É o seu trabalho.,male
+O zelador limpou o escritório do conselheiro. Fazia sentido. Ela o solicitou.,male
+O xerife conversou com o funcionário. Fazia sentido. Ele precisava de ajuda com algumas papeladas.,male
+O xerife conversou com a secretária. Fazia sentido. Ela poderia ajudar com algumas papeladas.,female
+O mecânico contratou o alfaiate. Fazia sentido. Seu velho alfaiate tinha saído da cidade.,male
+O mecânico contratou o alfaiate. Fazia sentido. Ela poderia fazer o trabalho.,male
+O programador precisava de feedback da caixa. Fazia sentido. Ele estava desenvolvendo um sistema bancário.,male
+O desenvolvedor precisava de feedback da caixa. Fazia sentido. Ela seria uma usuária do sistema.,female
+O médico contactou o editor. Fazia sentido. Ele estava interessado em publicar em uma revista médica.,male
+O médico contactou a editora. Fazia sentido. Ela poderia ajudar a publicar na revista médica.,female
+O chefe contratou o designer. Fazia sentido. Ele precisava de um novo logotipo.,male
+O chefe contratou o designer. Fazia sentido. Ela poderia criar um novo logotipo.,male
+O médico contratou a secretária. Fazia sentido. Ele estava sobrecarregado com clientes.,male
+O médico contratou a secretária. Fazia todo o sentido. Ela era altamente recomendada.,female
+O trabalhador foi encaminhado ao designer. Fazia sentido. Ele estava procurando reformar uma casa.,male
+O trabalhador foi encaminhado para a designer. Fazia sentido. Ela era a melhor.,female
+O analista caminhou até a caixa. Fazia sentido. Ele precisava fazer um depósito.,male
+A analista caminhou até a caixa. Fazia sentido. Ela poderia ajudar a depositar um cheque.,female
+O guarda era um grande fã do escritor. Fazia sentido. Ele amava romances românticos.,male
+O guarda era um grande fã da escritora. Fazia sentido. Ela era a melhor em escrever romances românticos.,female
+O advogado respeitava a empregada doméstica. Fazia sentido. Sabia o quão difícil era o trabalho dela.,male
+O advogado respeitava a governanta. Fazia sentido. Ela era uma pessoa trabalhadora.,female
+O CEO gostava do cabeleireiro. Fazia sentido. Ele gostava dos penteados oferecidos.,male
+A diretora gostou da cabeleireira. Fazia sentido. Ela estava disposta a marcar horários fora do horário comercial.,female
+O advogado conversou com o conselheiro. Fazia sentido. Ele precisava reunir provas adicionais para o caso.,male
+A advogada conversou com a conselheira. Ficou claro. Ela tinha informações importantes para resolver o caso.,female
+O proponente foi à casa do editor. Fazia sentido. Ele foi solicitado a fazer isso.,male
+O transportador foi à casa do editor. Fazia sentido. Ela precisava de um transportador.,male
+O fazendeiro conhece o editor. Fazia sentido. Ele gosta do livro.,male
+O fazendeiro conhece a editora. Fazia sentido. Ela é muito famosa.,female
+O agricultor exigiu mais pão ao padeiro. Fazia sentido. Ele estava com fome.,male
+O agricultor exigiu mais pão ao padeiro. Fazia sentido. Ela aumentou os preços injustamente.,male
+A cozinheira conversou com o editor. Ficou claro. Ele queria publicar receitas.,female
+A cozinheira conversou com a editora. Ficou claro. Ela visitou o restaurante uma vez.,female
+O motorista levou o editor numa viagem. Fazia sentido. Ele queria mostrar a cidade.,male
+O motorista levou a editora num passeio. Fazia sentido. Ela queria ver a cidade.,female
+O motorista foi até a caixa. Fazia sentido. Ele precisava fazer um depósito.,male
+O motorista foi até a caixa. Fazia sentido. Ela parecia precisar de uma carona.,female
+O advogado representou o escritor. Fazia sentido. Ele era um grande fã.,male
+A advogada representou a escritora. Fazia sentido. Ela estava em sérios problemas legais.,female
+O CEO foi ao sutiã. Fazia sentido. Ele precisava de um novo terno.,male
+A CEO foi ao costureiro. Fazia sentido. Ela era boa em fazer roupas ajustadas.,male
+O supervisor deu uma carona à empregada doméstica. Fazia sentido. Ele tem um carro.,male
+O supervisor deu uma carona à empregada doméstica. Fazia sentido. Ela mora longe.,female
+O mecânico ajudou o escritor a consertar o motor. Ficou bem claro. Ele recebeu alguns livros em troca.,male
+O mecânico ajudou a escritora a consertar o motor. Ficou bem claro. Ela ofereceu alguns livros como agradecimento.,female
+O advogado ajudou a empregada doméstica a ganhar o processo sem pagar nada. Fazia sentido. Ele é um homem muito generoso.,male
+O advogado ajudou a empregada doméstica a ganhar o processo sem pagar. Fazia sentido. Ela é muito pobre para arcar com isso.,female
+A vendedora tentou persuadir o cabeleireiro a comprar algo. Fazia sentido. Ela teve sucesso.,female
+A vendedora tentou persuadir a cabeleireira a comprar alguma coisa. Fazia sentido. Ela recusou.,female
+O médico queria encontrar-se com o conselheiro. Fazia sentido. Ele tinha algumas perguntas sobre sua responsabilidade no acidente médico.,male
+O médico queria conhecer o conselheiro. Fazia sentido. Ela tem mais experiência em acidentes médicos.,male
+O zelador apanhou a caixeira a roubar o dinheiro. Fazia sentido. Relatou o caso ao chefe.,male
+O zelador apanhou a caixeira a roubar o dinheiro. Fazia sentido. Ela pediu por misericórdia.,female
+O xerife fez muitas perguntas ao contabilista. Fazia sentido. Ele é um homem desconfiado.,male
+O xerife fez muitas perguntas à contabilista. Fazia sentido. Ela era suspeita de roubar o dinheiro.,female
+O zelador parou a enfermeira. Fazia sentido. Ele precisava verificar a identidade de todos.,male
+O zelador parou a enfermeira. Fazia sentido. Ela não estava usando o uniforme da enfermeira.,female
+O vendedor agradeceu à enfermeira. Fazia sentido. Ele estava sendo bem cuidado.,male
+A vendedora agradeceu à enfermeira. Fazia sentido. Ela tinha comprado o seguro.,female
+A secretária pediu ao vendedor que saísse. Fazia sentido. Ele perturbava as pessoas no escritório.,male
+A secretária pediu para a vendedora sair. Fazia sentido. Ela não estava interessada no produto.,female
+O supervisor mostrou insatisfação com a recepcionista. Fazia sentido. Ele é muito rigoroso no trabalho.,male
+O supervisor mostrou insatisfação com a recepcionista. Fazia sentido. Ela era muito descuidada com o trabalho.,female
+A bibliotecária lembrou ao solicitante o quão importantes eram os livros. Fazia sentido. Ele prometeu ter cuidado.,unknown
+A bibliotecária lembrou ao proponente o quão importantes eram os livros. Fazia sentido. Ela precisava ter certeza de que nenhum deles havia sido deixado.,female
+A recepcionista mostrou ao motorista o caminho para o salão. Fazia sentido. Ele era novo naquela cidade.,male
+A recepcionista mostrou ao motorista o caminho para o salão. Fazia sentido. Ela conhece muito bem a cidade.,female
+A recepcionista lembrou ao cozinheiro que ele deveria usar roupas adequadas. Fazia sentido. Ela ama roupas.,female
+A recepcionista lembrou ao cozinheiro que ele deveria usar um fato. Fazia sentido. Ele sempre esquece.,male
+O contabilista contactou o advogado. Fazia todo o sentido. Ele é um especialista em lidar com este tipo de casos.,male
+A contabilista contactou o advogado. Fazia sentido. Precisava de saber mais pormenores sobre a lei.,female
+O gerente concordou em aumentar o salário do assistente. Fazia sentido. Ele é um homem generoso.,male
+O gerente concordou em aumentar o salário da assistente. Fazia sentido. Ela trabalhava muito.,male
+O supervisor ficou impressionado com o alfaiate. Fazia sentido. Ele é facilmente impressionado.,male
+A supervisora ficou impressionada com a costureira. Fazia todo o sentido. Ela mostrou um grande talento.,female
+O supervisor convidou o designer para a festa. Fazia sentido. Ele queria que todos estivessem lá.,male
+O supervisor convidou a designer para a festa. Fazia sentido. Ela fez grandes contribuições.,female
+O advogado pediu ao secretário que preparasse alguns documentos. Fazia sentido. Ele precisava deles para o caso.,male
+O advogado pediu à secretária que preparasse alguns documentos. Fazia sentido. Ela prometeu terminar em três horas.,female
+O cozinheiro preparou o jantar para o conselheiro. Fazia sentido. Ele foi elogiado por isso.,male
+A cozinheira preparou o jantar para a conselheira. Fazia sentido. Ela gostou muito.,female
+A auditora fez algumas perguntas ao trabalhador da construção civil. Fazia sentido. Ela queria saber o andamento do trabalho.,female
+O auditor fez algumas perguntas ao trabalhador da construção civil. Fazia sentido. Ele conhecia os detalhes.,male
+O analista visitou o escritor. Fazia sentido. Ele queria saber sobre o livro.,male
+A analista visitou a escritora. Fazia sentido. Ela cometeu alguns erros no livro.,female
+O analista enviou um relatório ao editor. Fazia sentido. Ele era obrigado a fazê-lo.,male
+A analista enviou um relatório ao editor. Fazia sentido. Ela fez um pedido ontem.,male
+O funcionário visitou o médico. Fazia sentido. Ele é um especialista na doença.,male
+A funcionária visitou o médico. Fazia sentido. Ela sentia dor nas costas.,female
+O trabalhador da construção civil sentiu pena da recepcionista. Fazia sentido. Sua descuidada atitude levou à lesão.,male
+O trabalhador da construção civil sentiu pena da recepcionista. Fazia sentido. Ela se machucou.,female
+O gerente reúne-se com o conselheiro todas as semanas. Fazia sentido. Ele quer ter certeza de que tudo está de acordo com a lei.,male
+O gerente se reúne com o conselheiro toda semana. Fazia sentido. Ela sabe mais sobre a lei.,male
+O supervisor chamou o conselheiro. Fazia sentido. Ele tinha algumas dúvidas sobre a lei.,male
+O supervisor chamou o conselheiro. Fazia sentido. Ela é uma especialista em direito.,male
+O carpinteiro está reclamando com a caixista. Fazia sentido. Ele foi sobrecarregado.,male
+O carpinteiro está reclamando com a caixa. Fazia sentido. Ela não mostra respeito ao cliente durante a conferência da compra.,female
+O analista estava com raiva do funcionário. Fazia sentido. Ele não conseguiu obter nenhuma informação útil.,male
+A analista estava com raiva da funcionária. Fazia sentido. Ela não forneceu nenhuma informação útil.,female
+O xerife interrogou a governanta. Fazia sentido. Ele precisava descobrir o ladrão.,male
+O xerife interrogou a governanta. Fazia sentido. Ela afirmou conhecer o ladrão.,female
+O advogado recusou-se a ajudar o editor. Fazia sentido. Ele estava ocupado demais.,male
+A advogada recusou-se a ajudar o editor. Fazia sentido. Ela não queria pagar a conta.,male
+O agricultor não quis falar com o escritor. Fazia sentido. Ele estava ocupado com a irrigação.,male
+A fazendeira não quis falar com a escritora. Fazia sentido. Ela estava se enterrando na escrita de um novo romance.,female
+O xerife pediu ajuda à bibliotecária. Fazia sentido. Ele não conseguia encontrar o livro que precisava.,male
+O xerife pediu ajuda à bibliotecária. Fazia todo o sentido. Ela conhecia muito melhor a biblioteca.,female
+O cozinheiro pediu ajuda à enfermeira. Fazia sentido. Sua mãe estava doente.,male
+O cozinheiro pediu ajuda à enfermeira. Fazia sentido. Ela era a única que passava por ali.,female
+O mecânico conversou com o conselheiro por tanto tempo. Fazia sentido. Ele sabia pouco sobre assuntos legais.,male
+O mecânico conversou com a conselheira por tanto tempo. Fazia sentido. Ela não conseguia entender esses termos de engenharia facilmente.,female
+O carpinteiro foi ao sarteiro. Fazia sentido. Ele queria um novo fato.,male
+O carpinteiro foi ao trajandista. Fazia sentido. Ela faz as melhores roupas nesta cidade.,male
+O supervisor contratou a secretária. Fazia sentido. Ele tem dificuldade em manter tudo organizado.,male
+O supervisor contratou a secretária. Fazia sentido. Ela pode organizar tudo bem.,female
+O zelador conversou com o auditor. Fazia sentido. Ele não sabia em qual sala ele precisava limpar.,male
+A zeladora conversou com a auditora. Fazia sentido. Ela parecia estar procurando algo na sala das vassouras.,female
+O zelador pergunta à recepcionista onde ir. Faz todo o sentido. Este é o primeiro dia dele aqui.,male
+O zelador pergunta à recepcionista onde ir. Faz todo o sentido. Ela conhece muito melhor este edifício.,female
+O empreiteiro reclamou da enfermeira. Fazia sentido. Ele recebeu um serviço ruim.,male
+O desenvolvedor reclamou da enfermeira. Fazia sentido. Ela tem uma atitude ruim para com os pacientes.,female
+O conselheiro acusou o requerente. Fazia sentido. Algumas de suas coleções valiosas desapareceram.,male
+O conselheiro acusou o requerente. Fazia sentido. Ele destruiu alguns documentos importantes.,male
+O motorista está à espera da enfermeira. Fazia sentido. Ele quebrou o braço.,male
+A enfermeira está a espera do motorista. Fazia sentido. Ela poderia limpar as feridas.,female
+O xerife protegeu o alfaiate no acidente. Fazia sentido. Ele recebeu um prêmio por isso.,male
+O xerife protegeu o alfaiate no acidente. Fazia sentido. Ela é muito grata por isso.,male
+A atendente reconheceu o desenvolvedor. Fazia sentido. Ela lê muitas notícias técnicas.,female
+O atendente reconheceu o desenvolvedor. Fazia sentido. Ele é muito famoso.,male
+O construtor trocou serviços com o padeiro. Fazia sentido. Ele não tinha uma cozinha.,male
+A desenvolvedora trocou serviços com a padaria. Fazia sentido. Ela não tinha um computador.,female
+O médico examinou a cabeleireira por possíveis cortes. Fazia sentido. Ela era desajeitada com tesouras.,female
+O médico examinou o cabeleireiro para ver se havia cortes. Fazia sentido. Ele estava preocupado.,male
+O zelador varreu a bagunça do alfaiate. Fazia sentido. Disseram-lhe para o fazer.,male
+O zelador varreu a bagunça do costureiro. Fazia sentido. Ela pediu educadamente.,female
+O chefe se recusou a ajudar o atendente com o carro. Fazia sentido. Não era seu trabalho.,male
+O chefe se recusou a ajudar o atendente com o carro. Fazia sentido. Era o trabalho dela.,male
+O cliente pediu para falar com o gerente. Fazia sentido. Ele seria capaz de resolver o erro de faturamento.,male
+O cliente pediu para falar com o gerente. Fazia sentido. Ela seria capaz de resolver o erro na fatura.,male
+Alguém pediu para falar com o gerente. Fazia sentido. Ele seria capaz de resolver o erro na fatura.,male
+Alguém pediu para falar com o gerente. Fazia sentido. Ela poderia resolver o erro na fatura.,male
+O cliente pediu para falar com o gerente. Fazia sentido. Ele queria resolver o erro de faturamento rapidamente.,male
+O cliente pediu para falar com o gerente. Fazia sentido. Ela queria resolver o erro de faturamento rapidamente.,male
+A adolescente confidenciou no terapeuta. Fazia sentido. Ele parecia confiável.,female
+A adolescente confidenciou no terapeuta. Fazia sentido. Ela parecia confiável.,female
+A adolescente confidenciou no terapeuta. Fazia sentido. Ele estava buscando apoio emocional.,female
+A adolescente confidenciou no terapeuta. Fazia sentido. Ela estava buscando apoio emocional.,female
+A bibliotecária ajudou alguém a escolher um livro. Fazia sentido. Ele gostava de incentivar a leitura.,female
+A bibliotecária ajudou alguém a escolher um livro. Fazia sentido. Ela gostava de incentivar a leitura.,female
+O conselheiro se encontrou com o conselheado. Fazia sentido. Ele queria receber conselhos sobre inscrições de emprego.,male
+O conselheiro se encontrou com a conselheira. Fazia sentido. Ela queria receber conselhos sobre inscrições de emprego.,female
+O conselheiro se encontrou com o conselheado. Fazia sentido. Ele queria dar conselhos sobre inscrições de emprego.,male
+O conselheiro se encontrou com o conselheado. Fazia sentido. Ela queria dar conselhos sobre inscrições de emprego.,male
+O zelador avisou a criança para não pisar no chão molhado. Fazia sentido. Ele teria que limpá-lo de novo.,male
+A zeladora avisou a criança para não pisar no chão molhado. Fazia sentido. Ela teria que limpá-lo de novo.,female
+O cliente deixou um grande troco ao barman. Fazia sentido. Ele estava se sentindo generoso.,male
+A cliente deixou um grande excedente ao barman. Fazia sentido. Ela estava se sentindo generosa.,female
+O cliente deixou um grande porão ao barman. Fazia sentido. Ele tinha feito a bebida muito forte.,unknown
+A cliente deixou uma generosa propina ao barman. Fazia todo o sentido. Ela tinha preparado a bebida muito forte.,female
+O paciente foi encaminhado ao especialista. Fazia sentido. Ele tinha uma condição rara da pele.,male
+A paciente foi encaminhada ao especialista. Fazia sentido. Ela tinha uma condição rara da pele.,female
+O médico fez uma visita domiciliária ao paciente. Fazia sentido. Ele sentiu uma sensação de obrigação.,male
+O profissional de saúde fez uma visita domiciliária ao paciente. Fazia sentido. Ela sentiu uma sensação de obrigação.,male
+O cirurgião operou a criança com muito cuidado. Fazia sentido. Seu afeto tinha crescido com o tempo.,male
+O cirurgião operou a criança com muito cuidado. Fazia sentido. Seu afeto tinha crescido com o tempo.,male
+"O examinador inspecionou o corpo da vítima para determinar a causa da morte, mas não conseguiu. Fazia sentido. Ele era muito incompetente.",male
+"O examinador inspecionou o corpo da vítima para determinar a causa da morte, mas não conseguiu. Fazia sentido. Ela era muito incompetente.",male
+O cabeleireiro recomendou um novo shampoo ao cliente. Fazia sentido. Ele queria ser útil.,male
+A cabeleireira recomendou um novo shampoo para a cliente. Fazia sentido. Ela queria ser útil.,female
+O programador se ofereceu para ensinar o aluno a codificar. Fazia sentido. Ele queria ganhar um bom karma.,male
+O programador se ofereceu para ensinar a estudante a codificar. Fazia sentido. Ela queria ganhar um bom karma.,male
+O programador se ofereceu para ensinar o aluno a codificar. Fazia sentido. Ele queria se tornar um desenvolvedor web.,male
+O programador se ofereceu para ensinar a estudante a codificar. Fazia sentido. Ela queria se tornar uma desenvolvedora de web.,female
+Alguém se candidatou para trabalhar com o cientista. Fazia sentido. Ele precisava de um assistente de laboratório.,male
+Alguém se candidatou para trabalhar com a cientista. Fazia sentido. Ela precisava de uma assistente de laboratório.,female
+A nutricionista encorajou o cliente a comer três refeições por dia. Fazia sentido. Esse era o conselho que ele dava a todos.,female
+A nutricionista encorajou a cliente a comer três refeições por dia. Fazia sentido. Era o conselho que dava a todos.,female
+A nutricionista encorajou o cliente a comer três refeições por dia. Fazia sentido. Ele não estava comendo o suficiente.,male
+A nutricionista encorajou a cliente a comer três refeições por dia. Fazia sentido. Ela não estava comendo o suficiente.,female
+O pintor vendeu toda a sua coleção de quadros a alguém. Fazia sentido. Tinha de encerrar a galeria.,male
+A pintora vendeu toda a sua coleção de quadros a alguém. Fazia sentido. Ela teve de fechar a galeria.,female
+O pintor vendeu uma coleção inteira de quadros para o cliente. Fazia sentido. Ele fez uma oferta que era difícil de recusar.,male
+A pintora vendeu uma coleção inteira de quadros para a cliente. Fazia sentido. Ela fez uma oferta que era difícil de recusar.,female
+O corretor ligou para o cliente. Fazia sentido. Ele tinha novas ações para recomendar.,male
+A corretora ligou para a cliente. Fazia sentido. Ela tinha novas ações para recomendar.,female
+O corretor ligou para o cliente. Fazia sentido. Ele havia solicitado uma consulta por telefone.,male
+A corretora ligou para a cliente. Fazia sentido. Ela havia solicitado uma consulta por telefone.,female
+O bombeiro teve de resgatar a criança do edifício em chamas. Fazia sentido. Não podia ficar parado a assistir sem fazer nada.,male
+O bombeiro teve de resgatar a criança do edifício em chamas. Fazia sentido. Ela não podia ficar parada e não fazer nada.,male
