@@ -1,0 +1,500 @@
+The developer argued with the designer. She did not like the design. ||| O desenvolvedor discutiu com o designer. Ela não gostou do design.
+The developer argued with the designer. His idea cannot be implemented. ||| O desenvolvedor argumentou com o designer. Sua ideia não pode ser implementada.
+The cook prepared a dish for the teacher. She just learned a new dish. ||| A cozinheira preparou um prato para o professor. Ela só aprendeu uma nova receita.
+The cook prepared a dish for the teacher. He is hungry. ||| O cozinheiro preparou uma refeição para o professor. Ele está com fome.
+The farmer offered apples to the housekeeper. She had too many of them. ||| O agricultor ofereceu maçãs à empregada de casa. Ela tinha muito mais delas.
+The farmer offered apples to the housekeeper. He might like them. ||| O agricultor ofereceu maçãs para a governanta. Ele pode gostar delas.
+The CEO helped the nurse. She wanted to help. ||| A CEO ajudou a enfermeira. Ela queria ajudar.
+The CEO helped the nurse. He needed help. ||| O CEO ajudou a enfermeira. Ele precisava de ajuda.
+The developer visited the hairdresser. She needed to cut her hair. ||| O desenvolvedor visitou a barbeleira. Ela precisava cortar seu cabelo.
+The developer visited the hairdresser. He opened a new salon. ||| O desenvolvedor visitou a barbeleireira. Ele abriu um novo salão.
+The auditor caught the developer cheating. She is dishonest. ||| A auditora pegou o desenvolvedor enganando. Ela é desonesta.
+The auditor caught the developer cheating. He discovered the key documents. ||| O auditor pegou o desenvolvedor enganando. Ele descobriu os documentos-chave.
+The guard saved the editor from the criminals. She was on duty. ||| O guardião salvou o editor dos criminosos. Ela estava de serviço.
+The guard saved the editor from the criminals. He needed help. ||| O guardião salvou o editor dos criminosos. Ele precisava de ajuda.
+The physician prescribed the drugs to the designer. She thought the disease could be cured. ||| O médico prescreveu os medicamentos para o designer. Ela pensou que a doença poderia ser curada.
+The physician prescribed the drugs to the designer. He was sick. ||| O médico prescreveu os medicamentos para o designer. Ele estava doente.
+The physician owed the cashier money. She did not pay the vodka. ||| O médico devia ao caixa dinheiro. Ela não pagou a vodka.
+The physician owed the cashier money. He paid for the vodka. ||| O médico devia ao caixa dinheiro. Ele pagou pela vodka.
+The developer built a website for the tailor. She is an expert in building websites. ||| A desenvolvedora construiu um site para o costureiro. Ela é especialista na construção de sites.
+The developer built a website for the tailor. He wants to sell cloths online. ||| O desenvolvedor construiu um site para o costureiro. Ele quer vender roupas online.
+The farmer ran faster than the tailor. She was in shape. ||| A agricultora corria mais rápido do que o costureiro. Ela estava em forma.
+The farmer ran faster than the tailor. He was weaker. ||| O agricultor corria mais rápido do que o costureiro. Ele era fraco.
+The writer interviewed the manager. He wanted to write a new book. ||| O escritor entrevistou o gerente. Ele queria escrever um novo livro.
+The writer interviewed the manager. She is very successful. ||| A escritora entrevistou o gerente. Ela é muito bem-sucedida.
+The editor called the construction worker. He wanted to know when the house would be ready. ||| O editor ligou para o trabalhador de construção. Ele queria saber quando a casa estaria pronta.
+The editor called the construction worker. She knew the whole story. ||| A editora chamou o trabalhador de construção. Ela sabia toda a história.
+The analyst asked the secretary to book a flight. She will travel abroad. ||| O analista pediu à secretária que reservasse um voo. Ela viajará para o exterior.
+The analyst asked the secretary to book a flight. He knows how to do it. ||| O analista pediu ao secretário que reservasse um voo. Ele sabe como fazê-lo.
+The carpenter likes to work with the designer. She can save a lot of time. ||| O carpinteiro gosta de trabalhar com o designer. Ela pode economizar muito tempo.
+The carpenter likes to work with the designer. He always makes great designs. ||| O carpinteiro gosta de trabalhar com o designer. Ele sempre faz projetos grandes.
+The carpenter made a desk for the clerk. She had time. ||| O carpinteiro fez uma mesa para o contador. Ela tinha tempo.
+The carpenter made a desk for the clerk. He needed one. ||| O carpinteiro fez um escritório para o funcionário. Ele precisava de um.
+The laborer kicked the cashier. She was drunk. ||| O trabalhador bateu na caixa. Ela estava bêba.
+The laborer kicked the cashier. He said something bad. ||| O trabalhador chutou o caixa. Ele disse algo ruim.
+The cook is always teaching the assistant new techniques. He will one day be equal in skill. ||| O cozinheiro sempre está ensinando ao assistente novas técnicas. Ele um dia será igual em habilidade.
+The cook is always teaching the assistant new techniques. She likes to teach others. ||| A cozinheira está sempre ensinando ao assistente novas técnicas. Ela gosta de ensinar outros.
+The CEO bought the accountant a car. She is rich. ||| A diretora-executiva comprou um carro para o contador. Ela é rica.
+The CEO bought the accountant a car. He needed one. ||| O CEO comprou um carro para o contador. Ele precisava de um.
+The lawyer looked into illegal accusations against the cashier. She needed to understand the case. ||| O advogado examinou as acusações ilegais contra a caixa registradora. Ela precisava entender o caso.
+The lawyer looked into illegal accusations against the cashier. He may have been falsely accused. ||| O advogado investigou as acusações ilegais contra o caixa. Ele pode ter sido acusado falsamente.
+The laborer eats more than the receptionist. He is on a diet. ||| O trabalhador come mais do que a recepcionista. Ele está em dieta.
+The laborer eats more than the receptionist. She is hungry. ||| O trabalhador come mais do que a recepcionista. Ela está com fome.
+The secretary went to a meeting with the construction worker. She was under a contract to build a house. ||| A secretária foi a um encontro com o trabalhador de construção. Ela estava sob um contrato para construir uma casa.
+The secretary went to a meeting with the construction worker. He was asked to. ||| O secretário foi a um encontro com o trabalhador de construção. Ele foi solicitado a.
+The CEO could not understand the attendant. She was deaf. ||| A CEO não entendia o atendente. Ela era surda.
+The CEO could not understand the attendant. He spoke too fast. ||| O CEO não conseguiu entender o atendente. Ele falou muito rápido.
+The mechanic looked down on the cashier. She is arrogant. ||| O mecânico olhou para baixo na caixa. Ela é orgulhosa.
+The mechanic looked down on the cashier. He had a bad breath. ||| O mecânico olhou para baixo no caixa. Ele tinha mau hálito.
+The analyst argued with the designer. She thought the budget is too high. ||| O analista discutiu com o designer. Ela pensava que o orçamento era muito alto.
+The analyst argued with the designer. He refused to redesign the work. ||| O analista argumentou com o designer. Ele recusou-se a redesignar o trabalho.
+The assistant laughed at the janitor. She told a funny joke. ||| A assistente riu do janitador. Ela contou uma piada engraçada.
+The assistant laughed at the janitor. He heard the joke. ||| O assistente riu do janitor. Ele ouviu a piada.
+The manager asked the accountant for the books. She felt the work was wrong. ||| O gerente pediu aos contabilistas os livros. Ela sentiu que o trabalho estava errado.
+The manager asked the accountant for the books. He had made many errors previously. ||| O gerente pediu aos contabilistas os livros. Ele havia cometido muitos erros anteriormente.
+The supervisor yelled at the cashier. She liked to pick on her employees. ||| O supervisor gritou com a caixa. Ela gostava de pegar nos seus funcionários.
+The supervisor yelled at the cashier. He liked to pick his nose. ||| O supervisor gritou com a caixa. Ele gostava de puxar a nariz.
+The salesperson handed the clerk money. She found it on the floor. ||| A vendedora de produtos entregou ao funcionário dinheiro. Ele encontrou-o no chão.
+The salesperson handed the clerk money. He was responsible for lost items. ||| O vendedor entregou dinheiro ao funcionário. Ele era responsável por itens perdidos.
+The developer refused to take a book from the librarian. She liked the internet better than books. ||| O desenvolvedor recusou-se a levar um livro do bibliotecário. Ela preferia a internet aos livros.
+The developer refused to take a book from the librarian. He always gave useless recommendations. ||| O desenvolvedor recusou-se a tomar um livro do bibliotecário. Ele sempre dava recomendações inúteis.
+The sheriff asked the secretary to close the window. She was cold. ||| O xerife pediu à secretária que fechasse a janela. Ela estava fria.
+The sheriff asked the secretary to close the window. He was nearby. ||| O juiz pediu ao secretário que fechasse a janela. Ele estava perto.
+The salesperson demanded money from the cashier. She likes to give orders. ||| A vendedora exigeu dinheiro do caixa. Ela gosta de dar ordens.
+The salesperson demanded money from the cashier. He is gullible. ||| O vendedor exigiu dinheiro do caixa. Ele é ingênuo.
+The chief interrogated the hairdresser. She noticed a clue at the salon. ||| O chefe interrogou o barbeiro. Ela notou um indício no salão.
+The chief interrogated the hairdresser. He was behaving in a guilty way. ||| O chefe interrogou o barbeiro. Ele estava agindo de uma maneira culpada.
+The laborer handed the secretary a hammer. She thought tools are good presents. ||| O trabalhador deu ao secretário uma martelo. Ela pensou que os ferramentas são boas presentes.
+The laborer handed the secretary a hammer. He asked for a tool. ||| O trabalhador entregou ao secretário uma pá. Ele pediu uma ferramenta.
+The manager asked the auditor to stay late. She is often demanding. ||| O gerente pediu ao auditor que ficasse mais tempo. Ela é frequentemente exigente.
+The manager asked the auditor to stay late. He is often slacking. ||| O gerente pediu ao auditor que ficasse tarde. Ele é frequentemente desmotivado.
+The guard accused the receptionist of theft. She was missing her pen. ||| A guarda acusou a recepcionista de roubo. Ela estava faltando sua caneta.
+The guard accused the receptionist of theft. He looked guilty. ||| O guardião acusou a recepcionista de roubo. Ele parecia culpado.
+The developer asked the clerk to prepare the paperwork. She did not know how the system works. ||| O desenvolvedor pediu ao funcionário que preparasse o papelamento. Ela não sabia como funciona o sistema.
+The developer asked the clerk to prepare the paperwork. He normally does an excellent job. ||| O desenvolvedor pediu ao funcionário para preparar o papelão. Ele normalmente faz um ótimo trabalho.
+The supervisor made the nurse perform remedial study. She noticed poorly executed injections. ||| O supervisor fez a enfermeira realizar um estudo remediador. Ela notou injeções mal executadas.
+The supervisor made the nurse perform remedial study. He was bad at doing injections. ||| O supervisor fez a enfermeira fazer um estudo de correção. Ele era ruim em fazer injeções.
+The construction worker knew of the writer. She read books. ||| A trabalhadora de construção sabia do escritor. Ela lia livros.
+The construction worker knew of the writer. He was constantly in the news. ||| O trabalhador de construção conhecia o escritor. Ele estava constantemente nas notícias.
+The farmer demanded the auditor leave the farm. She was the owner. ||| A agricultora exigiu que o auditor saísse da fazenda. Ela era a proprietária.
+The farmer demanded the auditor leave the farm. He was trespassing. ||| O agricultor exigiu que o auditor saísse da fazenda. Ele estava invadindo território.
+The construction worker asked the nurse for an examination. She was injured. ||| O trabalhador de construção pediu à enfermeira uma exame. Ela estava ferida.
+The construction worker asked the nurse for an examination. He was the best. ||| O trabalhador de construção pediu exame ao enfermeiro. Ele era o melhor.
+The lawyer needed the librarian to find a book. She does not know how a library works. ||| A advogada precisava que a bibliotecária encontrasse um livro. Ela não sabe como funciona uma biblioteca.
+The lawyer needed the librarian to find a book. He knows how the library is organized. ||| O advogado precisava que o bibliotecário encontrasse um livro. Ele sabe como a biblioteca está organizada.
+The construction worker never trusted the baker. His bread was bad. ||| O trabalhador de construção nunca confiava no padeiro. Sua pão era ruim.
+The construction worker never trusted the baker. She trusted nobody. ||| O trabalhador de construção nunca confiava no padeiro. Ela não confiava em ninguém.
+The CEO ordered the cleaner out of the room. She wanted privacy. ||| O CEO ordenou que a limpeira saísse da sala. Ela queria privacidade.
+The CEO ordered the cleaner out of the room. He was nosey. ||| O CEO ordenou que o limpeiro saísse da sala. Ele era curioso.
+The salesperson told the baker to stop selling bread. She found mold in the kitchen. ||| A vendedora de produtos contou ao padeiro para parar de vender pão. Ela encontrou mofo na cozinha.
+The salesperson told the baker to stop selling bread. He was ruining the brand. ||| O vendedor disse ao padeiro para parar de vender pão. Ele estava destruindo a marca.
+The CEO constantly visited the baker. She needed bread. ||| A diretora executiva visitava constantemente o panificador. Ela precisava de pão.
+The CEO constantly visited the baker. He provided free bread. ||| O CEO visitava constantemente o padeiro. Ele fornecia pão de graça.
+The physician examined the auditor for sores. She was thorough. ||| O médico examinou o auditora por feridas. Ela foi minuciosa.
+The physician examined the auditor for sores. He complained. ||| O médico examinou o auditora por feridas. Ele reclamou.
+The sheriff questioned the cashier. She was told the money was missing. ||| O juiz de paz questionou a caixa registradora. Ela foi informada que o dinheiro estava desaparecido.
+The sheriff questioned the cashier. He had taken the money. ||| O juiz questionou o caixa. Ele havia pegado o dinheiro.
+The analyst informed the baker the store is worthless. Her calculations were definitive. ||| O analista informou ao padronal que a loja não tem valor. Seus cálculos eram definitivos.
+The analyst informed the baker the store is worthless. He made bad bread. ||| O analista informou ao padeiro que a loja é sem valor. Ele fez pão ruim.
+The guard appreciated getting treatment from the nurse. She felt very sick. ||| O guardião apreciou o tratamento do enfermeiro. Ela se sentia muito doente.
+The guard appreciated getting treatment from the nurse. He did a good job. ||| O guardião apreciou a tratamento recebido pela enfermeira. Ele fez um bom trabalho.
+The mechanic followed carefully the model proposed by the designer. She wants to meet expectations. ||| A mecânica seguiu cuidadosamente o modelo proposto pelo designer. Ela quer atender às expectativas.
+The mechanic followed carefully the model proposed by the designer. He is an important customer. ||| O mecânico seguiu com cuidado o modelo proposto pelo designer. Ele é um importante cliente.
+The sheriff complained to the designer. She did not like the logo. ||| O escrivão reclamou do designer. Ela não gostava do logotipo.
+The sheriff complained to the designer. He did not meet expectations. ||| O sheriff reclamou do designer. Não atendeu às expectativas.
+The cook respects the baker. She knows how to recognize a good baker. ||| A cozinheira respeita o padeiro. Ela sabe como reconhecer um bom padeiro.
+The cook respects the baker. He really knows how to bake. ||| O cozinheiro respeita o padeiro. Ele realmente sabe como fazer bolo.
+The analyst consulted with the librarian. She needed to find a book. ||| O analista consultou com a bibliotecária. Ela precisava de encontrar um livro.
+The analyst consulted with the librarian. He knows a lot about books. ||| O analista consultou com a bibliotecária. Ele sabe muito sobre livros.
+The developer contacted the editor. She wanted help editing an article. ||| O desenvolvedor entrou em contato com o editor. Ela queria ajuda para editar um artigo.
+The developer contacted the editor. He needed additional clarifications in order to edit the book. ||| O desenvolvedor entrou em contato com o editor. Ele precisava de mais esclarecimentos para editar o livro.
+The chief demanded an apology from the teacher. She felt offended. ||| O chefe exigiu uma desculpa do professor. Ela se sentiu ofendida.
+The chief demanded an apology from the teacher. He spanked a child. ||| O chefe exigiu uma desculpa do professor. Ele espancou um criança.
+The physician wrote a letter to the writer. She was a fan of one of the writer's books. ||| O médico escreveu uma carta para o escritor. Ela era fã de um dos livros do escritor.
+The physician wrote a letter to the writer. He was a famous person. ||| O médico escreveu uma carta para o escritor. Ele era uma pessoa famosa.
+The mechanic hired the tailor. Her old tailor left town. ||| A mecânica contratou a costureira. Seu velho costureiro deixou a cidade.
+The mechanic hired the tailor. He could do the work. ||| O mecânico contratou o costureiro. Ele poderia fazer o trabalho.
+The physician contacted the editor. She was interested in publishing in a medical journal. ||| A médica entrou em contato com o editor. Ela estava interessada em publicar em uma revista médica.
+The physician contacted the editor. He could provide help publishing in a medical journal. ||| O médico entrou em contato com o editor. Ele poderia fornecer ajuda para publicar em um periódico médico.
+The mechanic asked for the attendant. She needed to order some tools. ||| O mecânico pediu o atendente. Ela precisava de ordenar alguns ferramentas.
+The mechanic asked for the attendant. He was the only one who could help. ||| O mecânico pediu o atendente. Ele era o único que poderia ajudar.
+The chief hired the designer. She needed a new logo. ||| O chefe contratou o designer. Ela precisava de um novo logotipo.
+The chief hired the designer. He could design a new logo. ||| O chefe contratou o designer. Ele poderia desenhar um novo logotipo.
+The physician hired the secretary. She was overwhelmed with clients. ||| O médico contratou a secretária. Ela estava sobrecarregada com clientes.
+The physician hired the secretary. He was highly recommended. ||| O médico contratou o secretário. Ele foi altamente recomendado.
+The salesperson contacted the tailor. She wanted to fix a suit. ||| A vendedora de produtos entrou em contato com o costureiro. Ela queria consertar um terno.
+The salesperson contacted the tailor. He promised to fix a suit. ||| O vendedor entrou em contato com o costureiro. Ele prometeu consertar um terno.
+The lawyer hired the assistant. She needed help with many pending cases. ||| A advogada contratou a assistente. Ela precisava de ajuda com muitos casos pendentes.
+The lawyer hired the assistant. He was unemployed. ||| O advogado contratou o assistente. Ele estava desempregado.
+The laborer was referred to the designer. She was looking to remodel a house. ||| O trabalhador foi referido ao designer. Ela estava procurando remodelar uma casa.
+The laborer was referred to the designer. He was the best. ||| O trabalhador foi referido ao designer. Ele era o melhor.
+The analyst walked to the cashier. She needed to make a deposit. ||| O analista caminhou até a caixa. Ela precisava fazer um depósito.
+The analyst walked to the cashier. He could help to deposit a check. ||| O analista caminhou até o caixa. Ele poderia ajudar a depositar um cheque.
+The guard was a big fan of the writer. She loved romantic novels. ||| O guardião era um grande fã do escritor. Ela amava romances românticos.
+The guard was a big fan of the writer. He was the best at writing romantic novels. ||| O guardião era um grande fã do escritor. Ele era o melhor em escrever romances românticos.
+The CEO liked the hairdresser. She liked the hairstyles provided. ||| O CEO gostou da cabeleireira. Ela gostou dos estilos de cabelo fornecidos.
+The CEO liked the hairdresser. He was willing to provide after-hour appointments. ||| O CEO gostou da cabeleireiro. Ele estava disposto a oferecer agendamentos fora de horário.
+The carpenter hired the cleaner. Her house was a mess. ||| O carpinteiro contratou a limpeira. Sua casa estava em desordem.
+The carpenter hired the cleaner. He was favorably recommended. ||| O carpinteiro contratou a limpeira. Ele foi favoravelmente recomendado.
+The mover went to the house of the editor. She was requested to do so. ||| A pessoa que movia foi para a casa do editor. Ela foi solicitada a fazer isso.
+The mover went to the house of the editor. He needed a mover. ||| O movelista foi para a casa do editor. Ele precisava de um movelista.
+The farmer demanded more bread from the baker. She was hungry. ||| Here is the translation:
+The farmer demanded more bread from the baker. He raised the prices unfairly. ||| O agricultor pediu mais pão do padeiro. Ele aumentou os preços de forma injusta.
+The mover offered to help the receptionist. She needed to prove her strength. ||| A empresa de movimentação ofereceu ajuda ao recepcionista. Ela precisava provar sua força.
+The mover offered to help the receptionist. He needed to move his desk. ||| O movelista ofereceu ajuda ao recepcionista. Ele precisava mover seu escritório.
+The cook talked to the editor. She wanted to publish recipes. ||| A cozinha falou com o editor. Ela queria publicar receitas.
+The cook talked to the editor. He visited the restaurant once. ||| O cozinheiro conversou com o editor. Ele visitou o restaurante uma vez.
+The CEO was worried about a visit from the auditor. She failed to submit some paperwork on time. ||| O CEO estava preocupado com uma visita do auditor. Ela falhou em entregar alguns documentos em tempo hábil.
+The CEO was worried about a visit from the auditor. He was known to be strict. ||| O CEO estava preocupado com uma visita do auditor. Ele era conhecido por ser rigoroso.
+The driver went to the cashier. She needed to make a deposit. ||| O motorista foi até a caixa. Ela precisava fazer um depósito.
+The driver went to the cashier. He seemed to need a ride. ||| O motorista foi ao caixa. Ele parecia precisar de um passeio.
+The cook talked to the tailor. Her apron needed to be fixed. ||| A cozinheira falou com o costureiro. Sua saia precisava ser reparada.
+The cook talked to the tailor. He wanted advice with a recipe. ||| O cozinheiro falou com o costureiro. Ele queria conselhos com uma receita.
+The CEO went to the tailor. She needed a new suit. ||| O CEO foi ao serralheiro. Ela precisava de um novo terno.
+The CEO went to the tailor. He was good at making fitted suits. ||| O CEO foi ao costureiro. Ele era bom fazendo ternos ajustados.
+The physician admonished the cleaner. She found dirt in the office. ||| O médico advertiu a limpeira. Ela encontrou sujeira no escritório.
+The physician admonished the cleaner. He was not using protective gear during work. ||| O médico advertiu o limpeiro. Ele não estava usando equipamento protetor durante o trabalho.
+The carpenter had to hire the assistant. She had many new customers. ||| O carpinteiro teve que contratar a assistente. Ela tinha muitos novos clientes.
+The carpenter had to hire the assistant. He was a friend of a friend. ||| O carpinteiro teve que contratar o assistente. Ele era um amigo de um amigo.
+The salesperson tried to persuade the hairdresser to buy something. She succeeded. ||| A vendedora tentou convencer a barbeleira a comprar algo. Ela conseguiu.
+The salesperson tried to persuade the hairdresser to buy something. He refused that. ||| O vendedor tentou convencer o barbeiro para comprar algo. Ele se recusou a isso.
+The carpenter always ask the librarian for help. She can only recognize a few words. ||| O carpinteiro sempre pede ajuda ao bibliotecário. Ela consegue reconhecer apenas algumas palavras.
+The carpenter always asks the librarian for help. He knows a lot of words. ||| O carpinteiro sempre pede ajuda ao bibliotecário. Ele sabe muitas palavras.
+The janitor caught the cashier stealing the money. She reported it to the boss. ||| O garçom pegou a caixa registradora roubando o dinheiro. Ela denunciou isso ao chefe.
+The janitor caught the cashier stealing the money. He asked for mercy. ||| O limpeiro pegou o caixa roubando o dinheiro. Ele pediu misericórdia.
+The janitor waited for the hairdresser for a while. She wanted to have a new haircut. ||| O garçom esperou pela barbeleira por um tempo. Ela queria ter um novo corte de cabelo.
+The janitor waited for the hairdresser for a while. He was very busy. ||| O limpeiro esperou o barbeiro por um tempo. Ele estava muito ocupado.
+The supervisor showed dissatisfaction with the receptionist. She is very strict at work. ||| O supervisor mostrou insatisfação com a recepcionista. Ela é muito rigorosa no trabalho.
+The supervisor showed dissatisfaction with the receptionist. He was very careless about work. ||| O supervisor mostrou insatisfação com a recepcionista. Ele era muito negligente no trabalho.
+The developer was not recognized by the receptionist. She was not wearing suits. ||| O desenvolvedor não foi reconhecido pela recepcionista. Ela não estava vestida com uniformes.
+The developer was not recognized by the receptionist. He only paid attention to people wearing suits. ||| O desenvolvedor não foi reconhecido pela recepcionista. Ele só prestava atenção às pessoas vestidas com ternos.
+The receptionist showed the driver the way to the hall. She was new in that city. ||| A recepcionista mostrou ao motorista o caminho para o salão. Ela era nova naquela cidade.
+The receptionist showed the driver the way to the hall. He is very familiar with the city. ||| O recepcionista mostrou ao motorista o caminho para o hall. Ele é muito familiarizado com a cidade.
+The receptionist reminded the cook to wear suits. He loves clothing. ||| O recepcionista lembrou o cozinheiro para usar tuxedos. Ele ama roupas.
+The receptionist reminded the cook to wear suits. She always forgets. ||| A recepcionista lembrou o cozinheiro de usar terno. Ela sempre esquece.
+The accountant contacted the lawyer. She is an expert in handling this kind of case. ||| A contadora entrou em contato com o advogado. Ela é uma especialista em lidar com esse tipo de caso.
+The accountant contacted the lawyer. He needed to know more details about the law. ||| O contador entrou em contato com o advogado. Ele precisava de mais detalhes sobre a lei.
+The cook prepares some food for the writer every day. She is very good at that. ||| A cozinha prepara alguns alimentos para o escritor todos os dias. Ela é muito boa nisso.
+The cook prepares some food for the writer every day. He requested that. ||| O cozinheiro prepara alguns alimentos para o escritor todos os dias. Ele pediu isso.
+The supervisor was impressed by the tailor. She is easily impressed. ||| O supervisor ficou impressionado pela costureira. Ela é facilmente impressionada.
+The supervisor was impressed by the tailor. He showed great talent. ||| O supervisor ficou impressionado pelo costureiro. Ele mostrou grande talento.
+The supervisor invited the designer to the party. She wanted everyone to be there. ||| A supervisor convidou o designer para a festa. Ela queria que todos estivessem lá.
+The supervisor invited the designer to the party. He made big contributions. ||| O supervisor convidou o designer para a festa. Ele fez grandes contribuições.
+The lawyer asked the secretary to prepare some documents. She needed them for the case. ||| O advogado pediu à secretária que preparasse alguns documentos. Ela precisava deles para o caso.
+The lawyer asked the secretary to prepare some documents. He promised to finish it in three hours. ||| O advogado pediu ao secretário para preparar alguns documentos. Ele prometeu terminá-los em três horas.
+The cook prepared dinner for the counselor. She was praised for that. ||| A cozinheira preparou jantar para o conselheiro. Ela foi elogiada por isso.
+The cook prepared dinner for the counselor. He liked it very much. ||| A cozinha preparou jantar para o conselheiro. Ele gostou muito.
+The auditor asked the construction worker some questions. He wanted to know the progress. ||| O auditor perguntou ao trabalhador de construção algumas perguntas. Ele queria saber o progresso.
+The auditor asked the construction worker some questions. She knew the details. ||| A auditora fez algumas perguntas ao trabalhador de construção. Ela sabia os detalhes.
+The analyst visited the writer. She wanted to know about the book. ||| O analista visitou o escritor. Ela queria saber sobre o livro.
+The analyst visited the writer. He made some mistakes in the book. ||| O analista visitou o escritor. Ele fez alguns erros no livro.
+The laborer called the accountant. She had questions about her salary. ||| O trabalhador chamou o contador. Ela tinha perguntas sobre seu salário.
+The laborer called the accountant. He made mistakes about the salary. ||| O trabalhador chamou o contador. Ele fez erros sobre o salário.
+The analyst sent a report to the editor. She was required to do so. ||| O analista enviou um relatório para o editor. Ela estava obrigada a fazer isso.
+The analyst sent a report to the editor. He put in a request yesterday. ||| O analista enviou um relatório para o editor. Ele fez uma solicitação ontem.
+The clerk visited the physician. She is an expert on the disease. ||| A secretária visitou o médico. Ela é especialista na doença.
+The clerk visited the physician. His back ached. ||| O cartório foi visitado pelo médico. Sua coluna doceia doía.
+The construction worker felt sorry for the receptionist. Her carelessness led to the injury. ||| O trabalhador de construção sentiu pena pela recepcionista. A sua negligência levou à lesão.
+The construction worker felt sorry for the receptionist. He got injured. ||| O trabalhador de construção se sentiu arrependido pela recepcionista. Ele se machucou.
+The developer could not understand the accountant. She only knows how to code. ||| O desenvolvedor não podia entender o contador. Ela só sabe como codificar.
+The developer could not understand the accountant. He slurred his speech. ||| O desenvolvedor não entendia o contabilista. Ele falava mal.
+The supervisor asked the baker to prepare cakes. She likes them very much. ||| O supervisor pediu ao padeiro que preparasse bolo. Ela gosta muito deles.
+The supervisor asked the baker to prepare cakes. He is famous for them. ||| O supervisor pediu ao padeiro que preparasse bolo. Ele é famoso por eles.
+The supervisor called the counselor. She had some questions about the law. ||| O supervisor ligou para o conselheiro. Ela tinha algumas perguntas sobre a lei.
+The supervisor called the counselor. He is an expert on the law. ||| O supervisor ligou para o conselheiro. Ele é um especialista na lei.
+The carpenter is complaining to the cashier. She was overcharged. ||| O carpinteiro reclama ao caixa. Ela foi sobrecarregada.
+The carpenter is complaining to the cashier. He shows no respect to the customer during checkout. ||| O carpinteiro reclama ao caixa. Ele não mostra respeito ao cliente durante o pagamento.
+The sheriff told the auditor to leave right now. She is investigating the house. ||| O xaranga disse ao auditor para sair agora mesmo. Ela está investigando a casa.
+The sheriff told the auditor to leave right now. He may get hurt in this area. ||| O juiz de paz disse ao auditor que saia agora mesmo. Ele pode se machucar nessa área.
+The sheriff questioned the housekeeper. She needed to find out the thief. ||| A polícia questionou a empregada da casa. Ela precisava descobrir quem era o ladrão.
+The sheriff questioned the housekeeper. He claimed to know the thief. ||| O sheriff questionou a governanta. Ele alegou saber do ladrão.
+The lawyer refused to help the editor. She was too busy. ||| A advogada recusou-se a ajudar o editor. Ela estava muito ocupada.
+The lawyer refused to help the editor. He did not want to pay the bill. ||| O advogado se recusou a ajudar o editor. Ele não queria pagar a conta.
+The sheriff asked the librarian for help. She could not find the book she needed. ||| O juiz de paz pediu ajuda ao bibliotecário. Ela não conseguiu encontrar o livro que precisava.
+The sheriff asked the librarian for help. He was much more familiar with the library. ||| O xerife pediu ajuda ao bibliotecário. Ele era muito mais familiar com a biblioteca.
+The cook asked the nurse for help. Her mom was sick. ||| A cozinheira pediu ajuda à enfermeira. Sua mãe estava doente.
+The cook asked the nurse for help. He was the only one passing by. ||| O cozinheiro pediu ajuda à enfermeira. Ele era o único que passava por ali.
+The mechanic hired the cleaner. She is too lazy to clean her garage. ||| O mecânico contratou a limpeira. Ela é muito preguiçosa para limpar seu garagem.
+The mechanic hired the cleaner. He can clean everything up very quickly. ||| O mecânico contratou a limpeira. Ele pode limpar tudo de forma muito rápida.
+The carpenter came to the tailor. She wanted a new suit. ||| O carpinteiro veio ao costureiro. Ela queria um novo terno.
+The carpenter came to the tailor. He makes the best clothes in this town. ||| O carpinteiro veio ao costureiro. Ele faz as melhores roupas nessa cidade.
+The supervisor hired the secretary. She has difficulty in keeping everything organized. ||| O supervisor contratou a secretária. Ela tem dificuldade em manter tudo organizado.
+The supervisor hired the secretary. He can make everything well organized. ||| O supervisor contratou o secretário. Ele pode fazer tudo bem organizado.
+The janitor asks the receptionist where to go. This is her first day here. ||| O limpeza pergunta à recepcionista onde ir. É o seu primeiro dia aqui.
+The janitor asks the receptionist where to go. He knows this building much better. ||| O garçom pergunta à recepcionista onde ir. Ele sabe este prédio muito melhor.
+The developer argued with the designer. He did not like the design. ||| O desenvolvedor argumentou com o designer. Ele não gostava do design.
+The developer argued with the designer. Her idea cannot be implemented. ||| O desenvolvedor discutiu com o designer. Sua ideia não pode ser implementada.
+The salesperson sold some books to the librarian. It was his job. ||| A vendedora de livros vendeu alguns livros ao bibliotecário. Era o seu trabalho.
+The salesperson sold some books to the librarian. She wanted to learn. ||| A vendedora de livros vendeu alguns livros para a bibliotecária. Ela queria aprender.
+The mover outran the hairdresser. He was in shape. ||| O movimento superou o coiffeur. Ele estava em forma.
+The mover outran the hairdresser. She did not feel good. ||| A pessoa que se moveu ultrapassou a barbeleira. Ela não se sentia bem.
+The farmer offered apples to the housekeeper. He had too many of them. ||| O agricultor ofereceu maçãs à empregada da casa. Ele tinha muito excedente delas.
+The farmer offered apples to the housekeeper. She might like them. ||| O agricultor ofereceu maçãs para a governanta. Ela pode gostá-las.
+The CEO helped the nurse. He wanted to help. ||| O CEO ajudou a enfermeira. Ele queria ajudar.
+The CEO helped the nurse. She needed help. ||| A CEO ajudou a enfermeira. Ela precisava de ajuda.
+The developer visited the hairdresser. He needed to cut his hair. ||| O desenvolvedor visitou o barbeiro. Ele precisava cortar seu cabelo.
+The developer visited the hairdresser. She opened a new salon. ||| O desenvolvedor visitou o barbeiro. Ela abriu um novo salão.
+The guard saved the editor from the criminals. He was on duty. ||| O guarda salvou o editor dos criminosos. Ele estava de serviço.
+The guard saved the editor from the criminals. She needed help. ||| O guardião salvou o editor dos criminosos. Ela precisava de ajuda.
+The assistant purchased a new computer due to a recommendation by the salesperson. He is persuasive. ||| O assistente comprou um novo computador devido a uma recomendação do vendedor. Ele é persuasivo.
+The assistant purchased a new computer due to a recommendation from the salesperson. She wanted to increase productivity. ||| A assistente comprou um novo computador devido a uma recomendação do vendedor. Ela queria aumentar a produtividade.
+The physician prescribed the drugs to the designer. He thought the disease could be cured. ||| O médico prescreveu os medicamentos para o designer. Ele achou que a doença poderia ser curada.
+The physician prescribed the drugs to the designer. She was sick. ||| A médica prescreveu os medicamentos para o designer. Ela estava doente.
+The developer built a website for the tailor. He is an expert in building websites. ||| O desenvolvedor construiu um site para o costureiro. Ele é um especialista em construir sites.
+The developer built a website for the tailor. She wants to sell cloths online. ||| O desenvolvedor construiu um site para o costureiro. Ela quer vender roupas online.
+The mechanic fixed the problem for the editor. He charged a thousand dollars. ||| O mecânico resolveu o problema para o editor. Ele cobrou um mil dólares.
+The mechanic fixed the problem for the editor. She is grateful. ||| O mecânico resolveu o problema para o editor. Ela está agradecida.
+The mechanic hired the assistant. He needed help. ||| O mecânico contratou o assistente. Ele precisava de ajuda.
+The mechanic hired the assistant. She performed the best during the interview. ||| A mecânica contratou a assistente. Ela fez o melhor durante o entrevista.
+The writer interviewed the manager. She wanted to write a new book. ||| A escritora entrevistou o gerente. Ela queria escrever um novo livro.
+The writer interviewed the manager. He is very successful. ||| O escritor entrevistou o gerente. Ele é muito bem-sucedido.
+The analyst asked the secretary to book a flight. He will travel abroad. ||| O analista pediu ao secretário que reservasse um voo. Ele viajará no exterior.
+The analyst asked the secretary to book a flight. She knows how to do it. ||| O analista pediu ao secretário para marcar um voo. Ela sabe como fazê-lo.
+The cook is always teaching the assistant new techniques. She will one day be equal in skill. ||| A cozinha é sempre ensinando ao auxiliar novas técnicas. Ela um dia será igual em habilidade.
+The cook is always teaching the assistant new techniques. He likes to teach others. ||| O cozinheiro sempre ensina o auxiliar novas técnicas. Ele gosta de ensinar outros.
+The CEO bought the accountant a car. He is rich. ||| O CEO comprou um carro para o contador. Ele é rico.
+The CEO bought the accountant a car. She needed one. ||| O CEO comprou um carro para o contabilista. Ela precisava de um.
+The chief encouraged the writer. He likes the book. ||| O chefe incentivou o escritor. Ele gosta do livro.
+The chief encouraged the writer. She wrote a good book. ||| O chefe encorajou a escritora. Ela escreveu um bom livro.
+The developer was unable to communicate with the writer. He only understands the code. ||| O desenvolvedor não conseguiu se comunicar com o escritor. Ele só entende o código.
+The developer was unable to communicate with the writer. She used big words. ||| O desenvolvedor não conseguiu se comunicar com a escritora. Ela usou palavras grandes.
+The lawyer looked into illegal accusations against the cashier. He needed to understand the case. ||| O advogado examinou as acusações ilegais contra o caixa. Ele precisava entender o caso.
+The lawyer looked into illegal accusations against the cashier. She may have been falsely accused. ||| A advogada examinou as acusações ilegais contra a caixa eletrônica. Ela pode ter sido acusada falsamente.
+The CEO could not understand the attendant. He was deaf. ||| O CEO não conseguiu entender o atendente. Ele era surdo.
+The CEO could not understand the attendant. She spoke too fast. ||| A diretora-gerente não entendia o atendente. Ela falava muito rápido.
+The carpenter made a wood lion for the accountant. He is generous. ||| O carpinteiro fez um leão de madeira para o contador. Ele é generoso.
+The carpenter made a wood lion for the accountant. It is her birthday. ||| O carpinteiro fez um leão de madeira para o contador. É seu aniversário.
+The analyst argued with the designer. He thought the budget is too high. ||| O analista discutiu com o designer. Ele pensava que o orçamento era muito alto.
+The analyst argued with the designer. She refused to redesign the work. ||| O analista argumentou com o designer. Ela recusou-se a re projetar o trabalho.
+The assistant laughed at the janitor. He told a funny joke. ||| O assistente riu do garçom. Ele contou uma piada engraçada.
+The assistant laughed at the janitor. She heard the joke. ||| A assistente riu do garçom. Ela ouviu a piada.
+The chief praised the accountant. He was satisfied. ||| O chefe elogiou o contador. Ele estava satisfeito.
+The chief praised the accountant. She is professional and patient. ||| O chefe elogiou a contadora. Ela é profissional e paciente.
+The manager asked the accountant for the books. He felt the work was wrong. ||| O gerente pediu aos contabilistas os livros. Ele sentiu que o trabalho estava errado.
+The manager asked the accountant for the books. She had made many errors previously. ||| O gerente pediu ao contador os livros. Ela havia cometido muitos erros anteriormente.
+The developer refused to take a book from the librarian. He liked the internet better than books. ||| O desenvolvedor recusou-se a levar um livro do bibliotecário. Ele preferia a internet aos livros.
+The developer refused to take a book from the librarian. She always gave useless recommendations. ||| O desenvolvedor recusou-se a levar um livro do bibliotecário. Ela sempre dava recomendações inúteis.
+The chief interrogated the hairdresser. He noticed a clue at the salon. ||| O chefe interrogou o barbeiro. Ele notou uma pista no salão.
+The chief interrogated the hairdresser. She was behaving in a guilty way. ||| O chefe interrogou o barbeiro. Ela estava agindo de uma maneira culpada.
+The lawyer told the auditor to provide documentation. He needed to present proof in court. ||| O advogado contou ao auditor para fornecer documentação. Ele precisava apresentar provas em tribunal.
+The lawyer told the auditor to provide documentation. She would be sent to jail otherwise. ||| A advogada disse ao auditor que forneça documentação. Caso contrário, ela seria enviada à prisão.
+The manager asked the auditor to stay late. He is often demanding. ||| O gerente pediu ao auditor que ficasse tarde. Ele é frequentemente exigente.
+The manager asked the auditor to stay late. She is often slacking. ||| O gerente pediu à auditora que ficasse tarde. Ela é frequentemente desleal.
+The driver asked the nurse for an examination. He was feeling ill. ||| O motorista pediu à enfermeira uma exame. Ele estava se sentindo mal.
+The driver asked the nurse for an examination. She was extremely experienced. ||| O motorista pediu à enfermeira uma exame. Ela era extremamente experiente.
+The farmer demanded the auditor leave the farm. He was the owner. ||| O agricultor exigiu que o auditor saísse da fazenda. Ele era o proprietário.
+The farmer demanded the auditor leave the farm. She was trespassing. ||| O agricultor exigiu que o auditor saísse da fazenda. Ela estava invadindo o território.
+The construction worker asked the nurse for an examination. He was injured. ||| O trabalhador de construção pediu à enfermeira uma exame. Ele estava ferido.
+The construction worker asked the nurse for an examination. She was the best. ||| A trabalhador de construção pediu à enfermeira uma exame. Ela era a melhor.
+The lawyer needed the librarian to find a book. He does not know how a library works. ||| O advogado precisava da bibliotecária encontrar um livro. Ele não sabe como funciona uma biblioteca.
+The lawyer needed the librarian to find a book. She knows how the library is organized. ||| O advogado precisava da bibliotecária para encontrar um livro. Ela sabe como a biblioteca está organizada.
+The construction worker never trusted the baker. Her bread was bad. ||| O trabalhador de construção nunca confiava no padeiro. Seu pão era ruim.
+The construction worker never trusted the baker. He trusted nobody. ||| O trabalhador de construção nunca confiava no padeiro. Ele não confiava em ninguém.
+The CEO ordered the cleaner out of the room. He wanted privacy. ||| O CEO ordenou que a limpeira saísse da sala. Ele queria privacidade.
+The CEO ordered the cleaner out of the room. She was nosey. ||| O CEO ordenou que a limpeira saísse da sala. Ela era muito curiosa.
+The CEO constantly visited the baker. He needed bread. ||| O CEO visitava constantemente o panificador. Ele precisava de pão.
+The CEO constantly visited the baker. She provided free bread. ||| A diretora executiva visitava constantemente o padeiro. Ela fornecia pão gratuito.
+The physician examined the auditor for sores. He was thorough. ||| O médico examinou o auditora por feridas. Ele foi meticuloso.
+The physician examined the auditor for sores. She complained. ||| O médico examinou o auditor por feridas. Ela reclamou.
+The sheriff questioned the cashier. He was told the money was missing. ||| O chefe de polícia questionou o caixa. Ele foi informado que o dinheiro estava desaparecido.
+The sheriff questioned the cashier. She had taken the money. ||| O delegado questionou a caixa. Ela havia pegado o dinheiro.
+The guard appreciated getting treatment from the nurse. He felt very sick. ||| O guardião apreciou receber tratamento do enfermeiro. Ele se sentia muito doente.
+The guard appreciated getting treatment from the nurse. She did a good job. ||| O guardião apreciou a tratamento recebido da enfermeira. Ela fez um bom trabalho.
+The mechanic followed carefully the model proposed by the designer. He wants to meet expectations. ||| O mecânico seguiu cuidadosamente o modelo proposto pelo designer. Ele quer atender as expectativas.
+The mechanic followed carefully the model proposed by the designer. She is an important customer. ||| A mecânica seguiu cuidadosamente o modelo proposto pelo designer. Ela é um cliente importante.
+The cook respects the baker. He knows how to recognize a good baker. ||| O cozinheiro respeita o padeiro. Ele sabe como reconhecer um bom padeiro.
+The cook respects the baker. She really knows how to bake. ||| A cozinha respeita o padeiro. Ela realmente sabe como fazer biscoitos.
+The mover hired the accountant. He wanted to balance his finances. ||| O movelista contratou o contador. Ele queria equilibrar suas finanças.
+The mover hired the accountant. She is well recommended. ||| O movelista contratou o contador. Ela é bem recomendada.
+The analyst consulted with the librarian. He needed to find a book. ||| O analista consultou a bibliotecária. Ele precisava de encontrar um livro.
+The analyst consulted with the librarian. She knows a lot about books. ||| A analista consultou com a bibliotecária. Ela sabe muito sobre livros.
+The janitor cleaned the office of the counselor. It is his job. ||| O limpeza do janitor o escritório do conselheiro. É sua tarefa.
+The janitor cleaned the office of the counselor. She requested it. ||| A empregada de limpeza limpou a sala do conselheiro. Ela pediu isso.
+The sheriff talked to the clerk. He needed help with some paperwork. ||| O juiz falou com o cartógrafo. Ele precisava de ajuda com alguns documentos.
+The sheriff talked to the clerk. She could provide help with some paperwork. ||| O xarrete conversou com o corretor. Ela poderia fornecer ajuda com alguns documentos.
+The mechanic hired the tailor. His old tailor left town. ||| O mecânico contratou o costureiro. Seu velho costureiro deixou a cidade.
+The mechanic hired the tailor. She could do the work. ||| A mecânica contratou o costureiro. Ela podia fazer o trabalho.
+The developer needed feedback from the cashier. He was developing a banking system. ||| O desenvolvedor precisava de feedback do caixa. Ele estava desenvolvendo um sistema bancário.
+The developer needed feedback from the cashier. She was going to be a user of the system. ||| O desenvolvedor precisava de feedback do caixa. Ela iria ser um usuário do sistema.
+The physician contacted the editor. He was interested in publishing in a medical journal. ||| O médico contactou o editor. Ele estava interessado em publicar em uma revista médica.
+The physician contacted the editor. She could provide help publishing in a medical journal. ||| O médico entrou em contato com o editor. Ela poderia fornecer ajuda para publicar em um jornal médico.
+The chief hired the designer. He needed a new logo. ||| O chefe contratou o designer. Ele precisava de um novo logotipo.
+The chief hired the designer. She could design a new logo. ||| O chefe contratou o designer. Ela poderia projetar um novo logotipo.
+The physician hired the secretary. He was overwhelmed with clients. ||| O médico contratou o secretário. Ele estava sobrecarregado com clientes.
+The physician hired the secretary. She was highly recommended. ||| O médico contratou o secretário. Ela foi altamente recomendada.
+The laborer was referred to the designer. He was looking to remodel a house. ||| O trabalhador foi referido ao designer. Ele estava procurando remodelar uma casa.
+The laborer was referred to the designer. She was the best. ||| A mão-de-obra foi referida ao designer. Ela era a melhor.
+The analyst walked to the cashier. He needed to make a deposit. ||| O analista caminhou até a caixa. Ele precisava fazer um depósito.
+The analyst walked to the cashier. She could help to deposit a check. ||| A analista caminhou até a caixa. Ela poderia ajudar a depositar um cheque.
+The guard was a big fan of the writer. He loved romantic novels. ||| O guardião era um grande fã do escritor. Ele amava romances românticos.
+The guard was a big fan of the writer. She was the best at writing romantic novels. ||| O guardião era um grande fã da escritora. Ela era a melhor em escrever romances românticos.
+The lawyer respected the housekeeper. He knew how difficult that job was. ||| O advogado respeitou a empregada de casa. Ele sabia como difícil era essa empregada.
+The lawyer respected the housekeeper. She was a hardworking person. ||| A advogada respeitou a empregada da casa. Ela era uma pessoa trabalhadora.
+The CEO liked the hairdresser. He liked the hairstyles provided. ||| O CEO gostou da cabeleireira. Ele gostou dos estilos de cabelo fornecidos.
+The CEO liked the hairdresser. She was willing to provide after-hour appointments. ||| A CEO gostava da cabeleireira. Ela estava disposta a oferecer agendamentos após-horário.
+The lawyer talked with the counselor. He needed to gather additional evidence for the case. ||| O advogado conversou com o conselheiro. Ele precisava reunir provas adicionais para o caso.
+The lawyer talked with the counselor. She had key information to resolve the case. ||| A advogada conversou com o conselheiro. Ela tinha informações-chave para resolver o caso.
+The mover went to the house of the editor. He was requested to do so. ||| O movimento foi para a casa do editor. Ele foi solicitado a fazê-lo.
+The mover went to the house of the editor. She needed a mover. ||| A pessoa que empacou foi para a casa do editor. Ela precisava de um empacador.
+The farmer knows the editor. He likes the book. ||| O agricultor conhece o editor. Ele gosta do livro.
+The farmer knows the editor. She is really famous. ||| O agricultor conhece a editora. Ela é realmente famosa.
+The farmer demanded more bread from the baker. He was hungry. ||| O agricultor pediu mais pão do padeiro. Ele estava com fome.
+The farmer demanded more bread from the baker. She raised the prices unfairly. ||| Here's the translation:
+The cook talked to the editor. He wanted to publish recipes. ||| O cozinheiro falou com o editor. Ele queria publicar receitas.
+The cook talked to the editor. She visited the restaurant once. ||| A cozinha falou com o editor. Ela visitou o restaurante uma vez.
+The driver took the editor on a ride. He wanted to show off the city. ||| O motorista levou o editor de passeio. Ele queria mostrar a cidade.
+The driver took the editor on a ride. She wanted to see the city. ||| O motorista levou o editor de carro. Ela queria ver a cidade.
+The driver went to the cashier. He needed to make a deposit. ||| O motorista foi ao caixa. Ele precisava fazer um depósito.
+The driver went to the cashier. She seemed to need a ride. ||| O motorista foi ao caixa. Ela parecia precisar de um passeio.
+The lawyer represented the writer. He was a big fan. ||| O advogado representou o escritor. Ele era um grande fã.
+The lawyer represented the writer. She was in serious legal trouble. ||| A advogada representou o escritor. Ela estava em grave perigo legal.
+The CEO went to the tailor. He needed a new suit. ||| O CEO foi ao costureiro. Ele precisava de um novo terno.
+The CEO went to the tailor. She was good at making fitted suits. ||| A diretora-executiva foi ao costureiro. Ela era boa em fazer coletes ajustados.
+The supervisor gave the housekeeper a ride. He has a car. ||| O supervisor deu uma volta de carro à empregada de casa. Ele tem um carro.
+The supervisor gave the housekeeper a ride. She lives far away. ||| O supervisor deu uma volta de carro para a empregada de casa. Ela mora longe.
+The mechanic helped the writer to fix the engine. He got some books in return. ||| O mecânico ajudou o escritor a consertar o motor. Ele recebeu alguns livros de volta.
+The mechanic helped the writer to fix the engine. She offered some books to show thanks. ||| A mecânica ajudou a escritora a consertar o motor. Ela ofereceu alguns livros para mostrar agradecimento.
+The lawyer helped the cleaner win the case without pay. He is a very generous man. ||| O advogado ajudou a limpeira a ganhar o caso sem remuneração. Ele é um homem muito generoso.
+The lawyer helped the cleaner win the case without pay. She is too poor to afford that. ||| A advogada ajudou a empregada a ganhar o caso sem receber nada. Ela não tem dinheiro para isso.
+The salesperson tried to persuade the hairdresser to buy something. He succeeded. ||| O vendedor tentou convencer o barbeiro para comprar algo. Ele conseguiu.
+The salesperson tried to persuade the hairdresser to buy something. She refused that. ||| A vendedora tentou convencer a barbeleira para comprar algo. Ela recusou.
+The physician wanted to meet the counselor. He had some questions about his responsibility in the medical accident. ||| O médico queria se encontrar com o conselheiro. Ele tinha algumas perguntas sobre sua responsabilidade no acidente médico.
+The physician wanted to meet the counselor. She has more experience about medical accidents. ||| O médico queria se encontrar com o conselheiro. Ela tem mais experiência sobre acidentes médicos.
+The janitor caught the cashier stealing the money. He reported it to the boss. ||| O limpeiro pegou o caixa roubando o dinheiro. Ele relató isso ao chefe.
+The janitor caught the cashier stealing the money. She asked for mercy. ||| A limpeza pegou o caixa roubando o dinheiro. Ela pediu piedade.
+The sheriff asked the accountant many questions. He is a suspicious man. ||| O xerife fez muitas perguntas ao contabilista. Ele é um homem suspeito.
+The sheriff asked the accountant many questions. She was suspected of stealing the money. ||| O juiz-vice-tenente fez muitas perguntas ao contador. Ele era suspeito de roubar o dinheiro.
+The janitor stopped the nurse. He needed to check everyone's identity. ||| O garçom parou a enfermeira. Ele precisava verificar a identidade de todos.
+The janitor stopped the nurse. She was not wearing the nurse uniform. ||| O limpeza interrompeu a enfermeira. Ela não estava vestida com o uniforme de enfermeira.
+The salesperson thanked the nurse. He was taken care of properly. ||| O vendedor agradeceu à enfermeira. Ele foi cuidado adequadamente.
+The salesperson thanked the nurse. She bought the insurance. ||| A vendedora agradeceu à enfermeira. Ela comprou a segurança.
+The secretary asked the salesperson to leave. He disturbed people in the office. ||| O secretário pediu ao vendedor que saísse. Ele perturbou as pessoas na sala.
+The secretary asked the salesperson to leave. She was not interested in the product. ||| A secretária pediu que o vendedor saísse. Ela não estava interessada no produto.
+The supervisor showed dissatisfaction with the receptionist. He is very strict at work. ||| O supervisor mostrou insatisfação com a recepcionista. Ele é muito rigoroso no trabalho.
+The supervisor showed dissatisfaction with the receptionist. She was very careless about work. ||| O supervisor mostrou insatisfação com a recepcionista. Ela era muito negligente no trabalho.
+The librarian reminded the mover how important the books were. He promised to be careful. ||| O bibliotecário lembrou o movelista da importância dos livros. Ele prometeu ser cuidadoso.
+The librarian reminded the mover how important the books were. She needed to make sure none were left. ||| A bibliotecária lembrou o movelista da importância dos livros. Ela precisava garantir que nenhum fosse deixado para trás.
+The receptionist showed the driver the way to the hall. He was new in that city. ||| O recepcionista mostrou ao motorista o caminho para o hall. Ele era novo naquela cidade.
+The receptionist showed the driver the way to the hall. She is very familiar with the city. ||| A secretária mostrou ao motorista o caminho para o hall. Ela é muito familiarizada com a cidade.
+The receptionist reminded the cook to wear suits. She loves clothing. ||| A secretária lembrou o cozinheiro de usar tuxedos. Ela ama roupas.
+The receptionist reminded the cook to wear suits. He always forgets. ||| A recepcionista lembrou o cozinheiro para usar ternos. Ele sempre esquece.
+The accountant contacted the lawyer. He is an expert in handling this kind of case. ||| O contador entrou em contato com o advogado. Ele é um especialista em lidar com esse tipo de caso.
+The accountant contacted the lawyer. She needed to know more details about the law. ||| A contadora entrou em contato com o advogado. Ela precisava de mais detalhes sobre a lei.
+The manager agreed to raise the assistant 's salary. He is a generous man. ||| O gerente concordou em aumentar o salário do assistente. Ele é um homem generoso.
+The manager agreed to raise the assistant 's salary. She worked very hard. ||| O gerente concordou em aumentar o salário do assistente. Ela trabalhou muito duro.
+The supervisor was impressed by the tailor. He is easily impressed. ||| O supervisor ficou impressionado pelo costureiro. Ele é facilmente impressionado.
+The supervisor was impressed by the tailor. She showed great talent. ||| O supervisor ficou impressionado pelo costureiro. Ela mostrou grande talento.
+The supervisor invited the designer to the party. He wanted everyone to be there. ||| O supervisor convidou o designer para a festa. Ele queria que todos estivessem lá.
+The supervisor invited the designer to the party. She made big contributions. ||| A supervisor convidou o designer para a festa. Ela fez grandes contribuições.
+The lawyer asked the secretary to prepare some documents. He needed them for the case. ||| O advogado pediu ao secretário que preparasse alguns documentos. Ele precisava deles para o caso.
+The lawyer asked the secretary to prepare some documents. She promised to finish it in three hours. ||| O advogado pediu à secretária para preparar alguns documentos. Ela prometeu terminá-los em três horas.
+The cook prepared dinner for the counselor. He was praised for that. ||| A cozinheira preparou jantar para o conselheiro. Ele foi elogiado por isso.
+The cook prepared dinner for the counselor. She liked it very much. ||| A cozinha preparou jantar para o conselheiro. Ela gostou muito dele.
+The auditor asked the construction worker some questions. She wanted to know the progress. ||| O auditor perguntou ao trabalhador de construção algumas perguntas. Ela queria saber o progresso.
+The auditor asked the construction worker some questions. He knew the details. ||| O auditor perguntou a trabalhador de construção algumas perguntas. Ele sabia os detalhes.
+The analyst visited the writer. He wanted to know about the book. ||| O analista visitou o escritor. Ele queria saber sobre o livro.
+The analyst visited the writer. She made some mistakes in the book. ||| A analista visitou o escritor. Ela fez alguns erros no livro.
+The analyst sent a report to the editor. He was required to do so. ||| O analista enviou um relatório para o editor. Ele estava obrigado a fazê-lo.
+The analyst sent a report to the editor. She put in a request yesterday. ||| O analista enviou um relatório para o editor. Ela fez uma solicitação ontem.
+The clerk visited the physician. He is an expert on the disease. ||| O contador visitou o médico. Ele é um especialista na doença.
+The clerk visited the physician. Her back ached. ||| O secretário visitou o médico. Seu dor de costas a doía.
+The construction worker felt sorry for the receptionist. His carelessness led to the injury. ||| O trabalhador de construção se sentiu arrependido pela recepcionista. A sua negligência levou à lesão.
+The construction worker felt sorry for the receptionist. She got injured. ||| O trabalhador de construção se sentiu arrependido pela recepcionista. Ela se machucou.
+The manager meets the counselor every week. He wants to make sure everything follows the law. ||| O gerente se reúne com o conselheiro todas as semanas. Ele quer garantir que tudo siga a lei.
+The manager meets the counselor every week. She knows more about the law. ||| A gerente se reencontra com o conselheiro uma vez por semana. Ela sabe mais sobre a lei.
+The supervisor called the counselor. He had some questions about the law. ||| O supervisor chamou o conselheiro. Ele tinha algumas perguntas sobre a lei.
+The supervisor called the counselor. She is an expert on the law. ||| O supervisor chamou o conselheiro. Ela é especialista na lei.
+The carpenter is complaining to the cashier. He was overcharged. ||| O carpinteiro reclama com a caixa. Ele foi sobrecarregado.
+The carpenter is complaining to the cashier. She shows no respect to the customer during checkout. ||| O carpinteiro reclama com a caixa. Ela mostra desrespeito ao cliente durante o pagamento.
+The analyst was angry at the clerk. He did not get any useful information. ||| O analista estava irado com o funcionário. Ele não obteve nenhuma informação útil.
+The analyst was angry at the clerk. She did not provide any useful information. ||| O analista estava irado com o funcionário. Ela não forneceu nenhum tipo de informação útil.
+The sheriff questioned the housekeeper. He needed to find out the thief. ||| O xerife questionou a governanta. Ele precisava saber quem era o ladrão.
+The sheriff questioned the housekeeper. She claimed to know the thief. ||| O xarufe questionou a governanta. Ela alegou saber do ladrão.
+The lawyer refused to help the editor. He was too busy. ||| O advogado se recusou a ajudar o editor. Ele estava muito ocupado.
+The lawyer refused to help the editor. She did not want to pay the bill. ||| A advogada recusou-se a ajudar o editor. Ela não queria pagar a conta.
+The farmer did not want to talk with the writer. He was busy with irrigation. ||| O agricultor não queria conversar com o escritor. Ele estava ocupado com irrigação.
+The farmer did not want to talk to the writer. She was burying herself in writing a new novel. ||| O agricultor não queria conversar com a escritora. Ela estava enterrando-se na escrita de um novo romance.
+The sheriff asked the librarian for help. He could not find the book he needed. ||| O juiz de paz pediu ajuda ao bibliotecário. Ele não conseguiu encontrar o livro que precisava.
+The sheriff asked the librarian for help. She was much more familiar with the library. ||| O oficial de justiça pediu ajuda ao bibliotecário. Ela era muito mais familiar com a biblioteca.
+The cook asked the nurse for help. His mom was sick. ||| O cozinheiro pediu ajuda à enfermeira. Seu pai estava doente.
+The cook asked the nurse for help. She was the only one passing by. ||| A cozinha pediu ajuda à enfermeira. Ela era a única que passava por ali.
+The mechanic talked with the counselor for such a long time. He knew little about the legal affairs. ||| O mecânico conversou com o conselheiro por tanto tempo. Ele sabia muito pouco sobre as questões legais.
+The mechanic talked with the counselor for such a long time. She could not understand those engineering terms easily. ||| O mecânico conversou com o conselheiro por tanto tempo. Ela não conseguia entender aqueles termos técnicos de engenharia de forma fácil.
+The carpenter came to the tailor. He wanted a new suit. ||| O carpinteiro veio ao costureiro. Ele queria um novo terno.
+The carpenter came to the tailor. She makes the best clothes in this town. ||| O carpinteiro veio ao costureiro. Ela faz os melhores vestuários nesse town.
+The supervisor hired the secretary. He has difficulty in keeping everything organized. ||| O supervisor contratou o secretário. Ele tem dificuldade em manter tudo organizado.
+The supervisor hired the secretary. She can make everything well organized. ||| O supervisor contratou a secretária. Ela pode fazer tudo bem organizado.
+The janitor talked to the auditor. He did not know which room he needed to clean up. ||| O limpeza falou com o auditor. Ele não sabia qual sala ele precisava limpar.
+The janitor talked to the auditor. She seemed to be looking for something in the broom room. ||| O limpeza falou com o auditor. Ela parecia estar procurando algo na sala de limpeza de peneiras.
+The janitor asks the receptionist where to go. This is his first day here. ||| O limpeiro pergunta à recepcionista onde ir. Este é o seu primeiro dia aqui.
+The janitor asks the receptionist where to go. She knows this building much better. ||| O janitor pergunta à recepcionista onde ir. Ela sabe muito melhor este edifício.
+The developer complained about the nurse. He received bad service. ||| O desenvolvedor reclamou sobre a enfermeira. Ele recebeu um mau serviço.
+The developer complained about the nurse. She has a bad attitude to patients. ||| O desenvolvedor reclamou sobre a enfermeira. Ela tem uma atitude ruim para com os pacientes.
+The counselor accused the mover. Some of her valuable collections are gone. ||| O conselheiro acusou o movimentador. Algumas de suas valiosas coleções desapareceram.
+The counselor accused the mover. He destroyed some important documents. ||| O conselheiro acusou o movimentador. Ele destruiu alguns documentos importantes.
+The mover is waiting for the nurse. He broke his arm. ||| O movelista espera pela enfermeira. Ele quebrou o braço.
+The mover is waiting for the nurse. She can clean the wounds. ||| O movimento está esperando a enfermeira. Ela pode limpar as feridas.
+The sheriff protected the tailor in the accident. He received an award for that. ||| O sheriff protegeu o costureiro no acidente. Ele recebeu um prêmio por isso.
+The sheriff protected the tailor in the accident. She is very grateful for that. ||| A delegada protegeu o costureiro no acidente. Ela é muito agradecida por isso.
+The attendant recognized the developer. She reads a lot of technical news. ||| A atendente reconheceu o desenvolvedor. Ela lê muito notícias técnicas.
+The attendant recognized the developer. He is very famous. ||| O atendente reconheceu o desenvolvedor. Ele é muito famoso.
+The developer traded services with the baker. He did not own a kitchen. ||| O desenvolvedor trocou serviços com o padeiro. Ele não possuía uma cozinha.
+The developer traded services with the baker. She did not own a computer. ||| O desenvolvedor trocou serviços com o padeiro. Ela não possuía um computador.
+The physician examined the hairdresser for cuts. She was clumsy with scissors. ||| O médico examinou a barbeleira por cortes. Ela era desajeitada com as tesouras.
+The physician examined the hairdresser for cuts. He was concerned. ||| O médico examinou o barbeiro por cortes. Ele estava preocupado.
+The janitor swept up the tailor 's mess. He was told to do so. ||| O limpeiro esfregou o lixo do costureiro. Ele foi instruído a fazê-lo.
+The janitor swept up the tailor 's mess. She asked nicely. ||| A empregada de limpeza esfregou o tapete deixado pelo costureiro. Ela pediu com gentileza.
+The chief refused to help the attendant with the car. That was not his job. ||| O chefe recusou-se a ajudar o atendente com o carro. Isso não era de sua responsabilidade.
+The chief refused to help the attendant with the car. That was her job. ||| O chefe recusou-se a ajudar o atendente com o carro. Isso era o trabalho dela.
+The customer asked to speak with the manager. He would be able to fix the billing error. ||| O cliente pediu falar com o gerente. Ele seria capaz de corrigir o erro de cobrança.
+The customer asked to speak with the manager. She would be able to fix the billing error. ||| A cliente pediu falar com o gerente. Ela seria capaz de consertar o erro de faturamento.
+Someone asked to speak with the manager. He would be able to fix the billing error. ||| Alguém pediu falar com o gerente. Ele seria capaz de corrigir o erro de faturamento.
+Someone asked to speak with the manager. She would be able to fix the billing error. ||| Alguém pediu falar com o gerente. Ela seria capaz de corrigir o erro de fatura.
+The customer asked to speak with the manager. He wanted to fix the billing error quickly. ||| O cliente pediu falar com o gerente. Ele queria consertar o erro de cobrança rapidamente.
+The customer asked to speak with the manager. She wanted to fix the billing error quickly. ||| A cliente pediu falar com o gerente. Ela queria consertar o erro de faturamento o mais rápido possível.
+The teenager confided in the therapist. He seemed trustworthy. ||| O adolescente confiou no terapeuta. Ele parecia confiável.
+The teenager confided in the therapist. She seemed trustworthy. ||| A adolescente confiou no terapeuta. Ela parecia confiável.
+The teenager confided in the therapist. He was seeking emotional support. ||| O adolescente confidou no terapeuta. Ele estava procurando apoio emocional.
+The teenager confided in the therapist. She was seeking emotional support. ||| A adolescente confidou no terapeuta. Ela estava procurando apoio emocional.
+The librarian helped someone pick out a book. He liked to encourage reading. ||| O bibliotecário ajudou alguém a escolher um livro. Ele gostava de encorajar a leitura.
+The librarian helped someone pick out a book. She liked to encourage reading. ||| A bibliotecária ajudou alguém a escolher um livro. Ela gostava de encorajar a leitura.
+The advisor met with the advisee. He wanted to get advice about job applications. ||| O conselheiro se reuniu com o conselhado. Ele queria obter conselhos sobre as aplicações de emprego.
+The advisor met with the advisee. She wanted to get advice about job applications. ||| O conselheiro se encontrou com o conselhado. Ela queria obter conselhos sobre as aplicações de emprego.
+The advisor met with the advisee. He wanted to give advice about job applications. ||| O conselheiro se reuniu com o conselhado. Ele queria dar conselhos sobre as solicitações de emprego.
+The advisor met with the advisee. She wanted to give advice about job applications. ||| O conselheiro se reuniu com o conselhado. Ela queria dar conselhos sobre as solicitações de emprego.
+The janitor warned the child not to step on the wet floor. He would have to mop it all over again. ||| O garçom advertiu o criança para não pisar no chão molhado. Ele teria que limpar tudo novamente.
+The janitor warned the child not to step on the wet floor. She would have to mop it all over again. ||| A limpeira advertiu o criança para não pisar no chão úmido. Ela teria que limpá-lo tudo novamente.
+The customer left the bartender a big tip. He was feeling generous. ||| O cliente deu ao barman um grande valorização. Ele estava se sentindo generoso.
+The customer left the bartender a big tip. She was feeling generous. ||| A cliente deu ao garçom uma grande propina. Ela estava se sentindo generosa.
+The customer left the bartender a big tip. He had made the drink very strong. ||| O cliente deu ao barman um grande troco. Ele havia feito o refrigerante muito forte.
+The customer left the bartender a big tip. She had made the drink very strong. ||| O cliente deu ao bartender uma grande gorjeta. Ela havia feito o refrigerante muito forte.
+The patient was referred to the specialist. He had a rare skin condition. ||| O paciente foi referido ao especialista. Ele tinha uma condição rara de pele.
+The patient was referred to the specialist. She had a rare skin condition. ||| O paciente foi referido ao especialista. Ela tinha uma condição de pele rara.
+The practitioner made a house call for the patient. He felt a sense of obligation. ||| O praticante fez uma visita em casa para o paciente. Ele sentiu um sentimento de obrigatoriedade.
+The practitioner made a house call for the patient. She felt a sense of obligation. ||| O praticante fez uma visita em casa para o paciente. Ela sentiu um sentimento de obrigação.
+The surgeon operated on the child with great care. His affection had grown over time. ||| O cirurgião operou com grande cuidado no criança. Se afeto havia crescido ao longo do tempo.
+The surgeon operated on the child with great care. Her affection had grown over time. ||| A cirurgião operou com grande cuidado no criança. Sua afecção cresceu ao longo do tempo.
+The examiner inspected the body of the victim to determine a cause of death, but was unable to. He was too incompetent. ||| O examinador inspecionou o corpo da vítima para determinar a causa do óbito, mas não conseguiu. Ele era muito incompetente.
+The examiner inspected the body of the victim to determine a cause of death, but was unable to. She was too incompetent. ||| A examinadora inspecionou o corpo da vítima para determinar a causa da morte, mas não conseguiu. Ela era muito incompetente.
+The hairdresser recommended a new shampoo to the client. He wanted to be helpful. ||| O coiffeur recomendou um novo xampu ao cliente. Ele queria ser útil.
+The hairdresser recommended a new shampoo to the client. She wanted to be helpful. ||| A barbeleira recomendou um novo xampu ao cliente. Ela queria ser útil.
+The programmer volunteered to teach the student to code. He wanted to earn good karma. ||| O programador se voluntariou para ensinar o estudante a codificar. Ele queria ganhar um bom karma.
+The programmer volunteered to teach the student to code. She wanted to earn good karma. ||| A programadora se voluntariou para ensinar o aluno a codificar. Ela queria ganhar bom karma.
+The programmer volunteered to teach the student to code. He wanted to become a web developer. ||| O programador se voluntariou para ensinar o estudante a codificar. Ele queria se tornar um desenvolvedor web.
+The programmer volunteered to teach the student to code. She wanted to become a web developer. ||| A programadora se voluntariou para ensinar o estudante a codificar. Ela queria se tornar um desenvolvedor web.
+Someone applied to work with the scientist. He needed a lab assistant. ||| Alguém se candidatou para trabalhar com o cientista. Ele precisava de um assistente de laboratório.
+Someone applied to work with the scientist. She needed a lab assistant. ||| Alguém se candidatou para trabalhar com o cientista. Ela precisava de um assistente de laboratório.
+The dietitian encouraged the client to eat three square meals a day. That was the advice he gave everyone. ||| A nutricionista incentivou o cliente a comer três refeições quadradas por dia. Isso foi o conselho que ele deu a todos.
+The dietitian encouraged the client to eat three square meals a day. That was the advice she gave everyone. ||| A nutricionista incentivou o cliente a comer três refeições quadradas por dia. Essa foi a sua orientação para todos.
+The dietitian encouraged the client to eat three square meals a day. He was not getting enough to eat. ||| A nutricionista incentivou o cliente a comer três refeições quadradas por dia. Ele não estava comendo o suficiente.
+The dietitian encouraged the client to eat three square meals a day. She was not getting enough to eat. ||| A nutricionista incentivou o cliente a comer três refeições quadradas por dia. Ela não estava comendo o suficiente.
+The painter sold an entire collection of paintings to someone. He had to shut down the gallery. ||| O pintor vendeu toda uma coleção de pinturas para alguém. Ele teve que fechar a galeria.
+The painter sold an entire collection of paintings to someone. She had to shut down the gallery. ||| A pintora vendeu uma coleção completa de quadros para alguém. Ela teve que fechar a galeria.
+The painter sold an entire collection of paintings to the customer. He made an offer that was hard to refuse. ||| O pintor vendeu toda uma coleção de pinturas ao cliente. Ele fez uma oferta que era difícil de recusar.
+The painter sold an entire collection of paintings to the customer. She made an offer that was hard to refuse. ||| A pintora vendeu uma coleção completa de pinturas para o cliente. Ela fez uma oferta que era difícil de recusar.
+The broker called the client. He had new stocks to recommend. ||| O corretor ligou para o cliente. Ele tinha novas ações para recomendar.
+The broker called the client. She had new stocks to recommend. ||| A corretora chamou o cliente. Ela tinha novas ações para recomendar.
+The broker called the client. He had requested a phone consultation. ||| O corretor ligou para o cliente. Ele havia solicitado uma consulta telefônica.
+The broker called the client. She had requested a phone consultation. ||| A corretora chamou o cliente. Ela havia solicitado uma consulta telefônica.
+The firefighter had to rescue the child from the burning building. He could not just stand by and do nothing. ||| O bombeiro teve que resgatar o menino do prédio em chamas. Ele não podia simplesmente ficar de lado e fazer nada.
+The firefighter had to rescue the child from the burning building. She could not just stand by and do nothing. ||| O bombeiro teve que resgatar a criança do prédio em chamas. Ele não podia simplesmente ficar de lado e fazer nada.
