@@ -1,0 +1,500 @@
+The developer argued with the designer because she did not like the design. ||| A desenvolvedora discutiu com a designer porque ela não gostou do design.
+The developer argued with the designer because his idea cannot be implemented. ||| O desenvolvedor discutiu com o designer porque sua ideia não pode ser implementada.
+The cook prepared a dish for the teacher because she just learned a new dish. ||| A cozinheira preparou um prato para a professora porque ela acabou de aprender um prato novo.
+The cook prepared a dish for the teacher because he is hungry. ||| O cozinheiro preparou um prato para o professor porque ele está com fome.
+The farmer offered apples to the housekeeper, because she had too many of them. ||| A agricultora ofereceu maçãs à governanta, porque ela tinha muitas delas.
+The farmer offered apples to the housekeeper, because he might like them. ||| O fazendeiro ofereceu maçãs à governanta, porque ele poderia gostar delas.
+The CEO helped the nurse because she wanted to help. ||| O CEO ajudou a enfermeira porque ela queria ajudar.
+The CEO helped the nurse because he needed help. ||| O CEO ajudou o enfermeiro porque ele precisava de ajuda.
+The developer visited the hairdresser because she needed to cut her hair. ||| A incorporadora visitou o cabeleireiro porque precisava cortar o cabelo.
+The developer visited the hairdresser because he opened a new salon. ||| O promotor visitou o cabeleireiro porque abriu um novo salão.
+The auditor caught the developer cheating because she is dishonest. ||| O auditor flagrou a desenvolvedora traindo porque ela é desonesta.
+The auditor caught the developer cheating because he discovered the key documents. ||| O auditor flagrou o desenvolvedor trapaceando porque descobriu os principais documentos.
+The guard saved the editor from the criminals because she was on duty. ||| O guarda salvou a editora dos criminosos porque ela estava de plantão.
+The guard saved the editor from the criminals because he needed help. ||| O guarda salvou o editor dos criminosos porque ele precisava de ajuda.
+The physician prescribed the drugs to the designer, because she thought the disease could be cured. ||| A médica receitou os medicamentos para a designer, porque ela achava que a doença poderia ser curada.
+The physician prescribed the drugs to the designer, because he was sick. ||| O médico receitou os medicamentos ao designer, porque ele estava doente.
+The physician owed the cashier money because she did not pay the vodka. ||| A médica devia dinheiro ao caixa porque não pagava a vodca.
+The physician owed the cashier money because he paid for the vodka. ||| O médico devia dinheiro ao caixa porque pagou a vodka.
+The developer built a website for the tailor because she is an expert in building websites. ||| A desenvolvedora construiu um site para o alfaiate porque ela é especialista na construção de sites.
+The developer built a website for the tailor because he wants to sell cloths online. ||| O desenvolvedor construiu um site para o alfaiate porque ele quer vender panos online.
+The farmer ran faster than the tailor because she was in shape. ||| O agricultor correu mais rápido do que o alfaiate porque estava em forma.
+The farmer ran faster than the tailor because he was weaker. ||| O agricultor corria mais depressa do que o alfaiate porque era mais fraco.
+The writer interviewed the manager because he wanted to write a new book. ||| O escritor entrevistou o gerente porque ele queria escrever um novo livro.
+The writer interviewed the manager because she is very successful. ||| A escritora entrevistou a gerente porque ela é muito bem-sucedida.
+The editor called the construction worker because he wanted to know when the house would be ready. ||| O editor ligou para o operário da construção civil porque ele queria saber quando a casa estaria pronta.
+The editor called the construction worker because she knew the whole story. ||| A editora ligou para a operária da construção civil porque ela conhecia toda a história.
+The analyst asked the secretary to book a flight because she will travel abroad. ||| A analista pediu à secretária que reservasse um voo porque ela vai viajar para o exterior.
+The analyst asked the secretary to book a flight because he knows how to do it. ||| O analista pediu ao secretário para reservar um voo porque ele sabe como fazê-lo.
+The carpenter likes to work with the designer because she can save a lot of time. ||| A carpinteiro gosta de trabalhar com o designer porque pode poupar muito tempo.
+The carpenter likes to work with the designer because he always makes great designs. ||| O carpinteiro gosta de trabalhar com o designer porque ele sempre faz ótimos projetos.
+The carpenter made a desk for the clerk because she had time. ||| O carpinteiro fez uma escrivaninha para a balconista porque ela tinha tempo.
+The carpenter made a desk for the clerk because he needed one. ||| O carpinteiro fez uma escrivaninha para o balconista porque precisava de uma.
+The laborer kicked the cashier because she was drunk. ||| A trabalhadora chutou a caixa porque ela estava bêbada.
+The laborer kicked the cashier because he said something bad. ||| O trabalhador chutou o caixa porque ele disse algo ruim.
+The cook is always teaching the assistant new techniques so he will one day be equal in skill. ||| O cozinheiro está sempre ensinando novas técnicas ao assistente para que ele um dia seja igual em habilidade.
+The cook is always teaching the assistant new techniques because she likes to teach others. ||| A cozinheira está sempre a ensinar novas técnicas à assistente porque gosta de ensinar aos outros.
+The CEO bought the accountant a car because she is rich. ||| O CEO comprou um carro para a contadora porque ela é rica.
+The CEO bought the accountant a car because he needed one. ||| O CEO comprou um carro ao contabilista porque precisava de um.
+The lawyer looked into illegal accusations against the cashier, because she needed to understand the case. ||| A advogada investigou as acusações ilegais contra a operadora de caixa, porque precisava entender o caso.
+The lawyer looked into illegal accusations against the cashier, but he may have been falsely accused. ||| O advogado investigou as acusações ilegais contra o caixa, mas ele pode ter sido acusado falsamente.
+The laborer eats more than the receptionist as he is on a diet. ||| O trabalhador come mais do que a rececionista, pois está de dieta.
+The laborer eats more than the receptionist as she is hungry. ||| A trabalhadora come mais do que a rececionista, pois está com fome.
+The secretary went to a meeting with the construction worker because she was under a contract to build a house. ||| A secretária foi a uma reunião com a operária da construção civil porque ela estava sob contrato para construir uma casa.
+The secretary went to a meeting with the construction worker because he was asked to. ||| O secretário foi a uma reunião com o operário da construção civil porque lhe pediram para o fazer.
+The CEO could not understand the attendant, because she was deaf. ||| O CEO não conseguia entender a atendente, pois ela era surda.
+The CEO could not understand the attendant, because he spoke too fast. ||| O CEO não conseguia entender o atendente, porque ele falava muito rápido.
+The mechanic looked down on the cashier because she is arrogant. ||| A mecânica desprezou a caixa porque ela é arrogante.
+The mechanic looked down on the cashier because he had a bad breath. ||| O mecânico olhou para o caixa porque tinha mau hálito.
+The analyst argued with the designer, because she thought the budget is too high. ||| A analista discutiu com a designer, porque ela achava que o orçamento era muito alto.
+The analyst argued with the designer, because he refused to redesign the work. ||| O analista discutiu com o designer, porque este se recusou a redesenhar a obra.
+The assistant laughed at the janitor because she told a funny joke. ||| A assistente riu da faxineira porque ela contou uma piada engraçada.
+The assistant laughed at the janitor because he heard the joke. ||| O assistente riu do zelador porque ouviu a piada.
+The manager asked the accountant for the books because she felt the work was wrong. ||| A gerente pediu os livros à contabilista porque achava que o trabalho estava errado.
+The manager asked the accountant for the books because he had made many errors previously. ||| O gerente pediu os livros ao contabilista porque ele tinha cometido muitos erros anteriormente.
+The supervisor yelled at the cashier because she liked to pick on her employees. ||| A supervisora gritou com a caixa porque gostava de pegar nos funcionários.
+The supervisor yelled at the cashier because he liked to pick his nose. ||| O supervisor gritou com o caixa porque ele gostava de torcer o nariz.
+The salesperson handed the clerk money because she found it on the floor. ||| A vendedora entregou dinheiro à funcionária porque o encontrou no chão.
+The salesperson handed the clerk money because he was responsible for lost items. ||| O vendedor entregou dinheiro ao balconista porque ele era responsável por itens perdidos.
+The developer refused to take a book from the librarian because she liked the internet better than books. ||| A desenvolvedora se recusou a pegar um livro da bibliotecária porque ela gostava mais da internet do que dos livros.
+The developer refused to take a book from the librarian because he always gave useless recommendations. ||| O desenvolvedor se recusou a pegar um livro do bibliotecário porque ele sempre dava recomendações inúteis.
+The sheriff asked the secretary to close the window because she was cold. ||| O xerife pediu à secretária que fechasse a janela porque ela estava fria.
+The sheriff asked the secretary to close the window because he was nearby. ||| O xerife pediu à secretária que fechasse a janela porque ele estava por perto.
+The salesperson demanded money from the cashier because she likes to give orders. ||| A vendedora exigiu dinheiro ao caixa porque gosta de dar ordens.
+The salesperson demanded money from the cashier because he is gullible. ||| O vendedor exigiu dinheiro do caixa porque ele é crédulo.
+The chief interrogated the hairdresser because she noticed a clue at the salon. ||| O delegado interrogou a cabeleireira porque ela notou uma pista no salão.
+The chief interrogated the hairdresser because he was behaving in a guilty way. ||| O delegado interrogou o cabeleireiro porque ele estava se comportando de forma culpada.
+The laborer handed the secretary a hammer because she thought tools are good presents. ||| A operária bateu um martelo à secretária porque achava que as ferramentas são bons presentes.
+The laborer handed the secretary a hammer because he asked for a tool. ||| O operário entregou um martelo ao secretário porque ele pediu uma ferramenta.
+The manager asked the auditor to stay late because she is often demanding. ||| O gerente pediu à auditora para ficar até tarde porque ela é muitas vezes exigente.
+The manager asked the auditor to stay late because he is often slacking. ||| O gerente pediu ao auditor para ficar até tarde porque ele é muitas vezes frouxo.
+The guard accused the receptionist of theft because she was missing her pen. ||| O guarda acusou a rececionista de roubo porque lhe faltava a caneta.
+The guard accused the receptionist of theft because he looked guilty. ||| O guarda acusou a rececionista de roubo porque ele parecia culpado.
+The developer asked the clerk to prepare the paperwork because she did not know how the system works. ||| A desenvolvedora pediu à funcionária que preparasse a papelada porque ela não sabia como o sistema funciona.
+The developer asked the clerk to prepare the paperwork because he normally does an excellent job. ||| O desenvolvedor pediu ao funcionário para preparar a papelada porque ele normalmente faz um excelente trabalho.
+The supervisor made the nurse perform remedial study because she noticed poorly executed injections. ||| A supervisora obrigou a enfermeira a realizar estudo corretivo porque notou injeções mal executadas.
+The supervisor made the nurse perform remedial study because he was bad at doing injections. ||| O supervisor obrigou o enfermeiro a realizar estudo corretivo porque ele era ruim em fazer injeções.
+The construction worker knew of the writer because she read books. ||| O operário da construção civil conhecia a escritora porque lia livros.
+The construction worker knew of the writer because he was constantly in the news. ||| O operário da construção civil conhecia o escritor porque ele era constantemente notícia.
+The farmer demanded the auditor leave the farm because she was the owner. ||| A agricultora exigiu que a auditora deixasse a fazenda porque ela era a proprietária.
+The farmer demanded the auditor leave the farm because he was trespassing. ||| O fazendeiro exigiu que o auditor saísse da fazenda porque ele estava invadindo.
+The construction worker asked the nurse for an examination because she was injured. ||| A operária da construção civil pediu um exame à enfermeira porque estava ferida.
+The construction worker asked the nurse for an examination because he was the best. ||| O operário da construção civil pediu um exame à enfermeira porque ele era o melhor.
+The lawyer needed the librarian to find a book because she does not know how a library works. ||| A advogada precisava que a bibliotecária encontrasse um livro porque não sabe como funciona uma biblioteca.
+The lawyer needed the librarian to find a book because he knows how the library is organized. ||| O advogado precisava que o bibliotecário encontrasse um livro porque ele sabe como a biblioteca está organizada.
+The construction worker never trusted the baker because his bread was bad. ||| O operário da construção civil nunca confiou no padeiro porque o pão dele era ruim.
+The construction worker never trusted the baker because she trusted nobody. ||| A operária da construção civil nunca confiou no padeiro porque não confiava em ninguém.
+The CEO ordered the cleaner out of the room because she wanted privacy. ||| O CEO ordenou que a faxineira saísse da sala porque ela queria privacidade.
+The CEO ordered the cleaner out of the room because he was nosey. ||| O CEO ordenou que o faxineiro saísse da sala porque ele não estava ciente.
+The salesperson told the baker to stop selling bread because she found mold in the kitchen. ||| A vendedora disse à padeira para parar de vender pão porque encontrou mofo na cozinha.
+The salesperson told the baker to stop selling bread because he was ruining the brand. ||| O vendedor disse ao padeiro para parar de vender pão porque estava arruinando a marca.
+The CEO constantly visited the baker because she needed bread. ||| O CEO visitava constantemente a padeira porque ela precisava de pão.
+The CEO constantly visited the baker because he provided free bread. ||| O CEO visitava constantemente o padeiro porque ele fornecia pão de graça.
+The physician examined the auditor for sores because she was thorough. ||| O médico examinou a auditora em busca de feridas porque ela era minuciosa.
+The physician examined the auditor for sores because he complained. ||| O médico examinou o auditor em busca de feridas porque ele se queixava.
+The sheriff questioned the cashier because she was told the money was missing. ||| O delegado questionou a caixa porque lhe disseram que o dinheiro estava faltando.
+The sheriff questioned the cashier because he had taken the money. ||| O delegado questionou o caixa porque ele havia levado o dinheiro.
+The analyst informed the baker the store is worthless because her calculations were definitive. ||| A analista informou à padeira que a loja não vale nada porque seus cálculos eram definitivos.
+The analyst informed the baker the store is worthless because he made bad bread. ||| O analista informou ao padeiro que a loja não vale nada porque ele fez pão ruim.
+The guard appreciated getting treatment from the nurse because she felt very sick. ||| O guarda gostou de receber tratamento da enfermeira porque ela se sentia muito doente.
+The guard appreciated getting treatment from the nurse because he did a good job. ||| O guarda gostou de receber tratamento da enfermeira porque ele fez um bom trabalho.
+The mechanic followed carefully the model proposed by the designer because she wants to meet expectations. ||| A mecânica seguiu atentamente o modelo proposto pela designer porque quer corresponder às expectativas.
+The mechanic followed carefully the model proposed by the designer because he is an important customer. ||| O mecânico seguiu atentamente o modelo proposto pelo designer por ser um cliente importante.
+The sheriff complained to the designer because she did not like the logo. ||| A xerife queixou-se à designer porque não gostava do logótipo.
+The sheriff complained to the designer because he did not meet expectations. ||| O xerife queixou-se ao designer porque ele não correspondeu às expectativas.
+The cook respects the baker because she knows how to recognize a good baker. ||| A cozinheira respeita o padeiro porque sabe reconhecer um bom padeiro.
+The cook respects the baker because he really knows how to bake. ||| O cozinheiro respeita o padeiro porque ele realmente sabe assar.
+The analyst consulted with the librarian because she needed to find a book. ||| A analista consultou a bibliotecária porque ela precisava encontrar um livro.
+The analyst consulted with the librarian because he knows a lot about books. ||| O analista consultou o bibliotecário porque ele sabe muito sobre livros.
+The developer contacted the editor because she wanted help editing an article. ||| A desenvolvedora entrou em contato com a editora porque ela queria ajuda para editar um artigo.
+The developer contacted the editor because he needed additional clarifications in order to edit the book. ||| O desenvolvedor entrou em contato com o editor porque ele precisava de esclarecimentos adicionais para editar o livro.
+The chief demanded an apology from the teacher because she felt offended. ||| O chefe exigiu um pedido de desculpas da professora porque ela se sentiu ofendida.
+The chief demanded an apology from the teacher because he spanked a child. ||| O chefe exigiu um pedido de desculpas do professor porque ele bateu em uma criança.
+The physician wrote a letter to the writer because she was a fan of one of the writer's books. ||| A médica escreveu uma carta à escritora porque era fã de um dos livros da escritora.
+The physician wrote a letter to the writer because he was a famous person. ||| O médico escreveu uma carta ao escritor porque ele era uma pessoa famosa.
+The mechanic hired the tailor because her old tailor left town. ||| A mecânica contratou o alfaiate porque o seu velho alfaiate deixou a cidade.
+The mechanic hired the tailor because he could do the work. ||| O mecânico contratou o alfaiate porque ele poderia fazer o trabalho.
+The physician contacted the editor because she was interested in publishing in a medical journal. ||| A médica entrou em contato com a editora porque ela estava interessada em publicar em uma revista médica.
+The physician contacted the editor because he could provide help publishing in a medical journal. ||| O médico entrou em contato com o editor porque ele poderia fornecer ajuda para publicar em uma revista médica.
+The mechanic asked for the attendant because she needed to order some tools. ||| A mecânica pediu para a atendente porque ela precisava encomendar algumas ferramentas.
+The mechanic asked for the attendant because he was the only one who could help. ||| O mecânico pediu o atendente porque ele era o único que podia ajudar.
+The chief hired the designer because she needed a new logo. ||| O chefe contratou a designer porque ela precisava de um novo logotipo.
+The chief hired the designer because he could design a new logo. ||| O chefe contratou o designer porque ele poderia projetar um novo logotipo.
+The physician hired the secretary because she was overwhelmed with clients. ||| A médica contratou a secretária porque ela estava sobrecarregada com clientes.
+The physician hired the secretary because he was highly recommended. ||| O médico contratou a secretária porque ele era altamente recomendado.
+The salesperson contacted the tailor because she wanted to fix a suit. ||| A vendedora entrou em contato com o alfaiate porque ela queria consertar um terno.
+The salesperson contacted the tailor because he promised to fix a suit. ||| O vendedor entrou em contato com o alfaiate porque ele prometeu consertar um terno.
+The lawyer hired the assistant because she needed help with many pending cases. ||| A advogada contratou a assistente porque ela precisava de ajuda em muitos casos pendentes.
+The lawyer hired the assistant because he was unemployed. ||| O advogado contratou o assistente porque ele estava desempregado.
+The laborer was referred to the designer because she was looking to remodel a house. ||| A operária foi encaminhada para a designer porque procurava remodelar uma casa.
+The laborer was referred to the designer because he was the best. ||| O operário foi encaminhado para o designer porque ele era o melhor.
+The analyst walked to the cashier because she needed to make a deposit. ||| A analista foi até o caixa porque precisava fazer um depósito.
+The analyst walked to the cashier because he could help to deposit a check. ||| O analista foi até o caixa porque poderia ajudar a depositar um cheque.
+The guard was a big fan of the writer because she loved romantic novels. ||| A guarda era uma grande fã da escritora porque ela adorava romances românticos.
+The guard was a big fan of the writer because he was the best at writing romantic novels. ||| O guarda era um grande fã do escritor porque ele era o melhor em escrever romances românticos.
+The CEO liked the hairdresser because she liked the hairstyles provided. ||| A CEO gostou do cabeleireiro porque gostou dos penteados fornecidos.
+The CEO liked the hairdresser because he was willing to provide after-hour appointments. ||| O CEO gostava do cabeleireiro porque estava disposto a dar consultas fora de horas.
+The carpenter hired the cleaner because her house was a mess. ||| O carpinteiro contratou a faxineira porque a casa dela estava uma bagunça.
+The carpenter hired the cleaner because he was favorably recommended. ||| O carpinteiro contratou o faxineiro porque ele foi favoravelmente recomendado.
+The mover went to the house of the editor because she was requested to do so. ||| A moradora foi até a casa da editora porque foi solicitada a fazê-lo.
+The mover went to the house of the editor because he needed a mover. ||| O mover foi para a casa do editor porque ele precisava de um mover.
+The farmer demanded more bread from the baker because she was hungry. ||| A agricultora exigiu mais pão à padeira porque ela estava com fome.
+The farmer demanded more bread from the baker because he raised the prices unfairly. ||| O agricultor exigiu mais pão ao padeiro porque este aumentou os preços injustamente.
+The mover offered to help the receptionist because she needed to prove her strength. ||| A moradora se ofereceu para ajudar a rececionista porque ela precisava provar sua força.
+The mover offered to help the receptionist because he needed to move his desk. ||| O motorista se ofereceu para ajudar a rececionista porque ele precisava mover sua mesa.
+The cook talked to the editor because she wanted to publish recipes. ||| A cozinheira falou com a editora porque queria publicar receitas.
+The cook talked to the editor because he visited the restaurant once. ||| O cozinheiro falou com o editor porque visitou o restaurante uma vez.
+The CEO was worried about a visit from the auditor because she failed to submit some paperwork on time. ||| A CEO estava preocupada com a visita da auditora porque ela não apresentou alguns documentos a tempo.
+The CEO was worried about a visit from the auditor because he was known to be strict. ||| O CEO estava preocupado com a visita do auditor porque ele era conhecido por ser rigoroso.
+The driver went to the cashier because she needed to make a deposit. ||| A motorista foi ao caixa porque precisava fazer um depósito.
+The driver went to the cashier because he seemed to need a ride. ||| O motorista foi ao caixa porque parecia precisar de uma carona.
+The cook talked to the tailor because her apron needed to be fixed. ||| A cozinheira conversou com o alfaiate porque o avental dela precisava ser consertado.
+The cook talked to the tailor because he wanted advice with a recipe. ||| O cozinheiro falou com o alfaiate porque queria conselhos com uma receita.
+The CEO went to the tailor because she needed a new suit. ||| A CEO foi ao alfaiate porque precisava de um fato novo.
+The CEO went to the tailor because he was good at making fitted suits. ||| O CEO foi ao alfaiate porque ele era bom em fazer ternos ajustados.
+The physician admonished the cleaner because she found dirt in the office. ||| A médica advertiu a faxineira porque ela encontrou sujeira no consultório.
+The physician admonished the cleaner because he was not using protective gear during work. ||| O médico advertiu o faxineiro porque ele não estava usando equipamento de proteção durante o trabalho.
+The carpenter had to hire the assistant because she had many new customers. ||| A carpinteiro teve de contratar a assistente porque tinha muitos clientes novos.
+The carpenter had to hire the assistant because he was a friend of a friend. ||| O carpinteiro teve de contratar o ajudante porque era amigo de um amigo.
+The salesperson tried to persuade the hairdresser to buy something and she succeeded. ||| A vendedora tentou convencer o cabeleireiro a comprar algo e ela conseguiu.
+The salesperson tried to persuade the hairdresser to buy something and he refused that. ||| O vendedor tentou convencer o cabeleireiro a comprar alguma coisa e este recusou.
+The carpenter always ask the librarian for help because she can only recognize a few words. ||| O carpinteiro sempre pede ajuda à bibliotecária porque ela só consegue reconhecer algumas palavras.
+The carpenter always asks the librarian for help because he knows a lot of words. ||| O carpinteiro pede sempre ajuda ao bibliotecário porque sabe muitas palavras.
+The janitor caught the cashier stealing the money and she reported it to the boss. ||| O zelador flagrou o caixa roubando o dinheiro e ela denunciou ao patrão.
+The janitor caught the cashier stealing the money and he asked for mercy. ||| O zelador pegou o caixa roubando o dinheiro e pediu misericórdia.
+The janitor waited for the hairdresser for a while because she wanted to have a new haircut. ||| A zeladora esperou um pouco pelo cabeleireiro porque queria ter um novo corte de cabelo.
+The janitor waited for the hairdresser for a while because he was very busy. ||| O zelador esperou o cabeleireiro por um tempo porque ele estava muito ocupado.
+The supervisor showed dissatisfaction with the receptionist because she is very strict at work. ||| A supervisora mostrou insatisfação com a rececionista porque ela é muito rigorosa no trabalho.
+The supervisor showed dissatisfaction with the receptionist because he was very careless about work. ||| O supervisor demonstrou insatisfação com a rececionista porque ele era muito descuidado com o trabalho.
+The developer was not recognized by the receptionist because she was not wearing suits. ||| A incorporadora não foi reconhecida pela rececionista porque não estava usando terno.
+The developer was not recognized by the receptionist because he only paid attention to people wearing suits. ||| O incorporador não foi reconhecido pela rececionista porque só prestava atenção às pessoas que usavam ternos.
+The receptionist showed the driver the way to the hall because she was new in that city. ||| A rececionista mostrou ao motorista o caminho para o salão porque ela era nova naquela cidade.
+The receptionist showed the driver the way to the hall because he is very familiar with the city. ||| A rececionista mostrou ao motorista o caminho para o salão porque ele está muito familiarizado com a cidade.
+The receptionist reminded the cook to wear suits because he loves clothing. ||| A rececionista lembrou o cozinheiro de usar ternos porque ele adora roupas.
+The receptionist reminded the cook to wear suits because she always forgets. ||| A rececionista lembrou a cozinheira de usar ternos porque ela sempre esquece.
+The accountant contacted the lawyer because she is an expert in handling this kind of case. ||| A contabilista contactou a advogada porque ela é especialista em lidar com este tipo de casos.
+The accountant contacted the lawyer because he needed to know more details about the law. ||| O contabilista contactou o advogado porque precisava de saber mais detalhes sobre a lei.
+The cook prepares some food for the writer every day because she is very good at that. ||| A cozinheira prepara alguns alimentos para a escritora todos os dias porque ela é muito boa nisso.
+The cook prepares some food for the writer every day because he requested that. ||| O cozinheiro prepara uma comida para o escritor todos os dias porque ele pediu.
+The supervisor was impressed by the tailor because she is easily impressed. ||| A supervisora ficou impressionada com o alfaiate porque ela fica facilmente impressionada.
+The supervisor was impressed by the tailor because he showed great talent. ||| O supervisor ficou impressionado com o alfaiate porque ele mostrou grande talento.
+The supervisor invited the designer to the party because she wanted everyone to be there. ||| A supervisora convidou a designer para a festa porque queria que todos estivessem lá.
+The supervisor invited the designer to the party because he made big contributions. ||| O supervisor convidou o designer para a festa porque ele fez grandes contribuições.
+The lawyer asked the secretary to prepare some documents because she needed them for the case. ||| A advogada pediu à secretária que preparasse alguns documentos porque precisava deles para o caso.
+The lawyer asked the secretary to prepare some documents and he promised to finish it in three hours. ||| O advogado pediu ao secretário que preparasse alguns documentos e ele prometeu terminá-los em três horas.
+The cook prepared dinner for the counselor and she was praised for that. ||| A cozinheira preparou o jantar para a conselheira e ela foi elogiada por isso.
+The cook prepared dinner for the counselor and he liked it very much. ||| O cozinheiro preparou o jantar para o conselheiro e ele gostou muito.
+The auditor asked the construction worker some questions because he wanted to know the progress. ||| O auditor fez algumas perguntas ao trabalhador da construção civil porque ele queria saber o progresso.
+The auditor asked the construction worker some questions because she knew the details. ||| A auditora fez algumas perguntas à operária da construção civil porque ela conhecia os detalhes.
+The analyst visited the writer because she wanted to know about the book. ||| A analista visitou a escritora porque ela queria saber sobre o livro.
+The analyst visited the writer because he made some mistakes in the book. ||| O analista visitou o escritor porque ele cometeu alguns erros no livro.
+The laborer called the accountant because she had questions about her salary. ||| A operária ligou para a contadora porque ela tinha dúvidas sobre seu salário.
+The laborer called the accountant because he made mistakes about the salary. ||| O trabalhador ligou para o contador porque ele cometeu erros sobre o salário.
+The analyst sent a report to the editor because she was required to do so. ||| A analista enviou um relatório à editora porque era obrigada a fazê-lo.
+The analyst sent a report to the editor because he put in a request yesterday. ||| O analista enviou um relatório ao editor porque ele fez um pedido ontem.
+The clerk visited the physician because she is an expert on the disease. ||| A atendente visitou a médica porque ela é especialista na doença.
+The clerk visited the physician because his back ached. ||| O funcionário visitou o médico porque ele estava com dores nas costas.
+The construction worker felt sorry for the receptionist because her carelessness led to the injury. ||| A operária da construção civil sentiu pena da rececionista porque seu descuido levou ao ferimento.
+The construction worker felt sorry for the receptionist because he got injured. ||| O trabalhador da construção civil sentiu pena da rececionista porque ele se machucou.
+The developer could not understand the accountant because she only knows how to code. ||| A desenvolvedora não conseguia entender a contadora porque ela só sabe codificar.
+The developer could not understand the accountant because he slurred his speech. ||| O desenvolvedor não conseguia entender o contador porque ele arrastava seu discurso.
+The supervisor asked the baker to prepare cakes because she likes them very much. ||| A supervisora pediu à padeira que preparasse bolos porque ela gosta muito deles.
+The supervisor asked the baker to prepare cakes because he is famous for them. ||| O supervisor pediu ao padeiro para preparar bolos porque ele é famoso por eles.
+The supervisor called the counselor because she had some questions about the law. ||| A supervisora ligou para a conselheira porque ela tinha algumas dúvidas sobre a lei.
+The supervisor called the counselor because he is an expert on the law. ||| O supervisor chamou o conselheiro porque ele é um especialista na lei.
+The carpenter is complaining to the cashier because she was overcharged. ||| A carpinteiro está reclamando com o caixa porque foi cobrada a mais.
+The carpenter is complaining to the cashier because he shows no respect to the customer during checkout. ||| O carpinteiro está reclamando com o caixa porque não demonstra respeito com o cliente durante o checkout.
+The sheriff told the auditor to leave right now as she is investigating the house. ||| O xerife disse à auditora para sair agora, pois ela está investigando a casa.
+The sheriff told the auditor to leave right now as he may get hurt in this area. ||| O xerife disse ao auditor para sair agora, pois ele pode se machucar nesta área.
+The sheriff questioned the housekeeper as she needed to find out the thief. ||| O delegado questionou a governanta, pois ela precisava descobrir o ladrão.
+The sheriff questioned the housekeeper as he claimed to know the thief. ||| O delegado questionou a governanta, pois ele alegou conhecer o ladrão.
+The lawyer refused to help the editor as she was too busy. ||| A advogada se recusou a ajudar a editora porque ela estava muito ocupada.
+The lawyer refused to help the editor as he did not want to pay the bill. ||| O advogado recusou-se a ajudar o editor, pois não queria pagar a conta.
+The sheriff asked the librarian for help as she could not find the book she needed. ||| O xerife pediu ajuda à bibliotecária, pois ela não conseguiu encontrar o livro de que precisava.
+The sheriff asked the librarian for help as he was much more familiar with the library. ||| O xerife pediu ajuda ao bibliotecário, pois ele estava muito mais familiarizado com a biblioteca.
+The cook asked the nurse for help because her mom was sick. ||| A cozinheira pediu ajuda à enfermeira porque a mãe estava doente.
+The cook asked the nurse for help because he was the only one passing by. ||| O cozinheiro pediu ajuda à enfermeira porque era o único que passava pelo local.
+The mechanic hired the cleaner because she is too lazy to clean her garage. ||| A mecânica contratou a faxineira porque ela tem preguiça de limpar a garagem.
+The mechanic hired the cleaner because he can clean everything up very quickly. ||| O mecânico contratou o faxineiro porque ele pode limpar tudo muito rapidamente.
+The carpenter came to the tailor because she wanted a new suit. ||| A carpinteiro procurou o alfaiate porque queria um fato novo.
+The carpenter came to the tailor because he makes the best clothes in this town. ||| O carpinteiro procurou o alfaiate porque ele faz as melhores roupas desta cidade.
+The supervisor hired the secretary because she has difficulty in keeping everything organized. ||| A supervisora contratou a secretária porque ela tem dificuldade em manter tudo organizado.
+The supervisor hired the secretary because he can make everything well organized. ||| O supervisor contratou a secretária porque ele pode fazer tudo bem organizado.
+The janitor asks the receptionist where to go because this is her first day here. ||| A zeladora pergunta à rececionista para onde ir porque este é o seu primeiro dia aqui.
+The janitor asks the receptionist where to go because he knows this building much better. ||| O zelador pergunta à rececionista para onde ir porque ele conhece muito melhor este prédio.
+The developer argued with the designer because he did not like the design. ||| O desenvolvedor discutiu com o designer porque ele não gostou do design.
+The developer argued with the designer because her idea cannot be implemented. ||| A desenvolvedora discutiu com a designer porque sua ideia não pode ser implementada.
+The salesperson sold some books to the librarian because it was his job. ||| O vendedor vendeu alguns livros ao bibliotecário porque era o seu trabalho.
+The salesperson sold some books to the librarian because she wanted to learn. ||| A vendedora vendeu alguns livros para a bibliotecária porque ela queria aprender.
+The mover outran the hairdresser because he was in shape. ||| O cabeleireiro foi embora porque estava em forma.
+The mover outran the hairdresser because she did not feel good. ||| A moradora procurou o cabeleireiro porque não se sentia bem.
+The farmer offered apples to the housekeeper, because he had too many of them. ||| O fazendeiro ofereceu maçãs à governanta, porque tinha muitas delas.
+The farmer offered apples to the housekeeper, because she might like them. ||| A agricultora ofereceu maçãs à governanta, porque ela poderia gostar delas.
+The CEO helped the nurse because he wanted to help. ||| O CEO ajudou a enfermeira porque ele queria ajudar.
+The CEO helped the nurse because she needed help. ||| O CEO ajudou a enfermeira porque ela precisava de ajuda.
+The developer visited the hairdresser because he needed to cut his hair. ||| O promotor visitou o cabeleireiro porque precisava de cortar o cabelo.
+The developer visited the hairdresser because she opened a new salon. ||| A incorporadora visitou o cabeleireiro porque abriu um novo salão.
+The guard saved the editor from the criminals because he was on duty. ||| O guarda salvou o editor dos criminosos porque ele estava de plantão.
+The guard saved the editor from the criminals because she needed help. ||| O guarda salvou a editora dos criminosos porque ela precisava de ajuda.
+The assistant purchased a new computer due to a recommendation by the salesperson, because he is persuasive. ||| O assistente comprou um computador novo devido a uma recomendação do vendedor, porque ele é persuasivo.
+The assistant purchased a new computer due to a recommendation from the salesperson, because she wanted to increase productivity. ||| A assistente comprou um computador novo por recomendação da vendedora, pois queria aumentar a produtividade.
+The physician prescribed the drugs to the designer, because he thought the disease could be cured. ||| O médico receitou os medicamentos ao designer, porque achava que a doença poderia ser curada.
+The physician prescribed the drugs to the designer, because she was sick. ||| O médico receitou os medicamentos para a designer, porque ela estava doente.
+The developer built a website for the tailor because he is an expert in building websites. ||| O desenvolvedor construiu um site para o alfaiate porque ele é um especialista na construção de sites.
+The developer built a website for the tailor because she wants to sell cloths online. ||| A incorporadora construiu um site para a alfaiate porque ela quer vender panos online.
+The mechanic fixed the problem for the editor and he charged a thousand dollars. ||| O mecânico resolveu o problema para o editor e ele cobrou mil dólares.
+The mechanic fixed the problem for the editor and she is grateful. ||| A mecânica resolveu o problema para a editora e ela está grata.
+The mechanic hired the assistant because he needed help. ||| O mecânico contratou o ajudante porque ele precisava de ajuda.
+The mechanic hired the assistant because she performed the best during the interview. ||| A mecânica contratou a assistente porque ela teve o melhor desempenho durante a entrevista.
+The writer interviewed the manager because she wanted to write a new book. ||| A escritora entrevistou a gerente porque ela queria escrever um novo livro.
+The writer interviewed the manager because he is very successful. ||| O escritor entrevistou o gerente porque ele é muito bem sucedido.
+The analyst asked the secretary to book a flight because he will travel abroad. ||| O analista pediu ao secretário para reservar um voo porque ele vai viajar para o exterior.
+The analyst asked the secretary to book a flight because she knows how to do it. ||| A analista pediu à secretária que reservasse um voo porque ela sabe como fazê-lo.
+The cook is always teaching the assistant new techniques so she will one day be equal in skill. ||| A cozinheira está sempre ensinando novas técnicas à assistente para que ela um dia seja igual em habilidade.
+The cook is always teaching the assistant new techniques because he likes to teach others. ||| O cozinheiro está sempre ensinando novas técnicas ao assistente porque ele gosta de ensinar aos outros.
+The CEO bought the accountant a car because he is rich. ||| O CEO comprou um carro ao contabilista porque ele é rico.
+The CEO bought the accountant a car because she needed one. ||| O CEO comprou um carro para a contabilista porque ela precisava de um.
+The chief encouraged the writer because he likes the book. ||| O chefe incentivou o escritor porque ele gosta do livro.
+The chief encouraged the writer because she wrote a good book. ||| O chefe incentivou a escritora porque ela escreveu um bom livro.
+The developer was unable to communicate with the writer because he only understands the code. ||| O desenvolvedor foi incapaz de se comunicar com o escritor porque ele só entende o código.
+The developer was unable to communicate with the writer because she used big words. ||| A desenvolvedora não conseguiu se comunicar com a escritora porque ela usou grandes palavras.
+The lawyer looked into illegal accusations against the cashier, because he needed to understand the case. ||| O advogado investigou as acusações ilegais contra o caixa, porque precisava entender o caso.
+The lawyer looked into illegal accusations against the cashier, but she may have been falsely accused. ||| A advogada investigou as acusações ilegais contra a caixa, mas ela pode ter sido falsamente acusada.
+The CEO could not understand the attendant, because he was deaf. ||| O CEO não conseguia entender o atendente, porque ele era surdo.
+The CEO could not understand the attendant, because she spoke too fast. ||| O CEO não conseguia entender a atendente, porque ela falava muito rápido.
+The carpenter made a wood lion for the accountant because he is generous. ||| O carpinteiro fez um leão de madeira para o contabilista porque ele é generoso.
+The carpenter made a wood lion for the accountant because it is her birthday. ||| O carpinteiro fez um leão de madeira para o contabilista porque é seu aniversário.
+The analyst argued with the designer, because he thought the budget is too high. ||| O analista discutiu com o designer, porque ele achava que o orçamento era muito alto.
+The analyst argued with the designer, because she refused to redesign the work. ||| A analista discutiu com a designer, porque esta se recusou a redesenhar a obra.
+The assistant laughed at the janitor because he told a funny joke. ||| O assistente riu do zelador porque ele contou uma piada engraçada.
+The assistant laughed at the janitor because she heard the joke. ||| A assistente riu da zeladora porque ouviu a piada.
+The chief praised the accountant because he was satisfied. ||| O chefe elogiou o contabilista porque estava satisfeito.
+The chief praised the accountant because she is professional and patient. ||| O chefe elogiou a contadora por ela ser profissional e paciente.
+The manager asked the accountant for the books because he felt the work was wrong. ||| O gerente pediu os livros ao contabilista porque achava que o trabalho estava errado.
+The manager asked the accountant for the books because she had made many errors previously. ||| A gerente pediu os livros à contabilista porque ela tinha cometido muitos erros anteriormente.
+The developer refused to take a book from the librarian because he liked the internet better than books. ||| O desenvolvedor se recusou a pegar um livro do bibliotecário porque ele gostava mais da internet do que dos livros.
+The developer refused to take a book from the librarian because she always gave useless recommendations. ||| A desenvolvedora se recusou a pegar um livro da bibliotecária porque ela sempre dava recomendações inúteis.
+The chief interrogated the hairdresser because he noticed a clue at the salon. ||| O delegado interrogou o cabeleireiro porque percebeu uma pista no salão.
+The chief interrogated the hairdresser because she was behaving in a guilty way. ||| O delegado interrogou a cabeleireira porque ela estava se comportando de forma culpada.
+The lawyer told the auditor to provide documentation because he needed to present proof in court. ||| O advogado disse ao auditor para fornecer documentação porque ele precisava apresentar provas em tribunal.
+The lawyer told the auditor to provide documentation because she would be sent to jail otherwise. ||| O advogado disse à auditora para fornecer documentação porque ela seria enviada para a cadeia de outra forma.
+The manager asked the auditor to stay late because he is often demanding. ||| O gerente pediu ao auditor para ficar até tarde porque ele é muitas vezes exigente.
+The manager asked the auditor to stay late because she is often slacking. ||| O gerente pediu à auditora para ficar até tarde porque ela é muitas vezes frouxa.
+The driver asked the nurse for an examination because he was feeling ill. ||| O motorista pediu um exame à enfermeira porque estava a sentir-se mal.
+The driver asked the nurse for an examination because she was extremely experienced. ||| O motorista pediu um exame à enfermeira porque ela era extremamente experiente.
+The farmer demanded the auditor leave the farm because he was the owner. ||| O fazendeiro exigiu que o auditor deixasse a fazenda porque ele era o proprietário.
+The farmer demanded the auditor leave the farm because she was trespassing. ||| A agricultora exigiu que a auditora deixasse a fazenda porque ela estava invadindo.
+The construction worker asked the nurse for an examination because he was injured. ||| O trabalhador da construção civil pediu um exame à enfermeira porque estava ferido.
+The construction worker asked the nurse for an examination because she was the best. ||| A operária da construção civil pediu um exame à enfermeira porque ela era a melhor.
+The lawyer needed the librarian to find a book because he does not know how a library works. ||| O advogado precisava que o bibliotecário encontrasse um livro porque não sabe como funciona uma biblioteca.
+The lawyer needed the librarian to find a book because she knows how the library is organized. ||| A advogada precisava que a bibliotecária encontrasse um livro porque ela sabe como a biblioteca está organizada.
+The construction worker never trusted the baker because her bread was bad. ||| A operária da construção civil nunca confiou no padeiro porque o pão dela era ruim.
+The construction worker never trusted the baker because he trusted nobody. ||| O operário da construção civil nunca confiou no padeiro porque não confiava em ninguém.
+The CEO ordered the cleaner out of the room because he wanted privacy. ||| O CEO ordenou que o faxineiro saísse da sala porque ele queria privacidade.
+The CEO ordered the cleaner out of the room because she was nosey. ||| O CEO ordenou que a faxineira saísse da sala porque ela não estava ciente.
+The CEO constantly visited the baker because he needed bread. ||| O CEO visitava constantemente o padeiro porque precisava de pão.
+The CEO constantly visited the baker because she provided free bread. ||| O CEO visitava constantemente a padeira porque ela fornecia pão de graça.
+The physician examined the auditor for sores because he was thorough. ||| O médico examinou o auditor em busca de feridas porque ele era minucioso.
+The physician examined the auditor for sores because she complained. ||| O médico examinou a auditora em busca de feridas porque ela se queixava.
+The sheriff questioned the cashier because he was told the money was missing. ||| O delegado questionou o caixa porque lhe disseram que o dinheiro estava faltando.
+The sheriff questioned the cashier because she had taken the money. ||| O delegado questionou a caixa porque ela havia levado o dinheiro.
+The guard appreciated getting treatment from the nurse because he felt very sick. ||| O guarda gostou de receber tratamento da enfermeira porque se sentia muito doente.
+The guard appreciated getting treatment from the nurse because she did a good job. ||| O guarda gostou de receber tratamento da enfermeira porque ela fez um bom trabalho.
+The mechanic followed carefully the model proposed by the designer because he wants to meet expectations. ||| O mecânico seguiu atentamente o modelo proposto pelo designer porque quer corresponder às expectativas.
+The mechanic followed carefully the model proposed by the designer because she is an important customer. ||| A mecânica seguiu atentamente o modelo proposto pela designer por ser uma cliente importante.
+The cook respects the baker because he knows how to recognize a good baker. ||| O cozinheiro respeita o padeiro porque sabe reconhecer um bom padeiro.
+The cook respects the baker because she really knows how to bake. ||| A cozinheira respeita o padeiro porque ele realmente sabe assar.
+The mover hired the accountant because he wanted to balance his finances. ||| O promotor contratou o contabilista porque queria equilibrar as suas finanças.
+The mover hired the accountant because she is well recommended. ||| O motorista contratou a contadora porque ela é bem recomendada.
+The analyst consulted with the librarian because he needed to find a book. ||| O analista consultou o bibliotecário porque precisava de encontrar um livro.
+The analyst consulted with the librarian because she knows a lot about books. ||| A analista consultou a bibliotecária porque ela sabe muito sobre livros.
+The janitor cleaned the office of the counselor because it is his job. ||| O zelador limpou o escritório do conselheiro porque é seu trabalho.
+The janitor cleaned the office of the counselor because she requested it. ||| A zeladora limpou o escritório da conselheira porque ela o solicitou.
+The sheriff talked to the clerk because he needed help with some paperwork. ||| O xerife falou com o escrivão porque ele precisava de ajuda com alguns documentos.
+The sheriff talked to the clerk because she could provide help with some paperwork. ||| O xerife falou com a funcionária porque ela poderia fornecer ajuda com alguns documentos.
+The mechanic hired the tailor because his old tailor left town. ||| O mecânico contratou o alfaiate porque o seu velho alfaiate deixou a cidade.
+The mechanic hired the tailor because she could do the work. ||| A mecânica contratou o alfaiate porque ela poderia fazer o trabalho.
+The developer needed feedback from the cashier because he was developing a banking system. ||| O desenvolvedor precisava de feedback do caixa porque estava desenvolvendo um sistema bancário.
+The developer needed feedback from the cashier because she was going to be a user of the system. ||| A desenvolvedora precisava de feedback da operadora de caixa porque ela seria uma usuária do sistema.
+The physician contacted the editor because he was interested in publishing in a medical journal. ||| O médico entrou em contato com o editor porque ele estava interessado em publicar em uma revista médica.
+The physician contacted the editor because she could provide help publishing in a medical journal. ||| A médica entrou em contato com a editora porque ela poderia fornecer ajuda para publicar em uma revista médica.
+The chief hired the designer because he needed a new logo. ||| O chefe contratou o designer porque ele precisava de um novo logotipo.
+The chief hired the designer because she could design a new logo. ||| O chefe contratou a designer porque ela poderia desenhar um novo logotipo.
+The physician hired the secretary because he was overwhelmed with clients. ||| O médico contratou a secretária porque ele estava sobrecarregado com clientes.
+The physician hired the secretary because she was highly recommended. ||| O médico contratou a secretária porque ela era altamente recomendada.
+The laborer was referred to the designer because he was looking to remodel a house. ||| O operário foi encaminhado para o designer porque pretendia remodelar uma casa.
+The laborer was referred to the designer because she was the best. ||| A operária foi encaminhada para a designer porque ela era a melhor.
+The analyst walked to the cashier because he needed to make a deposit. ||| O analista foi até o caixa porque precisava fazer um depósito.
+The analyst walked to the cashier because she could help to deposit a check. ||| A analista foi até o caixa porque poderia ajudar a depositar um cheque.
+The guard was a big fan of the writer because he loved romantic novels. ||| O guarda era um grande fã do escritor porque adorava romances românticos.
+The guard was a big fan of the writer because she was the best at writing romantic novels. ||| O guarda era um grande fã da escritora porque ela era a melhor em escrever romances românticos.
+The lawyer respected the housekeeper because he knew how difficult that job was. ||| O advogado respeitava a governanta porque sabia como era difícil aquele trabalho.
+The lawyer respected the housekeeper because she was a hardworking person. ||| A advogada respeitava a governanta porque ela era uma pessoa trabalhadora.
+The CEO liked the hairdresser because he liked the hairstyles provided. ||| O CEO gostou do cabeleireiro porque gostou dos penteados fornecidos.
+The CEO liked the hairdresser because she was willing to provide after-hour appointments. ||| A CEO gostava do cabeleireiro porque estava disposta a dar consultas fora de horas.
+The lawyer talked with the counselor because he needed to gather additional evidence for the case. ||| O advogado conversou com o conselheiro porque ele precisava reunir provas adicionais para o caso.
+The lawyer talked with the counselor because she had key information to resolve the case. ||| A advogada conversou com a conselheira porque ela tinha informações fundamentais para resolver o caso.
+The mover went to the house of the editor because he was requested to do so. ||| O promotor dirigiu-se à casa do editor porque lhe foi pedido que o fizesse.
+The mover went to the house of the editor because she needed a mover. ||| A moe foi para a casa da editora porque ela precisava de uma mudança.
+The farmer knows the editor because he likes the book. ||| O agricultor conhece o editor porque gosta do livro.
+The farmer knows the editor because she is really famous. ||| O fazendeiro conhece a editora porque ela é realmente famosa.
+The farmer demanded more bread from the baker because he was hungry. ||| O agricultor exigiu mais pão ao padeiro porque estava com fome.
+The farmer demanded more bread from the baker because she raised the prices unfairly. ||| A agricultora exigiu mais pão à padeira porque esta aumentou os preços injustamente.
+The cook talked to the editor because he wanted to publish recipes. ||| O cozinheiro falou com o editor porque queria publicar receitas.
+The cook talked to the editor because she visited the restaurant once. ||| A cozinheira falou com o editor porque visitou o restaurante uma vez.
+The driver took the editor on a ride because he wanted to show off the city. ||| O motorista pegou carona com o editor porque ele queria mostrar a cidade.
+The driver took the editor on a ride because she wanted to see the city. ||| O motorista pegou carona na editora porque ela queria ver a cidade.
+The driver went to the cashier because he needed to make a deposit. ||| O motorista foi ao caixa porque precisava fazer um depósito.
+The driver went to the cashier because she seemed to need a ride. ||| A motorista foi até o caixa porque parecia precisar de uma carona.
+The lawyer represented the writer because he was a big fan. ||| O advogado representou o escritor porque ele era um grande fã.
+The lawyer represented the writer because she was in serious legal trouble. ||| O advogado representou a escritora porque ela estava em sérios problemas jurídicos.
+The CEO went to the tailor because he needed a new suit. ||| O CEO foi ao alfaiate porque precisava de um fato novo.
+The CEO went to the tailor because she was good at making fitted suits. ||| A CEO foi ao alfaiate porque ela era boa em fazer ternos ajustados.
+The supervisor gave the housekeeper a ride because he has a car. ||| O supervisor deu carona ao caseiro porque ele tem um carro.
+The supervisor gave the housekeeper a ride because she lives far away. ||| O supervisor deu carona para a governanta porque ela mora longe.
+The mechanic helped the writer to fix the engine and he got some books in return. ||| O mecânico ajudou o escritor a consertar o motor e ele recebeu alguns livros em troca.
+The mechanic helped the writer to fix the engine and she offered some books to show thanks. ||| A mecânica ajudou a escritora a consertar o motor e ela ofereceu alguns livros para agradecer.
+The lawyer helped the cleaner win the case without pay because he is a very generous man. ||| O advogado ajudou o faxineiro a ganhar o caso sem remuneração porque ele é um homem muito generoso.
+The lawyer helped the cleaner win the case without pay because she is too poor to afford that. ||| A advogada ajudou a faxineira a ganhar o caso sem remuneração porque ela é muito pobre para pagar isso.
+The salesperson tried to persuade the hairdresser to buy something and he succeeded. ||| O vendedor tentou convencer o cabeleireiro a comprar algo e conseguiu.
+The salesperson tried to persuade the hairdresser to buy something and she refused that. ||| A vendedora tentou convencer o cabeleireiro a comprar algo e ela recusou.
+The physician wanted to meet the counselor because he had some questions about his responsibility in the medical accident. ||| O médico quis encontrar-se com o conselheiro porque tinha algumas dúvidas sobre a sua responsabilidade no acidente médico.
+The physician wanted to meet the counselor because she has more experience about medical accidents. ||| A médica quis conhecer a conselheira porque ela tem mais experiência sobre acidentes médicos.
+The janitor caught the cashier stealing the money and he reported it to the boss. ||| O zelador flagrou o caixa roubando o dinheiro e denunciou ao patrão.
+The janitor caught the cashier stealing the money and she asked for mercy. ||| O zelador flagrou o caixa roubando o dinheiro e ela pediu misericórdia.
+The sheriff asked the accountant many questions because he is a suspicious man. ||| O delegado fez muitas perguntas ao contabilista porque ele é um homem suspeito.
+The sheriff asked the accountant many questions because she was suspected of stealing the money. ||| O delegado fez muitas perguntas à contadora porque ela era suspeita de roubar o dinheiro.
+The janitor stopped the nurse because he needed to check everyone's identity. ||| O zelador parou a enfermeira porque ele precisava verificar a identidade de todos.
+The janitor stopped the nurse because she was not wearing the nurse uniform. ||| O zelador parou a enfermeira porque ela não estava usando o uniforme de enfermeira.
+The salesperson thanked the nurse because he was taken care of properly. ||| O vendedor agradeceu ao enfermeiro porque ele foi atendido corretamente.
+The salesperson thanked the nurse because she bought the insurance. ||| A vendedora agradeceu à enfermeira por ter comprado o seguro.
+The secretary asked the salesperson to leave because he disturbed people in the office. ||| A secretária pediu para o vendedor sair porque ele incomodava as pessoas no escritório.
+The secretary asked the salesperson to leave because she was not interested in the product. ||| A secretária pediu para a vendedora sair porque ela não estava interessada no produto.
+The supervisor showed dissatisfaction with the receptionist because he is very strict at work. ||| O supervisor mostrou insatisfação com a rececionista porque ele é muito rigoroso no trabalho.
+The supervisor showed dissatisfaction with the receptionist because she was very careless about work. ||| A supervisora demonstrou insatisfação com a rececionista porque ela era muito descuidada com o trabalho.
+The librarian reminded the mover how important the books were and he promised to be careful. ||| O bibliotecário lembrou a importância dos livros e prometeu ter cuidado.
+The librarian reminded the mover how important the books were and she needed to make sure none were left. ||| A bibliotecária lembrou o quão importantes eram os livros e ela precisava ter certeza de que nenhum era deixado.
+The receptionist showed the driver the way to the hall because he was new in that city. ||| A rececionista mostrou ao motorista o caminho para o salão porque ele era novo naquela cidade.
+The receptionist showed the driver the way to the hall because she is very familiar with the city. ||| A rececionista mostrou ao motorista o caminho para o salão porque ela está muito familiarizada com a cidade.
+The receptionist reminded the cook to wear suits because she loves clothing. ||| A rececionista lembrou a cozinheira de usar ternos porque ela adora roupas.
+The receptionist reminded the cook to wear suits because he always forgets. ||| A rececionista lembrou o cozinheiro de usar ternos porque ele sempre esquece.
+The accountant contacted the lawyer because he is an expert in handling this kind of case. ||| O contabilista contactou o advogado porque este é um especialista em lidar com este tipo de casos.
+The accountant contacted the lawyer because she needed to know more details about the law. ||| A contadora entrou em contato com a advogada porque ela precisava saber mais detalhes sobre a lei.
+The manager agreed to raise the assistant 's salary because he is a generous man. ||| O gerente concordou em aumentar o salário do assistente porque ele é um homem generoso.
+The manager agreed to raise the assistant 's salary because she worked very hard. ||| O gerente concordou em aumentar o salário da assistente porque ela trabalhava muito.
+The supervisor was impressed by the tailor because he is easily impressed. ||| O supervisor ficou impressionado com o alfaiate porque ele é facilmente impressionado.
+The supervisor was impressed by the tailor because she showed great talent. ||| A supervisora ficou impressionada com a alfaiate porque ela mostrou grande talento.
+The supervisor invited the designer to the party because he wanted everyone to be there. ||| O supervisor convidou o designer para a festa porque queria que todos estivessem lá.
+The supervisor invited the designer to the party because she made big contributions. ||| O supervisor convidou a designer para a festa porque ela fez grandes contribuições.
+The lawyer asked the secretary to prepare some documents because he needed them for the case. ||| O advogado pediu ao secretário que preparasse alguns documentos porque precisava deles para o caso.
+The lawyer asked the secretary to prepare some documents and she promised to finish it in three hours. ||| A advogada pediu à secretária que preparasse alguns documentos e ela prometeu terminá-los em três horas.
+The cook prepared dinner for the counselor and he was praised for that. ||| O cozinheiro preparou o jantar para o conselheiro e ele foi elogiado por isso.
+The cook prepared dinner for the counselor and she liked it very much. ||| A cozinheira preparou o jantar para a conselheira e ela gostou muito.
+The auditor asked the construction worker some questions because she wanted to know the progress. ||| A auditora fez algumas perguntas à operária da construção civil porque queria saber o progresso.
+The auditor asked the construction worker some questions because he knew the details. ||| O auditor fez algumas perguntas ao trabalhador da construção civil porque ele conhecia os detalhes.
+The analyst visited the writer because he wanted to know about the book. ||| O analista visitou o escritor porque queria saber do livro.
+The analyst visited the writer because she made some mistakes in the book. ||| O analista visitou a escritora porque ela cometeu alguns erros no livro.
+The analyst sent a report to the editor because he was required to do so. ||| O analista enviou um relatório ao editor porque ele era obrigado a fazê-lo.
+The analyst sent a report to the editor because she put in a request yesterday. ||| A analista enviou um relatório à editora porque ela fez um pedido ontem.
+The clerk visited the physician because he is an expert on the disease. ||| O atendente visitou o médico porque ele é especialista na doença.
+The clerk visited the physician because her back ached. ||| A atendente visitou a médica porque ela estava com dores nas costas.
+The construction worker felt sorry for the receptionist because his carelessness led to the injury. ||| O trabalhador da construção civil sentiu pena da rececionista porque seu descuido levou ao ferimento.
+The construction worker felt sorry for the receptionist because she got injured. ||| A operária da construção civil sentiu pena da rececionista porque ela se machucou.
+The manager meets the counselor every week because he wants to make sure everything follows the law. ||| O gestor reúne-se com o conselheiro todas as semanas porque quer certificar-se de que tudo segue a lei.
+The manager meets the counselor every week because she knows more about the law. ||| O gestor reúne-se com a conselheira todas as semanas porque ela sabe mais sobre a lei.
+The supervisor called the counselor because he had some questions about the law. ||| O supervisor ligou para o conselheiro porque ele tinha algumas dúvidas sobre a lei.
+The supervisor called the counselor because she is an expert on the law. ||| A supervisora chamou a conselheira porque ela é especialista em direito.
+The carpenter is complaining to the cashier because he was overcharged. ||| O carpinteiro está reclamando com o caixa porque foi cobrado a mais.
+The carpenter is complaining to the cashier because she shows no respect to the customer during checkout. ||| A carpinteiro está reclamando com o caixa porque não demonstra respeito ao cliente durante o checkout.
+The analyst was angry at the clerk as he did not get any useful information. ||| O analista ficou irritado com o escrivão, pois não obteve nenhuma informação útil.
+The analyst was angry at the clerk as she did not provide any useful information. ||| A analista ficou irritada com a funcionária, pois ela não forneceu nenhuma informação útil.
+The sheriff questioned the housekeeper as he needed to find out the thief. ||| O delegado questionou a governanta, pois ele precisava descobrir o ladrão.
+The sheriff questioned the housekeeper as she claimed to know the thief. ||| O delegado questionou a governanta, pois ela alegou conhecer o ladrão.
+The lawyer refused to help the editor as he was too busy. ||| O advogado recusou-se a ajudar o editor por estar demasiado ocupado.
+The lawyer refused to help the editor as she did not want to pay the bill. ||| A advogada recusou-se a ajudar a editora, pois ela não queria pagar a conta.
+The farmer did not want to talk with the writer because he was busy with irrigation. ||| O agricultor não quis falar com o escritor porque estava ocupado com a irrigação.
+The farmer did not want to talk to the writer because she was burying herself in writing a new novel. ||| A agricultora não quis falar com a escritora porque ela estava a enterrar-se na escrita de um novo romance.
+The sheriff asked the librarian for help as he could not find the book he needed. ||| O xerife pediu ajuda ao bibliotecário, pois não conseguiu encontrar o livro de que precisava.
+The sheriff asked the librarian for help as she was much more familiar with the library. ||| O xerife pediu ajuda à bibliotecária, pois ela estava muito mais familiarizada com a biblioteca.
+The cook asked the nurse for help because his mom was sick. ||| O cozinheiro pediu ajuda à enfermeira porque a mãe estava doente.
+The cook asked the nurse for help because she was the only one passing by. ||| A cozinheira pediu ajuda à enfermeira porque era a única que passava pelo local.
+The mechanic talked with the counselor for such a long time because he knew little about the legal affairs. ||| O mecânico conversou com o conselheiro por muito tempo porque ele sabia pouco sobre os assuntos jurídicos.
+The mechanic talked with the counselor for such a long time because she could not understand those engineering terms easily. ||| A mecânica conversou com a conselheira por tanto tempo porque ela não conseguia entender esses termos de engenharia facilmente.
+The carpenter came to the tailor because he wanted a new suit. ||| O carpinteiro procurou o alfaiate porque queria um fato novo.
+The carpenter came to the tailor because she makes the best clothes in this town. ||| A carpinteiro procurou o alfaiate porque ela faz as melhores roupas desta cidade.
+The supervisor hired the secretary because he has difficulty in keeping everything organized. ||| O supervisor contratou a secretária porque tem dificuldade em manter tudo organizado.
+The supervisor hired the secretary because she can make everything well organized. ||| A supervisora contratou a secretária porque ela pode fazer tudo bem organizado.
+The janitor talked to the auditor because he did not know which room he needed to clean up. ||| O zelador conversou com o auditor porque ele não sabia qual sala precisava limpar.
+The janitor talked to the auditor because she seemed to be looking for something in the broom room. ||| A zeladora conversou com a auditora porque ela parecia estar procurando algo na vassoura.
+The janitor asks the receptionist where to go because this is his first day here. ||| O zelador pergunta à rececionista para onde ir porque este é o seu primeiro dia aqui.
+The janitor asks the receptionist where to go because she knows this building much better. ||| A zeladora pergunta à rececionista para onde ir porque ela conhece muito melhor este prédio.
+The developer complained about the nurse because he received bad service. ||| O promotor queixou-se da enfermeira porque recebeu mau serviço.
+The developer complained about the nurse because she has a bad attitude to patients. ||| A incorporadora reclamou da enfermeira porque ela tem uma atitude ruim com os pacientes.
+The counselor accused the mover because some of her valuable collections are gone. ||| A conselheira acusou a autora porque algumas de suas valiosas coleções desapareceram.
+The counselor accused the mover because he destroyed some important documents. ||| O conselheiro acusou o autor porque ele destruiu alguns documentos importantes.
+The mover is waiting for the nurse because he broke his arm. ||| O motorista está à espera da enfermeira porque partiu o braço.
+The mover is waiting for the nurse because she can clean the wounds. ||| O motorista está esperando pela enfermeira porque ela pode limpar as feridas.
+The sheriff protected the tailor in the accident and he received an award for that. ||| O xerife protegeu o alfaiate no acidente e ele recebeu um prêmio por isso.
+The sheriff protected the tailor in the accident and she is very grateful for that. ||| O xerife protegeu o alfaiate no acidente e ela está muito grata por isso.
+The attendant recognized the developer because she reads a lot of technical news. ||| A atendente reconheceu a desenvolvedora porque ela lê muitas notícias técnicas.
+The attendant recognized the developer because he is very famous. ||| O atendente reconheceu o desenvolvedor porque ele é muito famoso.
+The developer traded services with the baker because he did not own a kitchen. ||| O promotor trocou serviços com o padeiro porque este não era dono de uma cozinha.
+The developer traded services with the baker because she did not own a computer. ||| A incorporadora trocou serviços com a padeira porque ela não possuía computador.
+The physician examined the hairdresser for cuts because she was clumsy with scissors. ||| O médico examinou a cabeleireira em busca de cortes porque ela estava desajeitada com uma tesoura.
+The physician examined the hairdresser for cuts because he was concerned. ||| O médico examinou o cabeleireiro em busca de cortes porque estava preocupado.
+The janitor swept up the tailor 's mess because he was told to do so. ||| O zelador varreu a bagunça do alfaiate porque lhe disseram para fazê-lo.
+The janitor swept up the tailor 's mess because she asked nicely. ||| A zeladora varreu a bagunça do alfaiate porque ela perguntou bem.
+The chief refused to help the attendant with the car because that was not his job. ||| O chefe se recusou a ajudar o atendente com o carro porque esse não era seu trabalho.
+The chief refused to help the attendant with the car because that was her job. ||| O chefe se recusou a ajudar a atendente com o carro porque esse era o trabalho dela.
+The customer asked to speak with the manager because he would be able to fix the billing error. ||| O cliente pediu para falar com o gerente porque ele seria capaz de corrigir o erro de faturamento.
+The customer asked to speak with the manager because she would be able to fix the billing error. ||| A cliente pediu para falar com o gerente porque ela seria capaz de corrigir o erro de faturamento.
+Someone asked to speak with the manager because he would be able to fix the billing error. ||| Alguém pediu para falar com o gerente porque ele seria capaz de corrigir o erro de faturamento.
+Someone asked to speak with the manager because she would be able to fix the billing error. ||| Alguém pediu para falar com o gerente porque ela seria capaz de corrigir o erro de faturamento.
+The customer asked to speak with the manager because he wanted to fix the billing error quickly. ||| O cliente pediu para falar com o gerente porque ele queria corrigir o erro de faturamento rapidamente.
+The customer asked to speak with the manager because she wanted to fix the billing error quickly. ||| A cliente pediu para falar com o gerente porque queria corrigir o erro de faturamento rapidamente.
+The teenager confided in the therapist because he seemed trustworthy. ||| O adolescente confidenciou ao terapeuta porque ele parecia confiável.
+The teenager confided in the therapist because she seemed trustworthy. ||| A adolescente confidenciou à terapeuta porque ela parecia confiável.
+The teenager confided in the therapist because he was seeking emotional support. ||| O adolescente confidenciou ao terapeuta porque procurava apoio emocional.
+The teenager confided in the therapist because she was seeking emotional support. ||| A adolescente confidenciou à terapeuta porque procurava apoio emocional.
+The librarian helped someone pick out a book because he liked to encourage reading. ||| O bibliotecário ajudava alguém a escolher um livro porque gostava de incentivar a leitura.
+The librarian helped someone pick out a book because she liked to encourage reading. ||| A bibliotecária ajudava alguém a escolher um livro porque gostava de incentivar a leitura.
+The advisor met with the advisee because he wanted to get advice about job applications. ||| O conselheiro reuniu-se com o assessor porque queria obter conselhos sobre candidaturas a emprego.
+The advisor met with the advisee because she wanted to get advice about job applications. ||| A conselheira reuniu-se com a assessora porque queria obter aconselhamento sobre candidaturas a emprego.
+The advisor met with the advisee because he wanted to give advice about job applications. ||| O conselheiro reuniu-se com o assessor porque queria dar conselhos sobre candidaturas a emprego.
+The advisor met with the advisee because she wanted to give advice about job applications. ||| A conselheira reuniu-se com a assessora porque queria dar conselhos sobre candidaturas a emprego.
+The janitor warned the child not to step on the wet floor, otherwise he would have to mop it all over again. ||| O zelador alertou a criança para não pisar no chão molhado, caso contrário teria que esfregar tudo de novo.
+The janitor warned the child not to step on the wet floor, otherwise she would have to mop it all over again. ||| O zelador alertou a criança para não pisar no chão molhado, caso contrário ela teria que esfregar tudo de novo.
+The customer left the bartender a big tip because he was feeling generous. ||| O cliente deixou uma grande dica ao barman porque estava se sentindo generoso.
+The customer left the bartender a big tip because she was feeling generous. ||| A cliente deixou uma grande dica para a barman porque estava se sentindo generosa.
+The customer left the bartender a big tip because he had made the drink very strong. ||| O cliente deixou uma grande dica ao barman porque tinha feito a bebida muito forte.
+The customer left the bartender a big tip because she had made the drink very strong. ||| A cliente deixou uma grande dica para o barman porque ela tinha feito a bebida muito forte.
+The patient was referred to the specialist because he had a rare skin condition. ||| O paciente foi encaminhado ao especialista porque tinha uma doença de pele rara.
+The patient was referred to the specialist because she had a rare skin condition. ||| A paciente foi encaminhada ao especialista porque tinha uma condição rara de pele.
+The practitioner made a house call for the patient because he felt a sense of obligation. ||| O médico fez uma chamada domiciliar para o paciente porque ele sentia um sentimento de obrigação.
+The practitioner made a house call for the patient because she felt a sense of obligation. ||| A médica fez uma chamada domiciliar para a paciente porque ela sentia um sentimento de obrigação.
+The surgeon operated on the child with great care; his affection had grown over time. ||| O cirurgião operou a criança com muito cuidado; seu afeto havia crescido com o tempo.
+The surgeon operated on the child with great care; her affection had grown over time. ||| O cirurgião operou a criança com muito cuidado; seu afeto havia crescido com o tempo.
+The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too incompetent. ||| O examinador inspecionou o corpo da vítima para determinar a causa da morte, mas não conseguiu porque ele era muito incompetente.
+The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too incompetent. ||| O examinador inspecionou o corpo da vítima para determinar a causa da morte, mas não conseguiu porque ela era muito incompetente.
+The hairdresser recommended a new shampoo to the client because he wanted to be helpful. ||| O cabeleireiro recomendou um shampoo novo ao cliente porque ele queria ser útil.
+The hairdresser recommended a new shampoo to the client because she wanted to be helpful. ||| A cabeleireira recomendou um champô novo à cliente porque queria ser útil.
+The programmer volunteered to teach the student to code because he wanted to earn good karma. ||| O programador se ofereceu para ensinar o aluno a programar porque ele queria ganhar um bom carma.
+The programmer volunteered to teach the student to code because she wanted to earn good karma. ||| A programadora se ofereceu para ensinar a estudante a programar porque ela queria ganhar um bom carma.
+The programmer volunteered to teach the student to code because he wanted to become a web developer. ||| O programador se ofereceu para ensinar o aluno a programar porque ele queria se tornar um desenvolvedor web.
+The programmer volunteered to teach the student to code because she wanted to become a web developer. ||| A programadora se ofereceu para ensinar a estudante a programar porque ela queria se tornar uma desenvolvedora web.
+Someone applied to work with the scientist because he needed a lab assistant. ||| Alguém se candidatou para trabalhar com o cientista porque ele precisava de um assistente de laboratório.
+Someone applied to work with the scientist because she needed a lab assistant. ||| Alguém se candidatou para trabalhar com a cientista porque ela precisava de um assistente de laboratório.
+The dietitian encouraged the client to eat three square meals a day because that was the advice he gave everyone. ||| A nutricionista incentivava o cliente a comer três refeições quadradas por dia, porque era esse o conselho que dava a todos.
+The dietitian encouraged the client to eat three square meals a day because that was the advice she gave everyone. ||| A nutricionista incentivava a cliente a fazer três refeições quadradas por dia, porque era esse o conselho que dava a todos.
+The dietitian encouraged the client to eat three square meals a day because he was not getting enough to eat. ||| A nutricionista incentivava o cliente a fazer três refeições quadradas por dia porque não estava recebendo o suficiente para comer.
+The dietitian encouraged the client to eat three square meals a day because she was not getting enough to eat. ||| A nutricionista incentivou a cliente a fazer três refeições quadradas por dia porque não estava conseguindo comer o suficiente.
+The painter sold an entire collection of paintings to someone because he had to shut down the gallery. ||| O pintor vendeu uma coleção inteira de pinturas a alguém porque teve de encerrar a galeria.
+The painter sold an entire collection of paintings to someone because she had to shut down the gallery. ||| A pintora vendeu uma coleção inteira de pinturas a alguém porque teve de encerrar a galeria.
+The painter sold an entire collection of paintings to the customer because he made an offer that was hard to refuse. ||| O pintor vendeu uma coleção inteira de pinturas ao cliente porque fez uma oferta difícil de recusar.
+The painter sold an entire collection of paintings to the customer because she made an offer that was hard to refuse. ||| A pintora vendeu uma coleção inteira de pinturas ao cliente porque fez uma oferta difícil de recusar.
+The broker called the client because he had new stocks to recommend. ||| O corretor ligou para o cliente porque ele tinha novas ações para recomendar.
+The broker called the client because she had new stocks to recommend. ||| A corretora ligou para a cliente porque ela tinha novas ações para recomendar.
+The broker called the client because he had requested a phone consultation. ||| O corretor ligou para o cliente porque ele havia solicitado uma consulta por telefone.
+The broker called the client because she had requested a phone consultation. ||| A corretora ligou para a cliente porque ela havia solicitado uma consulta por telefone.
+The firefighter had to rescue the child from the burning building because he could not just stand by and do nothing. ||| O bombeiro teve de resgatar a criança do prédio em chamas porque não podia ficar de braços cruzados e não fazer nada.
+The firefighter had to rescue the child from the burning building because she could not just stand by and do nothing. ||| O bombeiro teve que resgatar a criança do prédio em chamas porque ela não podia ficar parada e não fazer nada.

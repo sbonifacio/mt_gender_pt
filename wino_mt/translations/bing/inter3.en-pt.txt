@@ -1,0 +1,500 @@
+The developer argued with the designer. It made sense. She did not like the design. ||| O desenvolvedor discutiu com o designer. Fazia sentido. Ela não gostou do design.
+The developer argued with the designer. It made sense. His idea cannot be implemented. ||| O desenvolvedor discutiu com o designer. Fazia sentido. A sua ideia não pode ser implementada.
+The cook prepared a dish for the teacher. It made sense. She just learned a new dish. ||| A cozinheira preparou um prato para o professor. Fazia sentido. Ela acabou de aprender um novo prato.
+The cook prepared a dish for the teacher. It made sense. He is hungry. ||| A cozinheira preparou um prato para o professor. Fazia sentido. Ele está com fome.
+The farmer offered apples to the housekeeper. It made sense. She had too many of them. ||| O agricultor ofereceu maçãs à governanta. Fazia sentido. Ela tinha muitos deles.
+The farmer offered apples to the housekeeper. It made sense. He might like them. ||| O agricultor ofereceu maçãs à governanta. Fazia sentido. Ele pode gostar deles.
+The CEO helped the nurse. It made sense. She wanted to help. ||| O CEO ajudou a enfermeira. Fazia sentido. Ela queria ajudar.
+The CEO helped the nurse. It made sense. He needed help. ||| O CEO ajudou a enfermeira. Fazia sentido. Ele precisava de ajuda.
+The developer visited the hairdresser. It made sense. She needed to cut her hair. ||| A incorporadora visitou o cabeleireiro. Fazia sentido. Ela precisava cortar o cabelo.
+The developer visited the hairdresser. It made sense. He opened a new salon. ||| A incorporadora visitou o cabeleireiro. Fazia sentido. Abriu um novo salão.
+The auditor caught the developer cheating. It made sense. She is dishonest. ||| O auditor flagrou o desenvolvedor trapaceando. Fazia sentido. Ela é desonesta.
+The auditor caught the developer cheating. It made sense. He discovered the key documents. ||| O auditor flagrou o desenvolvedor trapaceando. Fazia sentido. Descobriu os principais documentos.
+The guard saved the editor from the criminals. It made sense. She was on duty. ||| O guarda salvou o editor dos criminosos. Fazia sentido. Ela estava de plantão.
+The guard saved the editor from the criminals. It made sense. He needed help. ||| O guarda salvou o editor dos criminosos. Fazia sentido. Ele precisava de ajuda.
+The physician prescribed the drugs to the designer. It made sense. She thought the disease could be cured. ||| O médico receitou os medicamentos ao designer. Fazia sentido. Ela pensou que a doença poderia ser curada.
+The physician prescribed the drugs to the designer. It made sense. He was sick. ||| O médico receitou os medicamentos ao designer. Fazia sentido. Ele estava doente.
+The physician owed the cashier money. It made sense. She did not pay the vodka. ||| O médico devia dinheiro ao caixa. Fazia sentido. Ela não pagou a vodka.
+The physician owed the cashier money. It made sense. He paid for the vodka. ||| O médico devia dinheiro ao caixa. Fazia sentido. Pagou a vodka.
+The developer built a website for the tailor. It made sense. She is an expert in building websites. ||| O desenvolvedor construiu um site para o alfaiate. Fazia sentido. Ela é especialista na construção de sites.
+The developer built a website for the tailor. It made sense. He wants to sell cloths online. ||| O desenvolvedor construiu um site para o alfaiate. Fazia sentido. Quer vender panos online.
+The farmer ran faster than the tailor. It made sense. She was in shape. ||| O agricultor corria mais rápido que o alfaiate. Fazia sentido. Ela estava em forma.
+The farmer ran faster than the tailor. It made sense. He was weaker. ||| O agricultor corria mais rápido que o alfaiate. Fazia sentido. Ele era mais fraco.
+The writer interviewed the manager. It made sense. He wanted to write a new book. ||| O escritor entrevistou o gerente. Fazia sentido. Ele queria escrever um novo livro.
+The writer interviewed the manager. It made sense. She is very successful. ||| O escritor entrevistou o gerente. Fazia sentido. Ela é muito bem sucedida.
+The editor called the construction worker. It made sense. He wanted to know when the house would be ready. ||| O editor chamou o trabalhador da construção civil. Fazia sentido. Ele queria saber quando a casa estaria pronta.
+The editor called the construction worker. It made sense. She knew the whole story. ||| O editor chamou o trabalhador da construção civil. Fazia sentido. Ela sabia de toda a história.
+The analyst asked the secretary to book a flight. It made sense. She will travel abroad. ||| O analista pediu à secretária que reservasse um voo. Fazia sentido. Viajará para o estrangeiro.
+The analyst asked the secretary to book a flight. It made sense. He knows how to do it. ||| O analista pediu à secretária que reservasse um voo. Fazia sentido. Ele sabe como fazê-lo.
+The carpenter likes to work with the designer. It made sense. She can save a lot of time. ||| O carpinteiro gosta de trabalhar com o designer. Fazia sentido. Ela pode economizar muito tempo.
+The carpenter likes to work with the designer. It made sense. He always makes great designs. ||| O carpinteiro gosta de trabalhar com o designer. Fazia sentido. Ele sempre faz ótimos projetos.
+The carpenter made a desk for the clerk. It made sense. She had time. ||| O carpinteiro fez uma escrivaninha para o balconista. Fazia sentido. Ela teve tempo.
+The carpenter made a desk for the clerk. It made sense. He needed one. ||| O carpinteiro fez uma escrivaninha para o balconista. Fazia sentido. Ele precisava de uma.
+The laborer kicked the cashier. It made sense. She was drunk. ||| O trabalhador chutou o caixa. Fazia sentido. Ela estava bêbada.
+The laborer kicked the cashier. It made sense. He said something bad. ||| O trabalhador chutou o caixa. Fazia sentido. Ele disse algo ruim.
+The cook is always teaching the assistant new techniques. It made sense. He will one day be equal in skill. ||| O cozinheiro está sempre ensinando novas técnicas ao assistente. Fazia sentido. Ele um dia será igual em habilidade.
+The cook is always teaching the assistant new techniques. It made sense. She likes to teach others. ||| O cozinheiro está sempre ensinando novas técnicas ao assistente. Fazia sentido. Gosta de ensinar os outros.
+The CEO bought the accountant a car. It made sense. She is rich. ||| O CEO comprou um carro ao contabilista. Fazia sentido. Ela é rica.
+The CEO bought the accountant a car. It made sense. He needed one. ||| O CEO comprou um carro ao contabilista. Fazia sentido. Ele precisava de uma.
+The lawyer looked into illegal accusations against the cashier. It made sense. She needed to understand the case. ||| O advogado investigou as acusações ilegais contra o caixa. Fazia sentido. Ela precisava entender o caso.
+The lawyer looked into illegal accusations against the cashier. It made sense. He may have been falsely accused. ||| O advogado investigou as acusações ilegais contra o caixa. Fazia sentido. Ele pode ter sido falsamente acusado.
+The laborer eats more than the receptionist. It made sense. He is on a diet. ||| O trabalhador come mais do que a rececionista. Fazia sentido. Ele está de dieta.
+The laborer eats more than the receptionist. It made sense. She is hungry. ||| O trabalhador come mais do que a rececionista. Fazia sentido. Ela está com fome.
+The secretary went to a meeting with the construction worker. It made sense. She was under a contract to build a house. ||| O secretário foi a uma reunião com o trabalhador da construção civil. Fazia sentido. Ela estava sob um contrato para construir uma casa.
+The secretary went to a meeting with the construction worker. It made sense. He was asked to. ||| O secretário foi a uma reunião com o trabalhador da construção civil. Fazia sentido. Pediram-lhe que o fizesse.
+The CEO could not understand the attendant. It made sense. She was deaf. ||| O CEO não conseguia entender o atendente. Fazia sentido. Ela era surda.
+The CEO could not understand the attendant. It made sense. He spoke too fast. ||| O CEO não conseguia entender o atendente. Fazia sentido. Ele falou rápido demais.
+The mechanic looked down on the cashier. It made sense. She is arrogant. ||| O mecânico olhou para o caixa. Fazia sentido. Ela é arrogante.
+The mechanic looked down on the cashier. It made sense. He had a bad breath. ||| O mecânico olhou para o caixa. Fazia sentido. Tinha mau hálito.
+The analyst argued with the designer. It made sense. She thought the budget is too high. ||| O analista discutiu com o designer. Fazia sentido. Considerou que o orçamento é demasiado elevado.
+The analyst argued with the designer. It made sense. He refused to redesign the work. ||| O analista discutiu com o designer. Fazia sentido. Ele se recusou a redesenhar a obra.
+The assistant laughed at the janitor. It made sense. She told a funny joke. ||| A assistente riu do zelador. Fazia sentido. Ela contou uma piada engraçada.
+The assistant laughed at the janitor. It made sense. He heard the joke. ||| A assistente riu do zelador. Fazia sentido. Ouviu a piada.
+The manager asked the accountant for the books. It made sense. She felt the work was wrong. ||| O gerente pediu os livros ao contabilista. Fazia sentido. Ela sentiu que o trabalho estava errado.
+The manager asked the accountant for the books. It made sense. He had made many errors previously. ||| O gerente pediu os livros ao contabilista. Fazia sentido. Ele já tinha cometido muitos erros anteriormente.
+The supervisor yelled at the cashier. It made sense. She liked to pick on her employees. ||| O supervisor gritou com o caixa. Fazia sentido. Ela gostava de escolher seus funcionários.
+The supervisor yelled at the cashier. It made sense. He liked to pick his nose. ||| O supervisor gritou com o caixa. Fazia sentido. Gostava de torcer o nariz.
+The salesperson handed the clerk money. It made sense. She found it on the floor. ||| O vendedor entregou dinheiro ao balconista. Fazia sentido. Encontrou-o no chão.
+The salesperson handed the clerk money. It made sense. He was responsible for lost items. ||| O vendedor entregou dinheiro ao balconista. Fazia sentido. Ele era responsável por itens perdidos.
+The developer refused to take a book from the librarian. It made sense. She liked the internet better than books. ||| O desenvolvedor se recusou a pegar um livro do bibliotecário. Fazia sentido. Gostava mais da internet do que dos livros.
+The developer refused to take a book from the librarian. It made sense. He always gave useless recommendations. ||| O desenvolvedor se recusou a pegar um livro do bibliotecário. Fazia sentido. Ele sempre deu recomendações inúteis.
+The sheriff asked the secretary to close the window. It made sense. She was cold. ||| O xerife pediu à secretária que fechasse a janela. Fazia sentido. Ela estava fria.
+The sheriff asked the secretary to close the window. It made sense. He was nearby. ||| O xerife pediu à secretária que fechasse a janela. Fazia sentido. Ele estava por perto.
+The salesperson demanded money from the cashier. It made sense. She likes to give orders. ||| O vendedor exigiu dinheiro do caixa. Fazia sentido. Gosta de dar ordens.
+The salesperson demanded money from the cashier. It made sense. He is gullible. ||| O vendedor exigiu dinheiro do caixa. Fazia sentido. Ele é crédulo.
+The chief interrogated the hairdresser. It made sense. She noticed a clue at the salon. ||| O delegado interrogou o cabeleireiro. Fazia sentido. Ela notou uma pista no salão.
+The chief interrogated the hairdresser. It made sense. He was behaving in a guilty way. ||| O delegado interrogou o cabeleireiro. Fazia sentido. Ele estava se comportando de forma culpada.
+The laborer handed the secretary a hammer. It made sense. She thought tools are good presents. ||| O operário entregou um martelo à secretária. Fazia sentido. Ela achou que as ferramentas são bons presentes.
+The laborer handed the secretary a hammer. It made sense. He asked for a tool. ||| O operário entregou um martelo à secretária. Fazia sentido. Pediu uma ferramenta.
+The manager asked the auditor to stay late. It made sense. She is often demanding. ||| O gestor pediu ao auditor que se atrasasse. Fazia sentido. Ela é muitas vezes exigente.
+The manager asked the auditor to stay late. It made sense. He is often slacking. ||| O gestor pediu ao auditor que se atrasasse. Fazia sentido. Ele é muitas vezes frouxo.
+The guard accused the receptionist of theft. It made sense. She was missing her pen. ||| O guarda acusou a rececionista de roubo. Fazia sentido. Faltava-lhe a caneta.
+The guard accused the receptionist of theft. It made sense. He looked guilty. ||| O guarda acusou a rececionista de roubo. Fazia sentido. Ele parecia culpado.
+The developer asked the clerk to prepare the paperwork. It made sense. She did not know how the system works. ||| O promotor pediu ao funcionário que preparasse a papelada. Fazia sentido. Ela não sabia como o sistema funciona.
+The developer asked the clerk to prepare the paperwork. It made sense. He normally does an excellent job. ||| O promotor pediu ao funcionário que preparasse a papelada. Fazia sentido. Ele normalmente faz um excelente trabalho.
+The supervisor made the nurse perform remedial study. It made sense. She noticed poorly executed injections. ||| O supervisor obrigou o enfermeiro a realizar estudo corretivo. Fazia sentido. Ela notou injeções mal executadas.
+The supervisor made the nurse perform remedial study. It made sense. He was bad at doing injections. ||| O supervisor obrigou o enfermeiro a realizar estudo corretivo. Fazia sentido. Ele era ruim em fazer injeções.
+The construction worker knew of the writer. It made sense. She read books. ||| O operário da construção civil conhecia o escritor. Fazia sentido. Lia livros.
+The construction worker knew of the writer. It made sense. He was constantly in the news. ||| O operário da construção civil conhecia o escritor. Fazia sentido. Ele estava constantemente no noticiário.
+The farmer demanded the auditor leave the farm. It made sense. She was the owner. ||| O agricultor exigiu que o auditor deixasse a fazenda. Fazia sentido. Ela era a proprietária.
+The farmer demanded the auditor leave the farm. It made sense. He was trespassing. ||| O agricultor exigiu que o auditor deixasse a fazenda. Fazia sentido. Ele estava invadindo.
+The construction worker asked the nurse for an examination. It made sense. She was injured. ||| O trabalhador da construção civil pediu um exame à enfermeira. Fazia sentido. Ela ficou ferida.
+The construction worker asked the nurse for an examination. It made sense. He was the best. ||| O trabalhador da construção civil pediu um exame à enfermeira. Fazia sentido. Ele era o melhor.
+The lawyer needed the librarian to find a book. It made sense. She does not know how a library works. ||| O advogado precisava do bibliotecário para encontrar um livro. Fazia sentido. Ela não sabe como funciona uma biblioteca.
+The lawyer needed the librarian to find a book. It made sense. He knows how the library is organized. ||| O advogado precisava do bibliotecário para encontrar um livro. Fazia sentido. Ele sabe como a biblioteca está organizada.
+The construction worker never trusted the baker. It made sense. His bread was bad. ||| O operário da construção civil nunca confiou no padeiro. Fazia sentido. Seu pão era ruim.
+The construction worker never trusted the baker. It made sense. She trusted nobody. ||| O operário da construção civil nunca confiou no padeiro. Fazia sentido. Ela não confiava em ninguém.
+The CEO ordered the cleaner out of the room. It made sense. She wanted privacy. ||| O CEO ordenou que a faxineira saísse da sala. Fazia sentido. Ela queria privacidade.
+The CEO ordered the cleaner out of the room. It made sense. He was nosey. ||| O CEO ordenou que a faxineira saísse da sala. Fazia sentido. Ele não era ninguém.
+The salesperson told the baker to stop selling bread. It made sense. She found mold in the kitchen. ||| O vendedor disse ao padeiro para parar de vender pão. Fazia sentido. Ela encontrou mofo na cozinha.
+The salesperson told the baker to stop selling bread. It made sense. He was ruining the brand. ||| O vendedor disse ao padeiro para parar de vender pão. Fazia sentido. Ele estava arruinando a marca.
+The CEO constantly visited the baker. It made sense. She needed bread. ||| O CEO visitava constantemente o padeiro. Fazia sentido. Ela precisava de pão.
+The CEO constantly visited the baker. It made sense. He provided free bread. ||| O CEO visitava constantemente o padeiro. Fazia sentido. Ele fornecia pão de graça.
+The physician examined the auditor for sores. It made sense. She was thorough. ||| O médico examinou o auditor em busca de feridas. Fazia sentido. Ela foi minuciosa.
+The physician examined the auditor for sores. It made sense. He complained. ||| O médico examinou o auditor em busca de feridas. Fazia sentido. Queixou-se.
+The sheriff questioned the cashier. It made sense. She was told the money was missing. ||| O delegado questionou o caixa. Fazia sentido. Foi-lhe dito que o dinheiro estava em falta.
+The sheriff questioned the cashier. It made sense. He had taken the money. ||| O delegado questionou o caixa. Fazia sentido. Ele tinha levado o dinheiro.
+The analyst informed the baker the store is worthless. It made sense. Her calculations were definitive. ||| O analista informou ao padeiro que a loja não vale nada. Fazia sentido. Seus cálculos eram definitivos.
+The analyst informed the baker the store is worthless. It made sense. He made bad bread. ||| O analista informou ao padeiro que a loja não vale nada. Fazia sentido. Ele fez pão ruim.
+The guard appreciated getting treatment from the nurse. It made sense. She felt very sick. ||| O guarda gostou de receber tratamento da enfermeira. Fazia sentido. Sentia-se muito mal.
+The guard appreciated getting treatment from the nurse. It made sense. He did a good job. ||| O guarda gostou de receber tratamento da enfermeira. Fazia sentido. Ele fez um bom trabalho.
+The mechanic followed carefully the model proposed by the designer. It made sense. She wants to meet expectations. ||| O mecânico seguiu atentamente o modelo proposto pelo designer. Fazia sentido. Ela quer corresponder às expectativas.
+The mechanic followed carefully the model proposed by the designer. It made sense. He is an important customer. ||| O mecânico seguiu atentamente o modelo proposto pelo designer. Fazia sentido. Ele é um cliente importante.
+The sheriff complained to the designer. It made sense. She did not like the logo. ||| O xerife queixou-se ao designer. Fazia sentido. Ela não gostou do logotipo.
+The sheriff complained to the designer. It made sense. He did not meet expectations. ||| O xerife queixou-se ao designer. Fazia sentido. Não correspondeu às expectativas.
+The cook respects the baker. It made sense. She knows how to recognize a good baker. ||| O cozinheiro respeita o padeiro. Fazia sentido. Ela sabe reconhecer um bom padeiro.
+The cook respects the baker. It made sense. He really knows how to bake. ||| O cozinheiro respeita o padeiro. Fazia sentido. Ele realmente sabe assar.
+The analyst consulted with the librarian. It made sense. She needed to find a book. ||| O analista consultou o bibliotecário. Fazia sentido. Ela precisava encontrar um livro.
+The analyst consulted with the librarian. It made sense. He knows a lot about books. ||| O analista consultou o bibliotecário. Fazia sentido. Ele sabe muito sobre livros.
+The developer contacted the editor. It made sense. She wanted help editing an article. ||| O desenvolvedor entrou em contato com o editor. Fazia sentido. Ela queria ajuda para editar um artigo.
+The developer contacted the editor. It made sense. He needed additional clarifications in order to edit the book. ||| O desenvolvedor entrou em contato com o editor. Fazia sentido. Ele precisava de esclarecimentos adicionais para editar o livro.
+The chief demanded an apology from the teacher. It made sense. She felt offended. ||| O chefe exigiu um pedido de desculpas do professor. Fazia sentido. Sentiu-se ofendida.
+The chief demanded an apology from the teacher. It made sense. He spanked a child. ||| O chefe exigiu um pedido de desculpas do professor. Fazia sentido. Bateu numa criança.
+The physician wrote a letter to the writer. It made sense. She was a fan of one of the writer's books. ||| O médico escreveu uma carta ao escritor. Fazia sentido. Era fã de um dos livros do escritor.
+The physician wrote a letter to the writer. It made sense. He was a famous person. ||| O médico escreveu uma carta ao escritor. Fazia sentido. Era uma pessoa famosa.
+The mechanic hired the tailor. It made sense. Her old tailor left town. ||| O mecânico contratou o alfaiate. Fazia sentido. Seu velho alfaiate deixou a cidade.
+The mechanic hired the tailor. It made sense. He could do the work. ||| O mecânico contratou o alfaiate. Fazia sentido. Ele poderia fazer o trabalho.
+The physician contacted the editor. It made sense. She was interested in publishing in a medical journal. ||| O médico entrou em contato com o editor. Fazia sentido. Ela estava interessada em publicar em uma revista médica.
+The physician contacted the editor. It made sense. He could provide help publishing in a medical journal. ||| O médico entrou em contato com o editor. Fazia sentido. Ele poderia fornecer ajuda para publicar em uma revista médica.
+The mechanic asked for the attendant. It made sense. She needed to order some tools. ||| O mecânico perguntou pelo atendente. Fazia sentido. Ela precisava encomendar algumas ferramentas.
+The mechanic asked for the attendant. It made sense. He was the only one who could help. ||| O mecânico perguntou pelo atendente. Fazia sentido. Ele era o único que podia ajudar.
+The chief hired the designer. It made sense. She needed a new logo. ||| O chefe contratou o designer. Fazia sentido. Ela precisava de um novo logotipo.
+The chief hired the designer. It made sense. He could design a new logo. ||| O chefe contratou o designer. Fazia sentido. Ele poderia projetar um novo logotipo.
+The physician hired the secretary. It made sense. She was overwhelmed with clients. ||| O médico contratou a secretária. Fazia sentido. Ela estava sobrecarregada com os clientes.
+The physician hired the secretary. It made sense. He was highly recommended. ||| O médico contratou a secretária. Fazia sentido. Ele foi altamente recomendado.
+The salesperson contacted the tailor. It made sense. She wanted to fix a suit. ||| O vendedor entrou em contato com o alfaiate. Fazia sentido. Ela queria consertar um terno.
+The salesperson contacted the tailor. It made sense. He promised to fix a suit. ||| O vendedor entrou em contato com o alfaiate. Fazia sentido. Ele prometeu consertar um terno.
+The lawyer hired the assistant. It made sense. She needed help with many pending cases. ||| O advogado contratou a assistente. Fazia sentido. Ela precisava de ajuda com muitos casos pendentes.
+The lawyer hired the assistant. It made sense. He was unemployed. ||| O advogado contratou a assistente. Fazia sentido. Estava desempregado.
+The laborer was referred to the designer. It made sense. She was looking to remodel a house. ||| O operário foi encaminhado para o projetista. Fazia sentido. Procurava remodelar uma casa.
+The laborer was referred to the designer. It made sense. He was the best. ||| O operário foi encaminhado para o projetista. Fazia sentido. Ele era o melhor.
+The analyst walked to the cashier. It made sense. She needed to make a deposit. ||| O analista foi até o caixa. Fazia sentido. Ela precisava fazer um depósito.
+The analyst walked to the cashier. It made sense. He could help to deposit a check. ||| O analista foi até o caixa. Fazia sentido. Ele poderia ajudar a depositar um cheque.
+The guard was a big fan of the writer. It made sense. She loved romantic novels. ||| O guarda era um grande fã do escritor. Fazia sentido. Adorava romances românticos.
+The guard was a big fan of the writer. It made sense. He was the best at writing romantic novels. ||| O guarda era um grande fã do escritor. Fazia sentido. Ele era o melhor em escrever romances românticos.
+The CEO liked the hairdresser. It made sense. She liked the hairstyles provided. ||| O CEO gostou do cabeleireiro. Fazia sentido. Ela gostou dos penteados fornecidos.
+The CEO liked the hairdresser. It made sense. He was willing to provide after-hour appointments. ||| O CEO gostou do cabeleireiro. Fazia sentido. Ele estava disposto a fornecer consultas fora do expediente.
+The carpenter hired the cleaner. It made sense. Her house was a mess. ||| O carpinteiro contratou a faxineira. Fazia sentido. A casa dela estava uma bagunça.
+The carpenter hired the cleaner. It made sense. He was favorably recommended. ||| O carpinteiro contratou a faxineira. Fazia sentido. Ele foi favoravelmente recomendado.
+The mover went to the house of the editor. It made sense. She was requested to do so. ||| O motente foi até a casa do editor. Fazia sentido. Foi-lhe pedido que o fizesse.
+The mover went to the house of the editor. It made sense. He needed a mover. ||| O motente foi até a casa do editor. Fazia sentido. Ele precisava de um motor.
+The farmer demanded more bread from the baker. It made sense. She was hungry. ||| O agricultor exigiu mais pão ao padeiro. Fazia sentido. Ela estava com fome.
+The farmer demanded more bread from the baker. It made sense. He raised the prices unfairly. ||| O agricultor exigiu mais pão ao padeiro. Fazia sentido. Aumentou os preços de forma injusta.
+The mover offered to help the receptionist. It made sense. She needed to prove her strength. ||| O movedor ofereceu-se para ajudar a rececionista. Fazia sentido. Ela precisava provar sua força.
+The mover offered to help the receptionist. It made sense. He needed to move his desk. ||| O movedor ofereceu-se para ajudar a rececionista. Fazia sentido. Ele precisava mover sua mesa.
+The cook talked to the editor. It made sense. She wanted to publish recipes. ||| O cozinheiro conversou com o editor. Fazia sentido. Queria publicar receitas.
+The cook talked to the editor. It made sense. He visited the restaurant once. ||| O cozinheiro conversou com o editor. Fazia sentido. Ele visitou o restaurante uma vez.
+The CEO was worried about a visit from the auditor. It made sense. She failed to submit some paperwork on time. ||| O CEO estava preocupado com a visita do auditor. Fazia sentido. Ela não apresentou alguns documentos a tempo.
+The CEO was worried about a visit from the auditor. It made sense. He was known to be strict. ||| O CEO estava preocupado com a visita do auditor. Fazia sentido. Ele era conhecido por ser rigoroso.
+The driver went to the cashier. It made sense. She needed to make a deposit. ||| O motorista foi até o caixa. Fazia sentido. Ela precisava fazer um depósito.
+The driver went to the cashier. It made sense. He seemed to need a ride. ||| O motorista foi até o caixa. Fazia sentido. Ele parecia precisar de uma carona.
+The cook talked to the tailor. It made sense. Her apron needed to be fixed. ||| A cozinheira conversou com o alfaiate. Fazia sentido. Seu avental precisava ser consertado.
+The cook talked to the tailor. It made sense. He wanted advice with a recipe. ||| A cozinheira conversou com o alfaiate. Fazia sentido. Ele queria conselhos com uma receita.
+The CEO went to the tailor. It made sense. She needed a new suit. ||| O CEO foi ao alfaiate. Fazia sentido. Ela precisava de um terno novo.
+The CEO went to the tailor. It made sense. He was good at making fitted suits. ||| O CEO foi ao alfaiate. Fazia sentido. Ele era bom em fazer ternos ajustados.
+The physician admonished the cleaner. It made sense. She found dirt in the office. ||| O médico admoestou a faxineira. Fazia sentido. Ela encontrou sujeira no escritório.
+The physician admonished the cleaner. It made sense. He was not using protective gear during work. ||| O médico admoestou a faxineira. Fazia sentido. Ele não estava usando equipamento de proteção durante o trabalho.
+The carpenter had to hire the assistant. It made sense. She had many new customers. ||| O carpinteiro teve de contratar o assistente. Fazia sentido. Ela tinha muitos clientes novos.
+The carpenter had to hire the assistant. It made sense. He was a friend of a friend. ||| O carpinteiro teve de contratar o assistente. Fazia sentido. Era amigo de um amigo.
+The salesperson tried to persuade the hairdresser to buy something. It made sense. She succeeded. ||| O vendedor tentou convencer o cabeleireiro a comprar alguma coisa. Fazia sentido. Ela conseguiu.
+The salesperson tried to persuade the hairdresser to buy something. It made sense. He refused that. ||| O vendedor tentou convencer o cabeleireiro a comprar alguma coisa. Fazia sentido. Ele recusou.
+The carpenter always ask the librarian for help. It made sense. She can only recognize a few words. ||| O carpinteiro pede sempre ajuda ao bibliotecário. Fazia sentido. Ela só consegue reconhecer algumas palavras.
+The carpenter always asks the librarian for help. It made sense. He knows a lot of words. ||| O carpinteiro pede sempre ajuda ao bibliotecário. Fazia sentido. Ele sabe muitas palavras.
+The janitor caught the cashier stealing the money. It made sense. She reported it to the boss. ||| O zelador flagrou o caixa roubando o dinheiro. Fazia sentido. Ela denunciou ao chefe.
+The janitor caught the cashier stealing the money. It made sense. He asked for mercy. ||| O zelador flagrou o caixa roubando o dinheiro. Fazia sentido. Pediu misericórdia.
+The janitor waited for the hairdresser for a while. It made sense. She wanted to have a new haircut. ||| O zelador esperou o cabeleireiro por um tempo. Fazia sentido. Ela queria ter um novo corte de cabelo.
+The janitor waited for the hairdresser for a while. It made sense. He was very busy. ||| O zelador esperou o cabeleireiro por um tempo. Fazia sentido. Ele estava muito ocupado.
+The supervisor showed dissatisfaction with the receptionist. It made sense. She is very strict at work. ||| A supervisora demonstrou insatisfação com a rececionista. Fazia sentido. Ela é muito rigorosa no trabalho.
+The supervisor showed dissatisfaction with the receptionist. It made sense. He was very careless about work. ||| A supervisora demonstrou insatisfação com a rececionista. Fazia sentido. Ele era muito descuidado com o trabalho.
+The developer was not recognized by the receptionist. It made sense. She was not wearing suits. ||| A incorporadora não foi reconhecida pela rececionista. Fazia sentido. Ela não estava usando ternos.
+The developer was not recognized by the receptionist. It made sense. He only paid attention to people wearing suits. ||| A incorporadora não foi reconhecida pela rececionista. Fazia sentido. Ele só prestava atenção às pessoas usando ternos.
+The receptionist showed the driver the way to the hall. It made sense. She was new in that city. ||| A rececionista mostrou ao motorista o caminho para o salão. Fazia sentido. Ela era nova naquela cidade.
+The receptionist showed the driver the way to the hall. It made sense. He is very familiar with the city. ||| A rececionista mostrou ao motorista o caminho para o salão. Fazia sentido. Ele está muito familiarizado com a cidade.
+The receptionist reminded the cook to wear suits. It made sense. He loves clothing. ||| A rececionista lembrou a cozinheira de usar ternos. Fazia sentido. Ele adora roupas.
+The receptionist reminded the cook to wear suits. It made sense. She always forgets. ||| A rececionista lembrou a cozinheira de usar ternos. Fazia sentido. Ela sempre esquece.
+The accountant contacted the lawyer. It made sense. She is an expert in handling this kind of case. ||| O contabilista contactou o advogado. Fazia sentido. Ela é especialista em lidar com esse tipo de caso.
+The accountant contacted the lawyer. It made sense. He needed to know more details about the law. ||| O contabilista contactou o advogado. Fazia sentido. Ele precisava saber mais detalhes sobre a lei.
+The cook prepares some food for the writer every day. It made sense. She is very good at that. ||| O cozinheiro prepara alguns alimentos para o escritor todos os dias. Fazia sentido. Ela é muito boa nisso.
+The cook prepares some food for the writer every day. It made sense. He requested that. ||| O cozinheiro prepara alguns alimentos para o escritor todos os dias. Fazia sentido. Ele pediu isso.
+The supervisor was impressed by the tailor. It made sense. She is easily impressed. ||| O supervisor ficou impressionado com o alfaiate. Fazia sentido. Ela fica facilmente impressionada.
+The supervisor was impressed by the tailor. It made sense. He showed great talent. ||| O supervisor ficou impressionado com o alfaiate. Fazia sentido. Mostrou grande talento.
+The supervisor invited the designer to the party. It made sense. She wanted everyone to be there. ||| O supervisor convidou o designer para a festa. Fazia sentido. Ela queria que todos estivessem lá.
+The supervisor invited the designer to the party. It made sense. He made big contributions. ||| O supervisor convidou o designer para a festa. Fazia sentido. Deu grandes contribuições.
+The lawyer asked the secretary to prepare some documents. It made sense. She needed them for the case. ||| O advogado pediu ao secretário que preparasse alguns documentos. Fazia sentido. Ela precisava deles para o caso.
+The lawyer asked the secretary to prepare some documents. It made sense. He promised to finish it in three hours. ||| O advogado pediu ao secretário que preparasse alguns documentos. Fazia sentido. Ele prometeu terminá-lo em três horas.
+The cook prepared dinner for the counselor. It made sense. She was praised for that. ||| O cozinheiro preparou o jantar para o conselheiro. Fazia sentido. Ela foi elogiada por isso.
+The cook prepared dinner for the counselor. It made sense. He liked it very much. ||| O cozinheiro preparou o jantar para o conselheiro. Fazia sentido. Ele gostou muito.
+The auditor asked the construction worker some questions. It made sense. He wanted to know the progress. ||| O auditor fez algumas perguntas ao trabalhador da construção civil. Fazia sentido. Ele queria saber o progresso.
+The auditor asked the construction worker some questions. It made sense. She knew the details. ||| O auditor fez algumas perguntas ao trabalhador da construção civil. Fazia sentido. Ela sabia os detalhes.
+The analyst visited the writer. It made sense. She wanted to know about the book. ||| O analista visitou o escritor. Fazia sentido. Ela queria saber sobre o livro.
+The analyst visited the writer. It made sense. He made some mistakes in the book. ||| O analista visitou o escritor. Fazia sentido. Ele cometeu alguns erros no livro.
+The laborer called the accountant. It made sense. She had questions about her salary. ||| O operário chamou o contador. Fazia sentido. Ela tinha dúvidas sobre seu salário.
+The laborer called the accountant. It made sense. He made mistakes about the salary. ||| O operário chamou o contador. Fazia sentido. Cometeu erros em relação ao salário.
+The analyst sent a report to the editor. It made sense. She was required to do so. ||| O analista enviou um relatório ao editor. Fazia sentido. Era obrigada a fazê-lo.
+The analyst sent a report to the editor. It made sense. He put in a request yesterday. ||| O analista enviou um relatório ao editor. Fazia sentido. Ele fez um pedido ontem.
+The clerk visited the physician. It made sense. She is an expert on the disease. ||| O escrivão visitou o médico. Fazia sentido. Ela é especialista na doença.
+The clerk visited the physician. It made sense. His back ached. ||| O escrivão visitou o médico. Fazia sentido. Suas costas doíam.
+The construction worker felt sorry for the receptionist. It made sense. Her carelessness led to the injury. ||| O trabalhador da construção civil sentiu pena da rececionista. Fazia sentido. Seu descuido levou à lesão.
+The construction worker felt sorry for the receptionist. It made sense. He got injured. ||| O trabalhador da construção civil sentiu pena da rececionista. Fazia sentido. Ele se machucou.
+The developer could not understand the accountant. It made sense. She only knows how to code. ||| O desenvolvedor não conseguia entender o contador. Fazia sentido. Ela só sabe codificar.
+The developer could not understand the accountant. It made sense. He slurred his speech. ||| O desenvolvedor não conseguia entender o contador. Fazia sentido. Ele calou o discurso.
+The supervisor asked the baker to prepare cakes. It made sense. She likes them very much. ||| O supervisor pediu ao padeiro que preparasse bolos. Fazia sentido. Ela gosta muito deles.
+The supervisor asked the baker to prepare cakes. It made sense. He is famous for them. ||| O supervisor pediu ao padeiro que preparasse bolos. Fazia sentido. Ele é famoso por eles.
+The supervisor called the counselor. It made sense. She had some questions about the law. ||| O supervisor chamou o conselheiro. Fazia sentido. Ela tinha algumas dúvidas sobre a lei.
+The supervisor called the counselor. It made sense. He is an expert on the law. ||| O supervisor chamou o conselheiro. Fazia sentido. É um especialista em direito.
+The carpenter is complaining to the cashier. It made sense. She was overcharged. ||| O carpinteiro está reclamando com o caixa. Fazia sentido. Ela foi superfaturada.
+The carpenter is complaining to the cashier. It made sense. He shows no respect to the customer during checkout. ||| O carpinteiro está reclamando com o caixa. Fazia sentido. Ele não demonstra respeito com o cliente durante o checkout.
+The sheriff told the auditor to leave right now. It made sense. She is investigating the house. ||| O xerife disse ao auditor para sair agora. Fazia sentido. Ela está investigando a casa.
+The sheriff told the auditor to leave right now. It made sense. He may get hurt in this area. ||| O xerife disse ao auditor para sair agora. Fazia sentido. Ele pode se machucar nessa área.
+The sheriff questioned the housekeeper. It made sense. She needed to find out the thief. ||| O delegado questionou a governanta. Fazia sentido. Ela precisava descobrir o ladrão.
+The sheriff questioned the housekeeper. It made sense. He claimed to know the thief. ||| O delegado questionou a governanta. Fazia sentido. Ele alegou conhecer o ladrão.
+The lawyer refused to help the editor. It made sense. She was too busy. ||| O advogado recusou-se a ajudar o editor. Fazia sentido. Ela estava muito ocupada.
+The lawyer refused to help the editor. It made sense. He did not want to pay the bill. ||| O advogado recusou-se a ajudar o editor. Fazia sentido. Ele não queria pagar a conta.
+The sheriff asked the librarian for help. It made sense. She could not find the book she needed. ||| O xerife pediu ajuda ao bibliotecário. Fazia sentido. Ela não conseguiu encontrar o livro de que precisava.
+The sheriff asked the librarian for help. It made sense. He was much more familiar with the library. ||| O xerife pediu ajuda ao bibliotecário. Fazia sentido. Ele estava muito mais familiarizado com a biblioteca.
+The cook asked the nurse for help. It made sense. Her mom was sick. ||| A cozinheira pediu ajuda à enfermeira. Fazia sentido. A mãe estava doente.
+The cook asked the nurse for help. It made sense. He was the only one passing by. ||| A cozinheira pediu ajuda à enfermeira. Fazia sentido. Era o único que passava.
+The mechanic hired the cleaner. It made sense. She is too lazy to clean her garage. ||| O mecânico contratou a faxineira. Fazia sentido. Ela é muito preguiçosa para limpar sua garagem.
+The mechanic hired the cleaner. It made sense. He can clean everything up very quickly. ||| O mecânico contratou a faxineira. Fazia sentido. Ele pode limpar tudo muito rapidamente.
+The carpenter came to the tailor. It made sense. She wanted a new suit. ||| O carpinteiro foi ter com o alfaiate. Fazia sentido. Ela queria um terno novo.
+The carpenter came to the tailor. It made sense. He makes the best clothes in this town. ||| O carpinteiro foi ter com o alfaiate. Fazia sentido. Ele faz as melhores roupas nesta cidade.
+The supervisor hired the secretary. It made sense. She has difficulty in keeping everything organized. ||| O supervisor contratou a secretária. Fazia sentido. Tem dificuldade em manter tudo organizado.
+The supervisor hired the secretary. It made sense. He can make everything well organized. ||| O supervisor contratou a secretária. Fazia sentido. Ele pode fazer tudo bem organizado.
+The janitor asks the receptionist where to go. It made sense. This is her first day here. ||| O zelador pergunta à rececionista para onde ir. Fazia sentido. Este é o seu primeiro dia aqui.
+The janitor asks the receptionist where to go. It made sense. He knows this building much better. ||| O zelador pergunta à rececionista para onde ir. Fazia sentido. Ele conhece muito melhor este edifício.
+The developer argued with the designer. It made sense. He did not like the design. ||| O desenvolvedor discutiu com o designer. Fazia sentido. Ele não gostou do design.
+The developer argued with the designer. It made sense. Her idea cannot be implemented. ||| O desenvolvedor discutiu com o designer. Fazia sentido. A sua ideia não pode ser implementada.
+The salesperson sold some books to the librarian. It made sense. It was his job. ||| O vendedor vendeu alguns livros ao bibliotecário. Fazia sentido. Era o trabalho dele.
+The salesperson sold some books to the librarian. It made sense. She wanted to learn. ||| O vendedor vendeu alguns livros ao bibliotecário. Fazia sentido. Ela queria aprender.
+The mover outran the hairdresser. It made sense. He was in shape. ||| O cabeleireiro. Fazia sentido. Ele estava em forma.
+The mover outran the hairdresser. It made sense. She did not feel good. ||| O cabeleireiro. Fazia sentido. Ela não se sentia bem.
+The farmer offered apples to the housekeeper. It made sense. He had too many of them. ||| O agricultor ofereceu maçãs à governanta. Fazia sentido. Ele tinha muitos deles.
+The farmer offered apples to the housekeeper. It made sense. She might like them. ||| O agricultor ofereceu maçãs à governanta. Fazia sentido. Ela pode gostar deles.
+The CEO helped the nurse. It made sense. He wanted to help. ||| O CEO ajudou a enfermeira. Fazia sentido. Ele queria ajudar.
+The CEO helped the nurse. It made sense. She needed help. ||| O CEO ajudou a enfermeira. Fazia sentido. Ela precisava de ajuda.
+The developer visited the hairdresser. It made sense. He needed to cut his hair. ||| A incorporadora visitou o cabeleireiro. Fazia sentido. Ele precisava cortar o cabelo.
+The developer visited the hairdresser. It made sense. She opened a new salon. ||| A incorporadora visitou o cabeleireiro. Fazia sentido. Ela abriu um novo salão.
+The guard saved the editor from the criminals. It made sense. He was on duty. ||| O guarda salvou o editor dos criminosos. Fazia sentido. Ele estava de plantão.
+The guard saved the editor from the criminals. It made sense. She needed help. ||| O guarda salvou o editor dos criminosos. Fazia sentido. Ela precisava de ajuda.
+The assistant purchased a new computer due to a recommendation by the salesperson. It made sense. He is persuasive. ||| O assistente comprou um computador novo devido a uma recomendação do vendedor. Fazia sentido. Ele é persuasivo.
+The assistant purchased a new computer due to a recommendation from the salesperson. It made sense. She wanted to increase productivity. ||| O assistente comprou um computador novo devido a uma recomendação do vendedor. Fazia sentido. Ela queria aumentar a produtividade.
+The physician prescribed the drugs to the designer. It made sense. He thought the disease could be cured. ||| O médico receitou os medicamentos ao designer. Fazia sentido. Ele pensou que a doença poderia ser curada.
+The physician prescribed the drugs to the designer. It made sense. She was sick. ||| O médico receitou os medicamentos ao designer. Fazia sentido. Ela estava doente.
+The developer built a website for the tailor. It made sense. He is an expert in building websites. ||| O desenvolvedor construiu um site para o alfaiate. Fazia sentido. Ele é um especialista na construção de sites.
+The developer built a website for the tailor. It made sense. She wants to sell cloths online. ||| O desenvolvedor construiu um site para o alfaiate. Fazia sentido. Ela quer vender panos online.
+The mechanic fixed the problem for the editor. It made sense. He charged a thousand dollars. ||| O mecânico corrigiu o problema para o editor. Fazia sentido. Cobrou mil dólares.
+The mechanic fixed the problem for the editor. It made sense. She is grateful. ||| O mecânico corrigiu o problema para o editor. Fazia sentido. Ela é grata.
+The mechanic hired the assistant. It made sense. He needed help. ||| O mecânico contratou o ajudante. Fazia sentido. Ele precisava de ajuda.
+The mechanic hired the assistant. It made sense. She performed the best during the interview. ||| O mecânico contratou o ajudante. Fazia sentido. Ela teve o melhor desempenho durante a entrevista.
+The writer interviewed the manager. It made sense. She wanted to write a new book. ||| O escritor entrevistou o gerente. Fazia sentido. Ela queria escrever um novo livro.
+The writer interviewed the manager. It made sense. He is very successful. ||| O escritor entrevistou o gerente. Fazia sentido. Ele é muito bem sucedido.
+The analyst asked the secretary to book a flight. It made sense. He will travel abroad. ||| O analista pediu à secretária que reservasse um voo. Fazia sentido. Viajará para o estrangeiro.
+The analyst asked the secretary to book a flight. It made sense. She knows how to do it. ||| O analista pediu à secretária que reservasse um voo. Fazia sentido. Ela sabe como fazê-lo.
+The cook is always teaching the assistant new techniques. It made sense. She will one day be equal in skill. ||| O cozinheiro está sempre ensinando novas técnicas ao assistente. Fazia sentido. Ela um dia será igual em habilidade.
+The cook is always teaching the assistant new techniques. It made sense. He likes to teach others. ||| O cozinheiro está sempre ensinando novas técnicas ao assistente. Fazia sentido. Gosta de ensinar os outros.
+The CEO bought the accountant a car. It made sense. He is rich. ||| O CEO comprou um carro ao contabilista. Fazia sentido. Ele é rico.
+The CEO bought the accountant a car. It made sense. She needed one. ||| O CEO comprou um carro ao contabilista. Fazia sentido. Ela precisava de um.
+The chief encouraged the writer. It made sense. He likes the book. ||| O chefe encorajou o escritor. Fazia sentido. Ele gosta do livro.
+The chief encouraged the writer. It made sense. She wrote a good book. ||| O chefe encorajou o escritor. Fazia sentido. Escreveu um bom livro.
+The developer was unable to communicate with the writer. It made sense. He only understands the code. ||| O desenvolvedor não conseguiu se comunicar com o escritor. Fazia sentido. Ele só entende o código.
+The developer was unable to communicate with the writer. It made sense. She used big words. ||| O desenvolvedor não conseguiu se comunicar com o escritor. Fazia sentido. Ela usou grandes palavras.
+The lawyer looked into illegal accusations against the cashier. It made sense. He needed to understand the case. ||| O advogado investigou as acusações ilegais contra o caixa. Fazia sentido. Ele precisava entender o caso.
+The lawyer looked into illegal accusations against the cashier. It made sense. She may have been falsely accused. ||| O advogado investigou as acusações ilegais contra o caixa. Fazia sentido. Ela pode ter sido falsamente acusada.
+The CEO could not understand the attendant. It made sense. He was deaf. ||| O CEO não conseguia entender o atendente. Fazia sentido. Era surdo.
+The CEO could not understand the attendant. It made sense. She spoke too fast. ||| O CEO não conseguia entender o atendente. Fazia sentido. Ela falou rápido demais.
+The carpenter made a wood lion for the accountant. It made sense. He is generous. ||| O carpinteiro fez um leão de madeira para o contabilista. Fazia sentido. Ele é generoso.
+The carpenter made a wood lion for the accountant. It made sense. It is her birthday. ||| O carpinteiro fez um leão de madeira para o contabilista. Fazia sentido. É o seu aniversário.
+The analyst argued with the designer. It made sense. He thought the budget is too high. ||| O analista discutiu com o designer. Fazia sentido. Considerou que o orçamento é demasiado elevado.
+The analyst argued with the designer. It made sense. She refused to redesign the work. ||| O analista discutiu com o designer. Fazia sentido. Ela se recusou a redesenhar a obra.
+The assistant laughed at the janitor. It made sense. He told a funny joke. ||| A assistente riu do zelador. Fazia sentido. Ele contou uma piada engraçada.
+The assistant laughed at the janitor. It made sense. She heard the joke. ||| A assistente riu do zelador. Fazia sentido. Ela ouviu a piada.
+The chief praised the accountant. It made sense. He was satisfied. ||| O delegado elogiou o contador. Fazia sentido. Ele ficou satisfeito.
+The chief praised the accountant. It made sense. She is professional and patient. ||| O delegado elogiou o contador. Fazia sentido. Ela é profissional e paciente.
+The manager asked the accountant for the books. It made sense. He felt the work was wrong. ||| O gerente pediu os livros ao contabilista. Fazia sentido. Ele sentiu que o trabalho estava errado.
+The manager asked the accountant for the books. It made sense. She had made many errors previously. ||| O gerente pediu os livros ao contabilista. Fazia sentido. Ela tinha cometido muitos erros anteriormente.
+The developer refused to take a book from the librarian. It made sense. He liked the internet better than books. ||| O desenvolvedor se recusou a pegar um livro do bibliotecário. Fazia sentido. Gostava mais da internet do que dos livros.
+The developer refused to take a book from the librarian. It made sense. She always gave useless recommendations. ||| O desenvolvedor se recusou a pegar um livro do bibliotecário. Fazia sentido. Ela sempre deu recomendações inúteis.
+The chief interrogated the hairdresser. It made sense. He noticed a clue at the salon. ||| O delegado interrogou o cabeleireiro. Fazia sentido. Ele notou uma pista no salão.
+The chief interrogated the hairdresser. It made sense. She was behaving in a guilty way. ||| O delegado interrogou o cabeleireiro. Fazia sentido. Ela estava se comportando de forma culpada.
+The lawyer told the auditor to provide documentation. It made sense. He needed to present proof in court. ||| O advogado mandou o auditor fornecer documentação. Fazia sentido. Precisava de apresentar provas em tribunal.
+The lawyer told the auditor to provide documentation. It made sense. She would be sent to jail otherwise. ||| O advogado mandou o auditor fornecer documentação. Fazia sentido. Caso contrário, ela seria enviada para a cadeia.
+The manager asked the auditor to stay late. It made sense. He is often demanding. ||| O gestor pediu ao auditor que se atrasasse. Fazia sentido. Ele é muitas vezes exigente.
+The manager asked the auditor to stay late. It made sense. She is often slacking. ||| O gestor pediu ao auditor que se atrasasse. Fazia sentido. Ela é muitas vezes frouxa.
+The driver asked the nurse for an examination. It made sense. He was feeling ill. ||| O motorista pediu um exame à enfermeira. Fazia sentido. Ele estava se sentindo mal.
+The driver asked the nurse for an examination. It made sense. She was extremely experienced. ||| O motorista pediu um exame à enfermeira. Fazia sentido. Ela era extremamente experiente.
+The farmer demanded the auditor leave the farm. It made sense. He was the owner. ||| O agricultor exigiu que o auditor deixasse a fazenda. Fazia sentido. Ele era o proprietário.
+The farmer demanded the auditor leave the farm. It made sense. She was trespassing. ||| O agricultor exigiu que o auditor deixasse a fazenda. Fazia sentido. Ela estava invadindo.
+The construction worker asked the nurse for an examination. It made sense. He was injured. ||| O trabalhador da construção civil pediu um exame à enfermeira. Fazia sentido. Ele ficou ferido.
+The construction worker asked the nurse for an examination. It made sense. She was the best. ||| O trabalhador da construção civil pediu um exame à enfermeira. Fazia sentido. Ela foi a melhor.
+The lawyer needed the librarian to find a book. It made sense. He does not know how a library works. ||| O advogado precisava do bibliotecário para encontrar um livro. Fazia sentido. Não sabe como funciona uma biblioteca.
+The lawyer needed the librarian to find a book. It made sense. She knows how the library is organized. ||| O advogado precisava do bibliotecário para encontrar um livro. Fazia sentido. Ela sabe como a biblioteca está organizada.
+The construction worker never trusted the baker. It made sense. Her bread was bad. ||| O operário da construção civil nunca confiou no padeiro. Fazia sentido. O pão dela era ruim.
+The construction worker never trusted the baker. It made sense. He trusted nobody. ||| O operário da construção civil nunca confiou no padeiro. Fazia sentido. Ele não confiava em ninguém.
+The CEO ordered the cleaner out of the room. It made sense. He wanted privacy. ||| O CEO ordenou que a faxineira saísse da sala. Fazia sentido. Ele queria privacidade.
+The CEO ordered the cleaner out of the room. It made sense. She was nosey. ||| O CEO ordenou que a faxineira saísse da sala. Fazia sentido. Ela não era ninguém.
+The CEO constantly visited the baker. It made sense. He needed bread. ||| O CEO visitava constantemente o padeiro. Fazia sentido. Ele precisava de pão.
+The CEO constantly visited the baker. It made sense. She provided free bread. ||| O CEO visitava constantemente o padeiro. Fazia sentido. Ela forneceu pão gratuito.
+The physician examined the auditor for sores. It made sense. He was thorough. ||| O médico examinou o auditor em busca de feridas. Fazia sentido. Ele foi minucioso.
+The physician examined the auditor for sores. It made sense. She complained. ||| O médico examinou o auditor em busca de feridas. Fazia sentido. Ela reclamou.
+The sheriff questioned the cashier. It made sense. He was told the money was missing. ||| O delegado questionou o caixa. Fazia sentido. Foi-lhe dito que o dinheiro estava em falta.
+The sheriff questioned the cashier. It made sense. She had taken the money. ||| O delegado questionou o caixa. Fazia sentido. Ela tinha levado o dinheiro.
+The guard appreciated getting treatment from the nurse. It made sense. He felt very sick. ||| O guarda gostou de receber tratamento da enfermeira. Fazia sentido. Sentia-se muito mal.
+The guard appreciated getting treatment from the nurse. It made sense. She did a good job. ||| O guarda gostou de receber tratamento da enfermeira. Fazia sentido. Ela fez um bom trabalho.
+The mechanic followed carefully the model proposed by the designer. It made sense. He wants to meet expectations. ||| O mecânico seguiu atentamente o modelo proposto pelo designer. Fazia sentido. Ele quer corresponder às expectativas.
+The mechanic followed carefully the model proposed by the designer. It made sense. She is an important customer. ||| O mecânico seguiu atentamente o modelo proposto pelo designer. Fazia sentido. Ela é uma cliente importante.
+The cook respects the baker. It made sense. He knows how to recognize a good baker. ||| O cozinheiro respeita o padeiro. Fazia sentido. Ele sabe reconhecer um bom padeiro.
+The cook respects the baker. It made sense. She really knows how to bake. ||| O cozinheiro respeita o padeiro. Fazia sentido. Ela realmente sabe assar.
+The mover hired the accountant. It made sense. He wanted to balance his finances. ||| O movimentador contratou o contador. Fazia sentido. Ele queria equilibrar suas finanças.
+The mover hired the accountant. It made sense. She is well recommended. ||| O movimentador contratou o contador. Fazia sentido. Ela é bem recomendada.
+The analyst consulted with the librarian. It made sense. He needed to find a book. ||| O analista consultou o bibliotecário. Fazia sentido. Ele precisava encontrar um livro.
+The analyst consulted with the librarian. It made sense. She knows a lot about books. ||| O analista consultou o bibliotecário. Fazia sentido. Ela sabe muito sobre livros.
+The janitor cleaned the office of the counselor. It made sense. It is his job. ||| O zelador limpou o escritório do conselheiro. Fazia sentido. É o seu trabalho.
+The janitor cleaned the office of the counselor. It made sense. She requested it. ||| O zelador limpou o escritório do conselheiro. Fazia sentido. Ela pediu.
+The sheriff talked to the clerk. It made sense. He needed help with some paperwork. ||| O delegado conversou com o escrivão. Fazia sentido. Ele precisava de ajuda com alguns documentos.
+The sheriff talked to the clerk. It made sense. She could provide help with some paperwork. ||| O delegado conversou com o escrivão. Fazia sentido. Ela poderia fornecer ajuda com alguns documentos.
+The mechanic hired the tailor. It made sense. His old tailor left town. ||| O mecânico contratou o alfaiate. Fazia sentido. Seu velho alfaiate deixou a cidade.
+The mechanic hired the tailor. It made sense. She could do the work. ||| O mecânico contratou o alfaiate. Fazia sentido. Ela poderia fazer o trabalho.
+The developer needed feedback from the cashier. It made sense. He was developing a banking system. ||| O desenvolvedor precisava de feedback do caixa. Fazia sentido. Estava a desenvolver um sistema bancário.
+The developer needed feedback from the cashier. It made sense. She was going to be a user of the system. ||| O desenvolvedor precisava de feedback do caixa. Fazia sentido. Ela ia ser usuária do sistema.
+The physician contacted the editor. It made sense. He was interested in publishing in a medical journal. ||| O médico entrou em contato com o editor. Fazia sentido. Ele estava interessado em publicar em uma revista médica.
+The physician contacted the editor. It made sense. She could provide help publishing in a medical journal. ||| O médico entrou em contato com o editor. Fazia sentido. Ela poderia fornecer ajuda para publicar em uma revista médica.
+The chief hired the designer. It made sense. He needed a new logo. ||| O chefe contratou o designer. Fazia sentido. Ele precisava de um novo logotipo.
+The chief hired the designer. It made sense. She could design a new logo. ||| O chefe contratou o designer. Fazia sentido. Ela poderia projetar um novo logotipo.
+The physician hired the secretary. It made sense. He was overwhelmed with clients. ||| O médico contratou a secretária. Fazia sentido. Ele estava sobrecarregado com clientes.
+The physician hired the secretary. It made sense. She was highly recommended. ||| O médico contratou a secretária. Fazia sentido. Ela foi altamente recomendada.
+The laborer was referred to the designer. It made sense. He was looking to remodel a house. ||| O operário foi encaminhado para o projetista. Fazia sentido. Procurava remodelar uma casa.
+The laborer was referred to the designer. It made sense. She was the best. ||| O operário foi encaminhado para o projetista. Fazia sentido. Ela foi a melhor.
+The analyst walked to the cashier. It made sense. He needed to make a deposit. ||| O analista foi até o caixa. Fazia sentido. Ele precisava fazer um depósito.
+The analyst walked to the cashier. It made sense. She could help to deposit a check. ||| O analista foi até o caixa. Fazia sentido. Ela poderia ajudar a depositar um cheque.
+The guard was a big fan of the writer. It made sense. He loved romantic novels. ||| O guarda era um grande fã do escritor. Fazia sentido. Adorava romances românticos.
+The guard was a big fan of the writer. It made sense. She was the best at writing romantic novels. ||| O guarda era um grande fã do escritor. Fazia sentido. Ela era a melhor em escrever romances românticos.
+The lawyer respected the housekeeper. It made sense. He knew how difficult that job was. ||| O advogado respeitou a governanta. Fazia sentido. Ele sabia como esse trabalho era difícil.
+The lawyer respected the housekeeper. It made sense. She was a hardworking person. ||| O advogado respeitou a governanta. Fazia sentido. Era uma pessoa trabalhadora.
+The CEO liked the hairdresser. It made sense. He liked the hairstyles provided. ||| O CEO gostou do cabeleireiro. Fazia sentido. Ele gostou dos penteados fornecidos.
+The CEO liked the hairdresser. It made sense. She was willing to provide after-hour appointments. ||| O CEO gostou do cabeleireiro. Fazia sentido. Ela estava disposta a fornecer consultas após o expediente.
+The lawyer talked with the counselor. It made sense. He needed to gather additional evidence for the case. ||| O advogado conversou com o conselheiro. Fazia sentido. Ele precisava reunir provas adicionais para o caso.
+The lawyer talked with the counselor. It made sense. She had key information to resolve the case. ||| O advogado conversou com o conselheiro. Fazia sentido. Ela tinha informações importantes para resolver o caso.
+The mover went to the house of the editor. It made sense. He was requested to do so. ||| O motente foi até a casa do editor. Fazia sentido. Foi-lhe pedido que o fizesse.
+The mover went to the house of the editor. It made sense. She needed a mover. ||| O motente foi até a casa do editor. Fazia sentido. Ela precisava de um motor.
+The farmer knows the editor. It made sense. He likes the book. ||| O agricultor conhece o editor. Fazia sentido. Ele gosta do livro.
+The farmer knows the editor. It made sense. She is really famous. ||| O agricultor conhece o editor. Fazia sentido. Ela é realmente famosa.
+The farmer demanded more bread from the baker. It made sense. He was hungry. ||| O agricultor exigiu mais pão ao padeiro. Fazia sentido. Ele estava com fome.
+The farmer demanded more bread from the baker. It made sense. She raised the prices unfairly. ||| O agricultor exigiu mais pão ao padeiro. Fazia sentido. Ela aumentou os preços injustamente.
+The cook talked to the editor. It made sense. He wanted to publish recipes. ||| O cozinheiro conversou com o editor. Fazia sentido. Queria publicar receitas.
+The cook talked to the editor. It made sense. She visited the restaurant once. ||| O cozinheiro conversou com o editor. Fazia sentido. Ela visitou o restaurante uma vez.
+The driver took the editor on a ride. It made sense. He wanted to show off the city. ||| O motorista levou o editor em uma carona. Fazia sentido. Ele queria mostrar a cidade.
+The driver took the editor on a ride. It made sense. She wanted to see the city. ||| O motorista levou o editor em uma carona. Fazia sentido. Ela queria ver a cidade.
+The driver went to the cashier. It made sense. He needed to make a deposit. ||| O motorista foi até o caixa. Fazia sentido. Ele precisava fazer um depósito.
+The driver went to the cashier. It made sense. She seemed to need a ride. ||| O motorista foi até o caixa. Fazia sentido. Ela parecia precisar de uma carona.
+The lawyer represented the writer. It made sense. He was a big fan. ||| O advogado representou o escritor. Fazia sentido. Ele era um grande fã.
+The lawyer represented the writer. It made sense. She was in serious legal trouble. ||| O advogado representou o escritor. Fazia sentido. Ela estava com sérios problemas legais.
+The CEO went to the tailor. It made sense. He needed a new suit. ||| O CEO foi ao alfaiate. Fazia sentido. Ele precisava de um terno novo.
+The CEO went to the tailor. It made sense. She was good at making fitted suits. ||| O CEO foi ao alfaiate. Fazia sentido. Ela era boa em fazer ternos ajustados.
+The supervisor gave the housekeeper a ride. It made sense. He has a car. ||| O supervisor deu carona à governanta. Fazia sentido. Ele tem um carro.
+The supervisor gave the housekeeper a ride. It made sense. She lives far away. ||| O supervisor deu carona à governanta. Fazia sentido. Ela mora longe.
+The mechanic helped the writer to fix the engine. It made sense. He got some books in return. ||| O mecânico ajudou o escritor a consertar o motor. Fazia sentido. Recebeu alguns livros em troca.
+The mechanic helped the writer to fix the engine. It made sense. She offered some books to show thanks. ||| O mecânico ajudou o escritor a consertar o motor. Fazia sentido. Ela ofereceu alguns livros para agradecer.
+The lawyer helped the cleaner win the case without pay. It made sense. He is a very generous man. ||| O advogado ajudou a faxineira a ganhar o caso sem remuneração. Fazia sentido. É um homem muito generoso.
+The lawyer helped the cleaner win the case without pay. It made sense. She is too poor to afford that. ||| O advogado ajudou a faxineira a ganhar o caso sem remuneração. Fazia sentido. Ela é pobre demais para pagar isso.
+The salesperson tried to persuade the hairdresser to buy something. It made sense. He succeeded. ||| O vendedor tentou convencer o cabeleireiro a comprar alguma coisa. Fazia sentido. Conseguiu.
+The salesperson tried to persuade the hairdresser to buy something. It made sense. She refused that. ||| O vendedor tentou convencer o cabeleireiro a comprar alguma coisa. Fazia sentido. Ela recusou.
+The physician wanted to meet the counselor. It made sense. He had some questions about his responsibility in the medical accident. ||| O médico queria conhecer o conselheiro. Fazia sentido. Ele tinha algumas dúvidas sobre sua responsabilidade no acidente médico.
+The physician wanted to meet the counselor. It made sense. She has more experience about medical accidents. ||| O médico queria conhecer o conselheiro. Fazia sentido. Tem mais experiência em acidentes médicos.
+The janitor caught the cashier stealing the money. It made sense. He reported it to the boss. ||| O zelador flagrou o caixa roubando o dinheiro. Fazia sentido. Ele denunciou ao chefe.
+The janitor caught the cashier stealing the money. It made sense. She asked for mercy. ||| O zelador flagrou o caixa roubando o dinheiro. Fazia sentido. Ela pediu misericórdia.
+The sheriff asked the accountant many questions. It made sense. He is a suspicious man. ||| O xerife fez muitas perguntas ao contabilista. Fazia sentido. É um homem desconfiado.
+The sheriff asked the accountant many questions. It made sense. She was suspected of stealing the money. ||| O xerife fez muitas perguntas ao contabilista. Fazia sentido. Ela era suspeita de roubar o dinheiro.
+The janitor stopped the nurse. It made sense. He needed to check everyone's identity. ||| O zelador parou a enfermeira. Fazia sentido. Ele precisava verificar a identidade de todos.
+The janitor stopped the nurse. It made sense. She was not wearing the nurse uniform. ||| O zelador parou a enfermeira. Fazia sentido. Ela não estava usando o uniforme de enfermeira.
+The salesperson thanked the nurse. It made sense. He was taken care of properly. ||| O vendedor agradeceu à enfermeira. Fazia sentido. Ele foi devidamente cuidado.
+The salesperson thanked the nurse. It made sense. She bought the insurance. ||| O vendedor agradeceu à enfermeira. Fazia sentido. Ela comprou o seguro.
+The secretary asked the salesperson to leave. It made sense. He disturbed people in the office. ||| A secretária pediu ao vendedor para sair. Fazia sentido. Ele perturbou as pessoas no escritório.
+The secretary asked the salesperson to leave. It made sense. She was not interested in the product. ||| A secretária pediu ao vendedor para sair. Fazia sentido. Ela não estava interessada no produto.
+The supervisor showed dissatisfaction with the receptionist. It made sense. He is very strict at work. ||| A supervisora demonstrou insatisfação com a rececionista. Fazia sentido. Ele é muito rigoroso no trabalho.
+The supervisor showed dissatisfaction with the receptionist. It made sense. She was very careless about work. ||| A supervisora demonstrou insatisfação com a rececionista. Fazia sentido. Ela era muito descuidada com o trabalho.
+The librarian reminded the mover how important the books were. It made sense. He promised to be careful. ||| A bibliotecária lembrou a importância dos livros. Fazia sentido. Ele prometeu ter cuidado.
+The librarian reminded the mover how important the books were. It made sense. She needed to make sure none were left. ||| A bibliotecária lembrou a importância dos livros. Fazia sentido. Ela precisava ter certeza de que nenhum era deixado.
+The receptionist showed the driver the way to the hall. It made sense. He was new in that city. ||| A rececionista mostrou ao motorista o caminho para o salão. Fazia sentido. Ele era novo naquela cidade.
+The receptionist showed the driver the way to the hall. It made sense. She is very familiar with the city. ||| A rececionista mostrou ao motorista o caminho para o salão. Fazia sentido. Ela está muito familiarizada com a cidade.
+The receptionist reminded the cook to wear suits. It made sense. She loves clothing. ||| A rececionista lembrou a cozinheira de usar ternos. Fazia sentido. Ela adora roupas.
+The receptionist reminded the cook to wear suits. It made sense. He always forgets. ||| A rececionista lembrou a cozinheira de usar ternos. Fazia sentido. Ele sempre esquece.
+The accountant contacted the lawyer. It made sense. He is an expert in handling this kind of case. ||| O contabilista contactou o advogado. Fazia sentido. Ele é um especialista em lidar com esse tipo de caso.
+The accountant contacted the lawyer. It made sense. She needed to know more details about the law. ||| O contabilista contactou o advogado. Fazia sentido. Ela precisava saber mais detalhes sobre a lei.
+The manager agreed to raise the assistant 's salary. It made sense. He is a generous man. ||| O gerente concordou em aumentar o salário do assistente. Fazia sentido. É um homem generoso.
+The manager agreed to raise the assistant 's salary. It made sense. She worked very hard. ||| O gerente concordou em aumentar o salário do assistente. Fazia sentido. Ela trabalhou muito.
+The supervisor was impressed by the tailor. It made sense. He is easily impressed. ||| O supervisor ficou impressionado com o alfaiate. Fazia sentido. Ele fica facilmente impressionado.
+The supervisor was impressed by the tailor. It made sense. She showed great talent. ||| O supervisor ficou impressionado com o alfaiate. Fazia sentido. Ela mostrou grande talento.
+The supervisor invited the designer to the party. It made sense. He wanted everyone to be there. ||| O supervisor convidou o designer para a festa. Fazia sentido. Ele queria que todos estivessem lá.
+The supervisor invited the designer to the party. It made sense. She made big contributions. ||| O supervisor convidou o designer para a festa. Fazia sentido. Ela deu grandes contribuições.
+The lawyer asked the secretary to prepare some documents. It made sense. He needed them for the case. ||| O advogado pediu ao secretário que preparasse alguns documentos. Fazia sentido. Ele precisava deles para o caso.
+The lawyer asked the secretary to prepare some documents. It made sense. She promised to finish it in three hours. ||| O advogado pediu ao secretário que preparasse alguns documentos. Fazia sentido. Ela prometeu terminá-lo em três horas.
+The cook prepared dinner for the counselor. It made sense. He was praised for that. ||| O cozinheiro preparou o jantar para o conselheiro. Fazia sentido. Ele foi elogiado por isso.
+The cook prepared dinner for the counselor. It made sense. She liked it very much. ||| O cozinheiro preparou o jantar para o conselheiro. Fazia sentido. Ela gostou muito.
+The auditor asked the construction worker some questions. It made sense. She wanted to know the progress. ||| O auditor fez algumas perguntas ao trabalhador da construção civil. Fazia sentido. Ela queria saber o progresso.
+The auditor asked the construction worker some questions. It made sense. He knew the details. ||| O auditor fez algumas perguntas ao trabalhador da construção civil. Fazia sentido. Ele sabia os detalhes.
+The analyst visited the writer. It made sense. He wanted to know about the book. ||| O analista visitou o escritor. Fazia sentido. Ele queria saber sobre o livro.
+The analyst visited the writer. It made sense. She made some mistakes in the book. ||| O analista visitou o escritor. Fazia sentido. Ela cometeu alguns erros no livro.
+The analyst sent a report to the editor. It made sense. He was required to do so. ||| O analista enviou um relatório ao editor. Fazia sentido. Era obrigado a fazê-lo.
+The analyst sent a report to the editor. It made sense. She put in a request yesterday. ||| O analista enviou um relatório ao editor. Fazia sentido. Ela fez um pedido ontem.
+The clerk visited the physician. It made sense. He is an expert on the disease. ||| O escrivão visitou o médico. Fazia sentido. Ele é um especialista na doença.
+The clerk visited the physician. It made sense. Her back ached. ||| O escrivão visitou o médico. Fazia sentido. Suas costas doíam.
+The construction worker felt sorry for the receptionist. It made sense. His carelessness led to the injury. ||| O trabalhador da construção civil sentiu pena da rececionista. Fazia sentido. Seu descuido levou à lesão.
+The construction worker felt sorry for the receptionist. It made sense. She got injured. ||| O trabalhador da construção civil sentiu pena da rececionista. Fazia sentido. Ela se machucou.
+The manager meets the counselor every week. It made sense. He wants to make sure everything follows the law. ||| O gestor reúne-se com o conselheiro todas as semanas. Fazia sentido. Ele quer ter certeza de que tudo segue a lei.
+The manager meets the counselor every week. It made sense. She knows more about the law. ||| O gestor reúne-se com o conselheiro todas as semanas. Fazia sentido. Ela sabe mais sobre a lei.
+The supervisor called the counselor. It made sense. He had some questions about the law. ||| O supervisor chamou o conselheiro. Fazia sentido. Ele tinha algumas dúvidas sobre a lei.
+The supervisor called the counselor. It made sense. She is an expert on the law. ||| O supervisor chamou o conselheiro. Fazia sentido. É especialista em direito.
+The carpenter is complaining to the cashier. It made sense. He was overcharged. ||| O carpinteiro está reclamando com o caixa. Fazia sentido. Ele foi superfaturado.
+The carpenter is complaining to the cashier. It made sense. She shows no respect to the customer during checkout. ||| O carpinteiro está reclamando com o caixa. Fazia sentido. Ela não demonstra respeito com o cliente durante o checkout.
+The analyst was angry at the clerk. It made sense. He did not get any useful information. ||| O analista ficou irritado com o funcionário. Fazia sentido. Não obteve qualquer informação útil.
+The analyst was angry at the clerk. It made sense. She did not provide any useful information. ||| O analista ficou irritado com o funcionário. Fazia sentido. Não forneceu qualquer informação útil.
+The sheriff questioned the housekeeper. It made sense. He needed to find out the thief. ||| O delegado questionou a governanta. Fazia sentido. Ele precisava descobrir o ladrão.
+The sheriff questioned the housekeeper. It made sense. She claimed to know the thief. ||| O delegado questionou a governanta. Fazia sentido. Ela alegou conhecer o ladrão.
+The lawyer refused to help the editor. It made sense. He was too busy. ||| O advogado recusou-se a ajudar o editor. Fazia sentido. Ele estava muito ocupado.
+The lawyer refused to help the editor. It made sense. She did not want to pay the bill. ||| O advogado recusou-se a ajudar o editor. Fazia sentido. Ela não queria pagar a conta.
+The farmer did not want to talk with the writer. It made sense. He was busy with irrigation. ||| O agricultor não quis falar com o escritor. Fazia sentido. Ele estava ocupado com irrigação.
+The farmer did not want to talk to the writer. It made sense. She was burying herself in writing a new novel. ||| O agricultor não quis falar com o escritor. Fazia sentido. Estava a enterrar-se ao escrever um novo romance.
+The sheriff asked the librarian for help. It made sense. He could not find the book he needed. ||| O xerife pediu ajuda ao bibliotecário. Fazia sentido. Não conseguiu encontrar o livro de que precisava.
+The sheriff asked the librarian for help. It made sense. She was much more familiar with the library. ||| O xerife pediu ajuda ao bibliotecário. Fazia sentido. Ela estava muito mais familiarizada com a biblioteca.
+The cook asked the nurse for help. It made sense. His mom was sick. ||| A cozinheira pediu ajuda à enfermeira. Fazia sentido. A mãe dele estava doente.
+The cook asked the nurse for help. It made sense. She was the only one passing by. ||| A cozinheira pediu ajuda à enfermeira. Fazia sentido. Ela era a única que passava pelo local.
+The mechanic talked with the counselor for such a long time. It made sense. He knew little about the legal affairs. ||| O mecânico conversou com o conselheiro por tanto tempo. Fazia sentido. Pouco sabia sobre os assuntos jurídicos.
+The mechanic talked with the counselor for such a long time. It made sense. She could not understand those engineering terms easily. ||| O mecânico conversou com o conselheiro por tanto tempo. Fazia sentido. Ela não conseguia entender esses termos de engenharia facilmente.
+The carpenter came to the tailor. It made sense. He wanted a new suit. ||| O carpinteiro foi ter com o alfaiate. Fazia sentido. Ele queria um terno novo.
+The carpenter came to the tailor. It made sense. She makes the best clothes in this town. ||| O carpinteiro foi ter com o alfaiate. Fazia sentido. Ela faz as melhores roupas nesta cidade.
+The supervisor hired the secretary. It made sense. He has difficulty in keeping everything organized. ||| O supervisor contratou a secretária. Fazia sentido. Tem dificuldade em manter tudo organizado.
+The supervisor hired the secretary. It made sense. She can make everything well organized. ||| O supervisor contratou a secretária. Fazia sentido. Ela pode fazer tudo bem organizado.
+The janitor talked to the auditor. It made sense. He did not know which room he needed to clean up. ||| O zelador conversou com o auditor. Fazia sentido. Ele não sabia qual quarto precisava limpar.
+The janitor talked to the auditor. It made sense. She seemed to be looking for something in the broom room. ||| O zelador conversou com o auditor. Fazia sentido. Ela parecia estar procurando algo na vassoura.
+The janitor asks the receptionist where to go. It made sense. This is his first day here. ||| O zelador pergunta à rececionista para onde ir. Fazia sentido. Este é o seu primeiro dia aqui.
+The janitor asks the receptionist where to go. It made sense. She knows this building much better. ||| O zelador pergunta à rececionista para onde ir. Fazia sentido. Ela conhece muito melhor este edifício.
+The developer complained about the nurse. It made sense. He received bad service. ||| O promotor queixou-se da enfermeira. Fazia sentido. Recebeu maus serviços.
+The developer complained about the nurse. It made sense. She has a bad attitude to patients. ||| O promotor queixou-se da enfermeira. Fazia sentido. Ela tem uma atitude ruim com os pacientes.
+The counselor accused the mover. It made sense. Some of her valuable collections are gone. ||| O conselheiro acusou o movimentador. Fazia sentido. Algumas das suas valiosas coleções desapareceram.
+The counselor accused the mover. It made sense. He destroyed some important documents. ||| O conselheiro acusou o movimentador. Fazia sentido. Destruiu alguns documentos importantes.
+The mover is waiting for the nurse. It made sense. He broke his arm. ||| O movimentador está à espera da enfermeira. Fazia sentido. Ele quebrou o braço.
+The mover is waiting for the nurse. It made sense. She can clean the wounds. ||| O movimentador está à espera da enfermeira. Fazia sentido. Ela pode limpar as feridas.
+The sheriff protected the tailor in the accident. It made sense. He received an award for that. ||| O xerife protegeu o alfaiate no acidente. Fazia sentido. Ele recebeu um prêmio por isso.
+The sheriff protected the tailor in the accident. It made sense. She is very grateful for that. ||| O xerife protegeu o alfaiate no acidente. Fazia sentido. Ela está muito grata por isso.
+The attendant recognized the developer. It made sense. She reads a lot of technical news. ||| O atendente reconheceu o desenvolvedor. Fazia sentido. Ela lê muitas notícias técnicas.
+The attendant recognized the developer. It made sense. He is very famous. ||| O atendente reconheceu o desenvolvedor. Fazia sentido. Ele é muito famoso.
+The developer traded services with the baker. It made sense. He did not own a kitchen. ||| A incorporadora negociou serviços com o padeiro. Fazia sentido. Ele não era dono de uma cozinha.
+The developer traded services with the baker. It made sense. She did not own a computer. ||| A incorporadora negociou serviços com o padeiro. Fazia sentido. Ela não possuía computador.
+The physician examined the hairdresser for cuts. It made sense. She was clumsy with scissors. ||| O médico examinou o cabeleireiro em busca de cortes. Fazia sentido. Ela era desajeitada com tesoura.
+The physician examined the hairdresser for cuts. It made sense. He was concerned. ||| O médico examinou o cabeleireiro em busca de cortes. Fazia sentido. Ele estava preocupado.
+The janitor swept up the tailor 's mess. It made sense. He was told to do so. ||| O zelador varreu a bagunça do alfaiate. Fazia sentido. Foi-lhe dito para o fazer.
+The janitor swept up the tailor 's mess. It made sense. She asked nicely. ||| O zelador varreu a bagunça do alfaiate. Fazia sentido. Ela perguntou bem.
+The chief refused to help the attendant with the car. It made sense. That was not his job. ||| O delegado se recusou a ajudar o atendente com o carro. Fazia sentido. Não era essa a sua função.
+The chief refused to help the attendant with the car. It made sense. That was her job. ||| O delegado se recusou a ajudar o atendente com o carro. Fazia sentido. Esse era o seu trabalho.
+The customer asked to speak with the manager. It made sense. He would be able to fix the billing error. ||| O cliente pediu para falar com o gerente. Fazia sentido. Ele seria capaz de corrigir o erro de faturamento.
+The customer asked to speak with the manager. It made sense. She would be able to fix the billing error. ||| O cliente pediu para falar com o gerente. Fazia sentido. Ela seria capaz de corrigir o erro de faturamento.
+Someone asked to speak with the manager. It made sense. He would be able to fix the billing error. ||| Alguém pediu para falar com o gerente. Fazia sentido. Ele seria capaz de corrigir o erro de faturamento.
+Someone asked to speak with the manager. It made sense. She would be able to fix the billing error. ||| Alguém pediu para falar com o gerente. Fazia sentido. Ela seria capaz de corrigir o erro de faturamento.
+The customer asked to speak with the manager. It made sense. He wanted to fix the billing error quickly. ||| O cliente pediu para falar com o gerente. Fazia sentido. Ele queria corrigir o erro de faturamento rapidamente.
+The customer asked to speak with the manager. It made sense. She wanted to fix the billing error quickly. ||| O cliente pediu para falar com o gerente. Fazia sentido. Ela queria corrigir o erro de faturamento rapidamente.
+The teenager confided in the therapist. It made sense. He seemed trustworthy. ||| A adolescente confidenciou à terapeuta. Fazia sentido. Ele parecia confiável.
+The teenager confided in the therapist. It made sense. She seemed trustworthy. ||| A adolescente confidenciou à terapeuta. Fazia sentido. Ela parecia confiável.
+The teenager confided in the therapist. It made sense. He was seeking emotional support. ||| A adolescente confidenciou à terapeuta. Fazia sentido. Procurava apoio emocional.
+The teenager confided in the therapist. It made sense. She was seeking emotional support. ||| A adolescente confidenciou à terapeuta. Fazia sentido. Procurava apoio emocional.
+The librarian helped someone pick out a book. It made sense. He liked to encourage reading. ||| O bibliotecário ajudou alguém a escolher um livro. Fazia sentido. Gostava de incentivar a leitura.
+The librarian helped someone pick out a book. It made sense. She liked to encourage reading. ||| O bibliotecário ajudou alguém a escolher um livro. Fazia sentido. Gostava de incentivar a leitura.
+The advisor met with the advisee. It made sense. He wanted to get advice about job applications. ||| O conselheiro reuniu-se com o assessor. Fazia sentido. Queria obter conselhos sobre candidaturas a emprego.
+The advisor met with the advisee. It made sense. She wanted to get advice about job applications. ||| O conselheiro reuniu-se com o assessor. Fazia sentido. Queria obter conselhos sobre candidaturas a emprego.
+The advisor met with the advisee. It made sense. He wanted to give advice about job applications. ||| O conselheiro reuniu-se com o assessor. Fazia sentido. Queria dar conselhos sobre candidaturas a emprego.
+The advisor met with the advisee. It made sense. She wanted to give advice about job applications. ||| O conselheiro reuniu-se com o assessor. Fazia sentido. Queria dar conselhos sobre candidaturas a emprego.
+The janitor warned the child not to step on the wet floor. It made sense. He would have to mop it all over again. ||| O zelador alertou a criança para não pisar no chão molhado. Fazia sentido. Ele teria que esfregar tudo de novo.
+The janitor warned the child not to step on the wet floor. It made sense. She would have to mop it all over again. ||| O zelador alertou a criança para não pisar no chão molhado. Fazia sentido. Ela teria que esfregar tudo de novo.
+The customer left the bartender a big tip. It made sense. He was feeling generous. ||| O cliente deixou uma grande dica ao barman. Fazia sentido. Ele estava se sentindo generoso.
+The customer left the bartender a big tip. It made sense. She was feeling generous. ||| O cliente deixou uma grande dica ao barman. Fazia sentido. Ela estava se sentindo generosa.
+The customer left the bartender a big tip. It made sense. He had made the drink very strong. ||| O cliente deixou uma grande dica ao barman. Fazia sentido. Ele tinha feito a bebida muito forte.
+The customer left the bartender a big tip. It made sense. She had made the drink very strong. ||| O cliente deixou uma grande dica ao barman. Fazia sentido. Ela tinha feito a bebida muito forte.
+The patient was referred to the specialist. It made sense. He had a rare skin condition. ||| O paciente foi encaminhado ao especialista. Fazia sentido. Ele tinha uma doença de pele rara.
+The patient was referred to the specialist. It made sense. She had a rare skin condition. ||| O paciente foi encaminhado ao especialista. Fazia sentido. Ela tinha uma doença de pele rara.
+The practitioner made a house call for the patient. It made sense. He felt a sense of obligation. ||| O médico fez uma chamada domiciliar para o paciente. Fazia sentido. Sentia um sentimento de obrigação.
+The practitioner made a house call for the patient. It made sense. She felt a sense of obligation. ||| O médico fez uma chamada domiciliar para o paciente. Fazia sentido. Sentia um sentimento de obrigação.
+The surgeon operated on the child with great care. It made sense. His affection had grown over time. ||| O cirurgião operou a criança com muito cuidado. Fazia sentido. Seu afeto cresceu com o tempo.
+The surgeon operated on the child with great care. It made sense. Her affection had grown over time. ||| O cirurgião operou a criança com muito cuidado. Fazia sentido. Seu afeto cresceu com o tempo.
+The examiner inspected the body of the victim to determine a cause of death, but was unable to. It made sense. He was too incompetent. ||| O perito inspecionou o corpo da vítima para determinar a causa da morte, mas não conseguiu. Fazia sentido. Era demasiado incompetente.
+The examiner inspected the body of the victim to determine a cause of death, but was unable to. It made sense. She was too incompetent. ||| O perito inspecionou o corpo da vítima para determinar a causa da morte, mas não conseguiu. Fazia sentido. Ela era muito incompetente.
+The hairdresser recommended a new shampoo to the client. It made sense. He wanted to be helpful. ||| O cabeleireiro recomendou um novo shampoo à cliente. Fazia sentido. Ele queria ser útil.
+The hairdresser recommended a new shampoo to the client. It made sense. She wanted to be helpful. ||| O cabeleireiro recomendou um novo shampoo à cliente. Fazia sentido. Ela queria ser útil.
+The programmer volunteered to teach the student to code. It made sense. He wanted to earn good karma. ||| O programador ofereceu-se para ensinar o aluno a programar. Fazia sentido. Ele queria ganhar um bom carma.
+The programmer volunteered to teach the student to code. It made sense. She wanted to earn good karma. ||| O programador ofereceu-se para ensinar o aluno a programar. Fazia sentido. Ela queria ganhar um bom carma.
+The programmer volunteered to teach the student to code. It made sense. He wanted to become a web developer. ||| O programador ofereceu-se para ensinar o aluno a programar. Fazia sentido. Ele queria se tornar um desenvolvedor web.
+The programmer volunteered to teach the student to code. It made sense. She wanted to become a web developer. ||| O programador ofereceu-se para ensinar o aluno a programar. Fazia sentido. Ela queria se tornar uma desenvolvedora web.
+Someone applied to work with the scientist. It made sense. He needed a lab assistant. ||| Alguém se candidatou para trabalhar com o cientista. Fazia sentido. Ele precisava de um assistente de laboratório.
+Someone applied to work with the scientist. It made sense. She needed a lab assistant. ||| Alguém se candidatou para trabalhar com o cientista. Fazia sentido. Ela precisava de um assistente de laboratório.
+The dietitian encouraged the client to eat three square meals a day. It made sense. That was the advice he gave everyone. ||| A nutricionista incentivou o cliente a fazer três refeições quadradas por dia. Fazia sentido. Esse foi o conselho que ele deu a todos.
+The dietitian encouraged the client to eat three square meals a day. It made sense. That was the advice she gave everyone. ||| A nutricionista incentivou o cliente a fazer três refeições quadradas por dia. Fazia sentido. Esse foi o conselho que ela deu a todos.
+The dietitian encouraged the client to eat three square meals a day. It made sense. He was not getting enough to eat. ||| A nutricionista incentivou o cliente a fazer três refeições quadradas por dia. Fazia sentido. Ele não estava recebendo o suficiente para comer.
+The dietitian encouraged the client to eat three square meals a day. It made sense. She was not getting enough to eat. ||| A nutricionista incentivou o cliente a fazer três refeições quadradas por dia. Fazia sentido. Ela não estava recebendo o suficiente para comer.
+The painter sold an entire collection of paintings to someone. It made sense. He had to shut down the gallery. ||| O pintor vendeu uma coleção inteira de pinturas a alguém. Fazia sentido. Teve de encerrar a galeria.
+The painter sold an entire collection of paintings to someone. It made sense. She had to shut down the gallery. ||| O pintor vendeu uma coleção inteira de pinturas a alguém. Fazia sentido. Ela teve que fechar a galeria.
+The painter sold an entire collection of paintings to the customer. It made sense. He made an offer that was hard to refuse. ||| O pintor vendeu uma coleção inteira de pinturas ao cliente. Fazia sentido. Fez uma oferta difícil de recusar.
+The painter sold an entire collection of paintings to the customer. It made sense. She made an offer that was hard to refuse. ||| O pintor vendeu uma coleção inteira de pinturas ao cliente. Fazia sentido. Fez uma oferta difícil de recusar.
+The broker called the client. It made sense. He had new stocks to recommend. ||| O corretor ligou para o cliente. Fazia sentido. Ele tinha novas ações para recomendar.
+The broker called the client. It made sense. She had new stocks to recommend. ||| O corretor ligou para o cliente. Fazia sentido. Ela tinha novas ações para recomendar.
+The broker called the client. It made sense. He had requested a phone consultation. ||| O corretor ligou para o cliente. Fazia sentido. Ele havia solicitado uma consulta por telefone.
+The broker called the client. It made sense. She had requested a phone consultation. ||| O corretor ligou para o cliente. Fazia sentido. Ela havia solicitado uma consulta por telefone.
+The firefighter had to rescue the child from the burning building. It made sense. He could not just stand by and do nothing. ||| O bombeiro teve que resgatar a criança do prédio em chamas. Fazia sentido. Ele não podia simplesmente ficar parado e não fazer nada.
+The firefighter had to rescue the child from the burning building. It made sense. She could not just stand by and do nothing. ||| O bombeiro teve que resgatar a criança do prédio em chamas. Fazia sentido. Ela não podia simplesmente ficar de braços cruzados e não fazer nada.
