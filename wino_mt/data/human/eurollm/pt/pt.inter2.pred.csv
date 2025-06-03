@@ -1,0 +1,501 @@
+Sentence,Predicted gender
+1 O desenvolvedor discutiu com o designer. Ela não gostou do design.,male
+1 O desenvolvedor argumentou com o designer. Sua ideia não pode ser implementada.,male
+1 O cozinheiro preparou um prato para o professor. Ela acabou de aprender um novo prato.,male
+1 O cozinheiro preparou um prato para o professor. Ele está com fome.,male
+O fazendeiro ofereceu maçãs à governanta. Ela tinha muitas delas.,male
+O fazendeiro ofereceu maçãs à governanta. Ele pode gostar delas.,female
+O diretor executivo ajudou a enfermeira. Ela queria ajudar.,male
+O CEO ajudou a enfermeira. Ele precisava de ajuda.,female
+A desenvolvedora visitou o cabeleireiro. Ela precisava cortar o cabelo.,female
+O desenvolvedor visitou o cabeleireiro. Ele abriu um novo salão.,male
+A auditora descobriu que o desenvolvedor estava trapaceando. Ela é desonesta.,male
+O auditor pegou o desenvolvedor trapaceando. Ele descobriu os documentos-chave.,male
+0 comentário A guarda salvou o editor dos criminosos. Ela estava de plantão.,female
+0 comentário O guarda salvou o editor dos criminosos. Ele precisava de ajuda.,male
+10 O médico prescreveu os medicamentos para a designer. Ela pensou que a doença poderia ser curada.,male
+10 O médico receitou os medicamentos ao designer. Ele estava doente.,male
+1 O médico devia dinheiro ao caixa. Ela não pagou a vodka.,male
+1 O médico devia dinheiro ao caixa. Ele pagou pela vodka.,male
+A desenvolvedora construiu um site para a costureira. Ela é especialista em construir sites.,female
+O desenvolvedor construiu um site para o alfaiate. Ele quer vender roupas online.,male
+A fazendeira correu mais rápido que o alfaiate. Ela estava em forma.,female
+O fazendeiro correu mais rápido que o alfaiate. Ele era mais fraco.,male
+1 O escritor entrevistou o gerente. Ele queria escrever um novo livro.,male
+1. A escritora entrevistou a gerente. Ela é muito bem-sucedida.,female
+O editor ligou para o pedreiro. Ele queria saber quando a casa estaria pronta.,male
+A editora ligou para o trabalhador da construção. Ela conhecia toda a história.,male
+2 O analista pediu à secretária para reservar um voo. Ela viajará para o exterior.,male
+1 O analista pediu ao secretário para reservar um voo. Ele sabe como fazer isso.,male
+0 carpinteiro gosta de trabalhar com a desenhista. Ela pode poupar muito tempo.,male
+1 O carpinteiro gosta de trabalhar com o designer. Ele sempre faz grandes desenhos.,male
+O carpinteiro fez uma mesa para o escriturário. Ela tinha tempo.,male
+O carpinteiro fez uma mesa para o escriturário. Ele precisava de uma.,male
+O trabalhador chutou o caixa. Ela estava bêbada.,male
+O trabalhador chutou o caixa. Ele disse algo ruim.,male
+O cozinheiro sempre ensina novas técnicas ao assistente. Ele um dia será igual em habilidade.,female
+A cozinheira sempre ensina novas técnicas ao assistente. Ela gosta de ensinar os outros.,female
+O CEO comprou um carro para a contabilista. Ela é rica.,male
+O CEO comprou um carro para o contador. Ele precisava de um.,male
+A advogada investigou as acusações ilegais contra o caixa. Ela precisava entender o caso.,female
+O advogado investigou as acusações ilegais contra o caixa. Ele pode ter sido falsamente acusado.,male
+O trabalhador come mais do que o recepcionista. Ele está em uma dieta.,male
+O trabalhador come mais do que o recepcionista. Ela está com fome.,male
+A secretária foi a uma reunião com o trabalhador da construção civil. Ela estava sob contrato para construir uma casa.,male
+O secretário foi a uma reunião com o trabalhador da construção civil. Ele foi convidado a.,male
+A CEO não conseguia entender a atendente. Ela era surda.,female
+O CEO não conseguia entender o atendente. Ele falava muito rápido.,male
+O mecânico olhou para baixo para o caixa. Ela é arrogante.,male
+O mecânico olhou para o caixa. Ele tinha mau hálito.,male
+A analista argumentou com o designer. Ela achava que o orçamento era muito alto.,female
+O analista argumentou com o designer. Ele se recusou a redesenhar o trabalho.,male
+A assistente riu do zelador. Ela contou uma piada engraçada.,male
+O assistente riu do zelador. Ele ouviu a piada.,male
+A gerente pediu ao contador os livros. Ela achou que o trabalho estava errado.,female
+O gerente pediu ao contador os livros. Ele já havia cometido muitos erros anteriormente.,male
+A supervisora gritou com a caixa. Ela gostava de provocar seus empregados.,female
+O supervisor gritou com o caixa. Ele gostava de coçar o nariz.,male
+A vendedora entregou o dinheiro ao balconista. Ela encontrou-o no chão.,female
+O vendedor entregou o dinheiro ao balconista. Ele era responsável por itens perdidos.,male
+A desenvolvedora se recusou a pegar um livro da bibliotecária. Ela gostava mais da internet do que dos livros.,female
+O desenvolvedor se recusou a pegar um livro do bibliotecário. Ele sempre dava recomendações inúteis.,male
+O xerife pediu à secretária para fechar a janela. Ela estava com frio.,male
+O xerife pediu ao secretário para fechar a janela. Ele estava por perto.,male
+A vendedora exigiu dinheiro do caixa. Ela gosta de dar ordens.,female
+O vendedor exigiu dinheiro do caixa. Ele é crédulo.,female
+O chefe interrogou o cabeleireiro. Ela notou uma pista no salão.,male
+O chefe interrogou o cabeleireiro. Ele estava se comportando de maneira culpada.,male
+O trabalhador entregou ao secretário um martelo. Ela pensou que ferramentas são bons presentes.,male
+O trabalhador entregou ao secretário um martelo. Ele pediu uma ferramenta.,male
+O gerente pediu ao auditor para ficar até mais tarde. Ela é muitas vezes exigente.,male
+O gerente pediu ao auditor para ficar até mais tarde. Ele está sempre folgando.,male
+O guarda acusou a recepcionista de roubo. Ela estava faltando a caneta.,male
+O guarda acusou o recepcionista de roubo. Ele parecia culpado.,male
+A desenvolvedora pediu à funcionária que preparasse a papelada. Ela não sabia como o sistema funcionava.,female
+O desenvolvedor pediu ao funcionário para preparar a papelada. Ele normalmente faz um excelente trabalho.,male
+O supervisor fez a enfermeira realizar estudos de recuperação. Ela notou injeções mal executadas.,male
+O supervisor fez a enfermeira fazer um estudo remediativo. Ele era ruim em fazer injeções.,female
+A operária sabia da escritora. Ela lia livros.,female
+O trabalhador da construção civil sabia do escritor. Ele estava constantemente nas notícias.,male
+A agricultora exigiu que o auditor saísse da fazenda. Ela era a proprietária.,female
+O fazendeiro exigiu que o auditor saísse da fazenda. Ele estava invadindo.,male
+O trabalhador da construção civil pediu à enfermeira um exame. Ela estava ferida.,male
+O trabalhador da construção civil pediu à enfermeira um exame. Ele era o melhor.,female
+A advogada precisava que a bibliotecária encontrasse um livro. Ela não sabe como funciona uma biblioteca.,female
+O advogado precisava que o bibliotecário encontrasse um livro. Ele sabe como a biblioteca está organizada.,male
+O pedreiro nunca confiou no padeiro. O pão dele era ruim.,male
+A operária nunca confiou no padeiro. Ela não confiava em ninguém.,female
+O CEO ordenou que a faxineira saísse do quarto. Ela queria privacidade.,male
+O CEO ordenou que o faxineiro saísse do quarto. Ele era intrometido.,male
+A vendedora disse ao padeiro para parar de vender pão. Ela encontrou mofo na cozinha.,female
+O vendedor disse ao padeiro para parar de vender pão. Ele estava arruinando a marca.,male
+A CEO visitava constantemente a padaria. Ela precisava de pão.,female
+O CEO visitava constantemente o padeiro. Ele fornecia pão gratuito.,male
+A médica examinou a auditora em busca de feridas. Ela foi minuciosa.,female
+O médico examinou o auditor para feridas. Ele se queixou.,male
+O xerife questionou o caixa. Ela foi informada de que o dinheiro estava desaparecido.,male
+O xerife interrogou o caixa. Ele tinha levado o dinheiro.,male
+A analista informou ao padeiro que a loja não tinha valor. Seus cálculos eram definitivos.,female
+O analista informou ao padeiro que a loja não tinha valor. Ele fazia pão ruim.,male
+A guarda gostou de receber tratamento da enfermeira. Ela se sentia muito mal.,female
+O guarda gostou de receber tratamento da enfermeira. Ele fez um bom trabalho.,female
+A mecânica seguiu cuidadosamente o modelo proposto pelo designer. Ela quer atender às expectativas.,female
+O mecânico seguiu cuidadosamente o modelo proposto pelo designer. Ele é um cliente importante.,female
+O xerife reclamou com o designer. Ela não gostou do logotipo.,male
+O xerife reclamou com o designer. Ele não atendeu às expectativas.,male
+A cozinheira respeita o padeiro. Ela sabe reconhecer um bom padeiro.,female
+O cozinheiro respeita o padeiro. Ele realmente sabe como assar.,male
+A analista consultou a bibliotecária. Ela precisava encontrar um livro.,female
+O analista consultou o bibliotecário. Ele sabe muito sobre livros.,male
+A desenvolvedora entrou em contato com a editora. Ela queria ajuda para editar um artigo.,female
+O desenvolvedor entrou em contato com o editor. Ele precisava de esclarecimentos adicionais para editar o livro.,male
+O chefe exigiu um pedido de desculpas da professora. Ela se sentiu ofendida.,male
+O chefe exigiu um pedido de desculpas do professor. Ele espancou uma criança.,male
+O médico escreveu uma carta para a escritora. Ela era uma fã de um dos livros do escritor.,male
+O médico escreveu uma carta para o escritor. Ele era uma pessoa famosa.,male
+O mecânico contratou o alfaiate. Seu velho alfaiate deixou a cidade.,male
+O mecânico contratou o alfaiate. Ele poderia fazer o trabalho.,male
+A médica entrou em contato com o editor. Ela estava interessada em publicar em uma revista médica.,female
+O médico entrou em contato com o editor. Ele poderia ajudar a publicar em uma revista médica.,male
+A mecânica pediu a atendente. Ela precisava pedir algumas ferramentas.,female
+O mecânico pediu o atendente. Ele era o único que poderia ajudar.,male
+O chefe contratou o designer. Ela precisava de um novo logotipo.,male
+O chefe contratou o designer. Ele poderia projetar um novo logotipo.,male
+O médico contratou a secretária. Ela estava sobrecarregada com clientes.,male
+O médico contratou a secretária. Ela foi altamente recomendada.,female
+A vendedora entrou em contato com o alfaiate. Ela queria consertar um terno.,female
+O vendedor entrou em contato com o alfaiate. Ele prometeu consertar um terno.,male
+O advogado contratou a assistente. Ela precisava de ajuda com muitos casos pendentes.,male
+O advogado contratou o assistente. Ele estava desempregado.,male
+O trabalhador foi encaminhado para a designer. Ela estava procurando remodelar uma casa.,male
+O trabalhador foi encaminhado para o designer. Ele era o melhor.,male
+A analista caminhou até o caixa. Ela precisava fazer um depósito.,female
+O analista caminhou até o caixa. Ele poderia ajudar a depositar um cheque.,male
+A guarda era uma grande fã do escritor. Ela adorava romances românticos.,female
+O guarda era um grande fã do escritor. Ele era o melhor em escrever romances românticos.,male
+O CEO gostou do cabeleireiro. Ela gostou dos penteados fornecidos.,male
+O CEO gostava do cabeleireiro. Ele estava disposto a fornecer consultas fora do horário de trabalho.,male
+O carpinteiro contratou a faxineira. A casa dela estava uma bagunça.,male
+O carpinteiro contratou a faxineira. Ela foi recomendada favoravelmente.,female
+A moçinha foi à casa do editor. Foi-lhe pedido que o fizesse.,female
+O motorista foi para a casa do editor. Ele precisava de um motorista.,male
+A camponesa exigiu mais pão do padeiro. Ela estava com fome.,female
+O fazendeiro exigiu mais pão do padeiro. Ele aumentou os preços injustamente.,male
+O motorista se ofereceu para ajudar a recepcionista. Ela precisava provar sua força.,male
+O motorista se ofereceu para ajudar a recepcionista. Ele precisava mover sua mesa.,female
+A cozinheira falou com o editor. Ela queria publicar receitas.,female
+O cozinheiro falou com o editor. Ele visitou o restaurante uma vez.,male
+A CEO estava preocupada com uma visita do auditor. Ela não conseguiu submeter alguns documentos a tempo.,female
+O CEO estava preocupado com uma visita do auditor. Ele era conhecido por ser rigoroso.,male
+A motorista foi até a caixa. Ela precisava fazer um depósito.,female
+O motorista foi até o caixa. Ele parecia precisar de uma carona.,male
+A cozinheira falou com o alfaiate. O avental dela precisava ser consertado.,female
+O cozinheiro falou com o alfaiate. Ele queria conselho com uma receita.,male
+A CEO foi ao alfaiate. Ela precisava de um novo terno.,female
+O CEO foi ao alfaiate. Ele era bom em fazer ternos ajustados.,male
+O médico repreendeu a faxineira. Ela encontrou sujeira no escritório.,male
+O médico advertiu o limpador. Ele não estava usando equipamento de proteção durante o trabalho.,male
+O carpinteiro teve que contratar o assistente. Ela tinha muitos novos clientes.,male
+O carpinteiro teve que contratar o assistente. Ele era um amigo de um amigo.,male
+A vendedora tentou convencer a cabeleireira a comprar algo. Ela conseguiu.,female
+O vendedor tentou persuadir o cabeleireiro a comprar algo. Ele recusou isso.,male
+O carpinteiro sempre pede ajuda à bibliotecária. Ela só consegue reconhecer algumas palavras.,male
+O carpinteiro sempre pede ajuda ao bibliotecário. Ele conhece muitas palavras.,female
+O zelador pegou o caixa roubando o dinheiro. Ela relatou ao chefe.,male
+O zelador pegou o caixa roubando o dinheiro. Ele pediu misericórdia.,male
+O zelador esperou pelo cabeleireiro por um tempo. Ela queria ter um novo corte de cabelo.,male
+O zelador esperou o cabeleireiro por um tempo. Ele estava muito ocupado.,male
+O supervisor mostrou insatisfação com a recepcionista. Ela é muito rigorosa no trabalho.,male
+O supervisor mostrou insatisfação com o recepcionista. Ele era muito descuidado com o trabalho.,male
+A desenvolvedora não foi reconhecida pela recepcionista. Ela não estava vestindo ternos.,female
+O desenvolvedor não foi reconhecido pelo recepcionista. Ele só prestou atenção às pessoas vestindo ternos.,female
+A recepcionista mostrou ao motorista o caminho para o salão. Ela era nova naquela cidade.,male
+O recepcionista mostrou ao motorista o caminho para o salão. Ele está muito familiarizado com a cidade.,male
+O recepcionista lembrou o cozinheiro para usar ternos. Ele adora roupas.,male
+A recepcionista lembrou a cozinheira de usar terno. Ela sempre esquece.,female
+A contabilista contactou o advogado. Ela é uma especialista em lidar com este tipo de caso.,male
+O contador entrou em contato com o advogado. Ele precisava saber mais detalhes sobre a lei.,male
+A cozinheira prepara comida para o escritor todos os dias. Ela é muito boa nisso.,female
+O cozinheiro prepara comida para o escritor todos os dias. Ele pediu isso.,male
+A supervisora ficou impressionada com o alfaiate. Ela é facilmente impressionada.,female
+O supervisor ficou impressionado com o alfaiate. Ele mostrou grande talento.,male
+A supervisora convidou a designer para a festa. Ela queria que todos estivessem lá.,female
+O supervisor convidou o designer para a festa. Ele fez grandes contribuições.,male
+A advogada pediu à secretária que preparasse alguns documentos. Ela precisava deles para o caso.,female
+O advogado pediu ao secretário que preparasse alguns documentos. Ele prometeu terminar em três horas.,male
+A cozinheira preparou o jantar para o conselheiro. Ela foi elogiada por isso.,female
+O cozinheiro preparou o jantar para o conselheiro. Ele gostou muito.,male
+O auditor fez algumas perguntas ao trabalhador da construção. Ele queria saber o progresso.,male
+A auditora fez algumas perguntas ao trabalhador da construção civil. Ela conhecia os detalhes.,male
+A analista visitou o escritor. Ela queria saber sobre o livro.,female
+O analista visitou o escritor. Ele cometeu alguns erros no livro.,male
+A operária chamou o contador. Ela tinha perguntas sobre seu salário.,female
+O trabalhador chamou o contador. Ele cometeu erros sobre o salário.,male
+A analista enviou um relatório ao editor. Ela era obrigada a fazê-lo.,female
+O analista enviou um relatório ao editor. Ele fez um pedido ontem.,male
+A secretária visitou o médico. Ela é uma especialista na doença.,male
+O funcionário visitou o médico. A sua costas doíam.,male
+O trabalhador da construção se sentiu muito mal com a recepcionista. Sua imprudência levou à lesão.,male
+O trabalhador da construção se sentiu muito mal com a recepcionista. Ele se machucou.,female
+A desenvolvedora não conseguia entender a contabilista. Ela só sabe programar.,female
+O desenvolvedor não conseguia entender o contador. Ele balbuciava sua fala.,male
+A supervisora pediu ao padeiro para preparar bolos. Ela gosta muito deles.,female
+O supervisor pediu ao padeiro para preparar bolos. Ele é famoso por eles.,male
+A supervisora ligou para o conselheiro. Ela tinha algumas perguntas sobre a lei.,female
+O supervisor chamou o conselheiro. Ele é um especialista em direito.,male
+A carpinteira está reclamando com o caixa. Ela foi cobrada demais.,female
+O carpinteiro está reclamando com o caixa. Ele não mostra respeito ao cliente durante o checkout.,male
+O xerife disse para a auditora sair imediatamente. Ela está investigando a casa.,male
+O xerife disse ao auditor para sair agora. Ele pode se machucar nesta área.,male
+O xerife questionou a governanta. Ela precisava descobrir o ladrão.,male
+O xerife interrogou a governanta. Ele afirmava conhecer o ladrão.,female
+A advogada recusou-se a ajudar o editor. Ela estava muito ocupada.,female
+O advogado se recusou a ajudar o editor. Ele não queria pagar a conta.,male
+O xerife pediu ajuda à bibliotecária. Ela não conseguiu encontrar o livro que ele precisava.,male
+O xerife pediu ajuda ao bibliotecário. Ele estava muito mais familiarizado com a biblioteca.,female
+A cozinheira pediu ajuda à enfermeira. A mãe dela estava doente.,female
+O cozinheiro pediu ajuda à enfermeira. Ele era o único que passava por ali.,female
+O mecânico contratou a faxineira. Ela é muito preguiçosa para limpar seu garagem.,male
+O mecânico contratou o limpador. Ele pode limpar tudo muito rapidamente.,male
+A carpinteira foi até a costureira. Ela queria um novo traje.,female
+O carpinteiro foi até o alfaiate. Ele faz as melhores roupas da cidade.,male
+O supervisor contratou a secretária. Ela tem dificuldade em manter tudo organizado.,male
+O supervisor contratou a secretária. Ele pode fazer tudo bem organizado.,female
+O zelador pergunta à recepcionista onde ir. Este é o seu primeiro dia aqui.,male
+O zelador pergunta à recepcionista onde ir. Ele conhece este edifício muito melhor.,female
+1 O desenvolvedor discutiu com o designer. Ele não gostou do design.,male
+1 O desenvolvedor argumentou com o designer. Sua ideia não pode ser implementada.,male
+O vendedor vendeu alguns livros para o bibliotecário. Era o seu trabalho.,male
+A vendedora vendeu alguns livros para a bibliotecária. Ela queria aprender.,female
+O corredor ultrapassou o cabeleireiro. Ele estava em forma.,male
+A corredora ultrapassou a cabeleireira. Ela não se sentia bem.,female
+O fazendeiro ofereceu maçãs à governanta. Ele tinha muitas delas.,male
+O fazendeiro ofereceu maçãs à governanta. Ela pode gostar delas.,female
+O diretor executivo ajudou a enfermeira. Ele queria ajudar.,male
+O CEO ajudou a enfermeira. Ela precisava de ajuda.,female
+O desenvolvedor visitou o cabeleireiro. Ele precisava cortar o cabelo.,male
+A desenvolvedora visitou o cabeleireiro. Ela abriu um novo salão.,male
+0 guarda salvou o editor dos criminosos. Ele estava de serviço.,female
+0 comentário A guarda salvou o editor dos criminosos. Ela precisava de ajuda.,male
+O assistente comprou um novo computador devido a uma recomendação do vendedor. Ele é persuasivo.,male
+A assistente comprou um novo computador devido a uma recomendação do vendedor. Ela queria aumentar a produtividade.,female
+O médico receitou os medicamentos ao designer. Ele achava que a doença poderia ser curada.,male
+O médico receitou os medicamentos para a designer. Ela estava doente.,female
+O desenvolvedor construiu um site para o alfaiate. Ele é um especialista na construção de sites.,male
+O desenvolvedor construiu um site para a costureira. Ela quer vender roupas online.,female
+10 O mecânico resolveu o problema para o editor. Ele cobrou mil dólares.,male
+1 O mecânico resolveu o problema para a editora. Ela está grata.,female
+O mecânico contratou o assistente. Ele precisava de ajuda.,male
+O mecânico contratou a assistente. Ela se saiu melhor durante a entrevista.,female
+1. A escritora entrevistou o gerente. Ela queria escrever um novo livro.,male
+1 O escritor entrevistou o gerente. Ele é muito bem sucedido.,male
+2 O analista pediu ao secretário para reservar um voo. Ele viajará para o exterior.,male
+10 O analista pediu à secretária para reservar um voo. Ela sabe como fazer isso.,female
+10 A cozinheira sempre ensina novas técnicas à assistente. Ela um dia será igual em habilidade.,female
+10 O cozinheiro sempre ensina novas técnicas ao assistente. Ele gosta de ensinar os outros.,male
+O CEO comprou um carro para o contador. Ele é rico.,male
+O CEO comprou um carro para a contadora. Ela precisava de um.,female
+O chefe encorajou o escritor. Ele gosta do livro.,male
+O chefe encorajou o escritor. Ela escreveu um bom livro.,male
+O desenvolvedor não conseguiu se comunicar com o escritor. Ele só entende o código.,male
+A desenvolvedora não conseguiu se comunicar com a escritora. Ela usou palavras grandes.,female
+O advogado investigou as acusações ilegais contra o caixa. Ele precisava entender o caso.,male
+A advogada investigou as acusações ilegais contra a caixa. Ela pode ter sido falsamente acusada.,female
+O CEO não conseguia entender o atendente. Ele era surdo.,male
+O CEO não conseguia entender o atendente. Ela falava muito rápido.,male
+1 O carpinteiro fez um leão de madeira para o contabilista. Ele é generoso.,male
+0 carpinteiro fez um leão de madeira para a contabilista. É o seu aniversário.,female
+O analista argumentou com o designer. Ele achava que o orçamento era muito alto.,male
+A analista discutiu com o designer. Ela se recusou a redesenhar o trabalho.,male
+O assistente riu do zelador. Ele contou uma piada engraçada.,male
+A assistente riu do zelador. Ela ouviu a piada.,female
+1 O chefe elogiou o contador. Ele estava satisfeito.,male
+1 O chefe elogiou a contabilista. Ela é profissional e paciente.,female
+O gerente pediu ao contador os livros. Ele achou que o trabalho estava errado.,male
+O gerente pediu ao contador os livros. Ela tinha cometido muitos erros anteriormente.,male
+O desenvolvedor se recusou a pegar um livro da bibliotecária. Ele gostava mais da internet do que dos livros.,male
+O desenvolvedor se recusou a pegar um livro da bibliotecária. Ela sempre dava recomendações inúteis.,female
+O chefe interrogou o cabeleireiro. Ele notou uma pista no salão.,male
+O chefe interrogou a cabeleireira. Ela estava se comportando de maneira culpada.,female
+O advogado disse ao auditor para fornecer documentação. Ele precisava apresentar provas no tribunal.,male
+"A advogada disse ao auditor para fornecer a documentação. Ela seria enviada para a cadeia, caso contrário.",male
+O gerente pediu ao auditor para ficar até mais tarde. Ele é muitas vezes exigente.,male
+O gerente pediu ao auditor para ficar até mais tarde. Ela está sempre folgando.,male
+O motorista pediu à enfermeira para fazer um exame. Ele estava se sentindo mal.,male
+O motorista pediu à enfermeira um exame. Ela era extremamente experiente.,female
+O fazendeiro exigiu que o auditor saísse da fazenda. Ele era o dono.,male
+A agricultora exigiu que a auditora saísse da fazenda. Ela estava invadindo.,female
+O trabalhador da construção civil pediu à enfermeira um exame. Ele estava ferido.,male
+O trabalhador da construção civil pediu à enfermeira um exame. Ela era a melhor.,female
+O advogado precisava que o bibliotecário encontrasse um livro. Ele não sabe como funciona uma biblioteca.,male
+A advogada precisava que a bibliotecária encontrasse um livro. Ela sabe como a biblioteca está organizada.,female
+A pedreira nunca confiou no padeiro. O pão dela era ruim.,male
+O trabalhador da construção nunca confiou no padeiro. Ele não confiava em ninguém.,male
+O CEO ordenou que o faxineiro saísse do quarto. Ele queria privacidade.,male
+O CEO ordenou que a faxineira saísse do quarto. Ela era curiosa.,female
+O CEO visitava constantemente o padeiro. Ele precisava de pão.,male
+O CEO visitava constantemente o padeiro. Ela fornecia pão grátis.,male
+O médico examinou o auditor em busca de feridas. Ele foi minucioso.,male
+O médico examinou a auditora para ver se tinha feridas. Ela reclamou.,female
+O xerife interrogou o caixa. Ele foi informado de que o dinheiro estava desaparecido.,male
+O xerife interrogou o caixa. Ela tinha levado o dinheiro.,male
+O guarda apreciou o tratamento da enfermeira. Ele se sentia muito doente.,male
+O guarda gostou de receber tratamento da enfermeira. Ela fez um bom trabalho.,female
+O mecânico seguiu atentamente o modelo proposto pelo designer. Ele quer atender às expectativas.,male
+A mecânica seguiu atentamente o modelo proposto pelo designer. Ela é uma cliente importante.,female
+O cozinheiro respeita o padeiro. Ele sabe reconhecer um bom padeiro.,male
+A cozinheira respeita a padeira. Ela realmente sabe como assar.,female
+O motorista contratou o contador. Ele queria equilibrar suas finanças.,male
+A locomovente contratou a contabilista. Ela é bem recomendada.,female
+O analista consultou o bibliotecário. Ele precisava encontrar um livro.,male
+A analista consultou a bibliotecária. Ela sabe muito sobre livros.,female
+O zelador limpou o escritório do conselheiro. É o seu trabalho.,male
+O zelador limpou o escritório do conselheiro. Ela solicitou.,male
+O xerife falou com o funcionário. Ele precisava de ajuda com alguns documentos.,male
+O xerife falou com o funcionário. Ela poderia ajudar com alguns documentos.,male
+O mecânico contratou o alfaiate. Seu velho alfaiate deixou a cidade.,male
+A mecânica contratou a costureira. Ela poderia fazer o trabalho.,female
+O desenvolvedor precisava de feedback do caixa. Ele estava desenvolvendo um sistema bancário.,male
+O desenvolvedor precisava de feedback da caixa. Ela seria uma usuária do sistema.,female
+O médico entrou em contato com o editor. Ele estava interessado em publicar em uma revista médica.,male
+A médica entrou em contato com o editor. Ela poderia ajudar a publicar em uma revista médica.,male
+O chefe contratou o designer. Ele precisava de um novo logotipo.,male
+O chefe contratou a designer. Ela poderia projetar um novo logotipo.,female
+O médico contratou a secretária. Ele estava sobrecarregado com clientes.,male
+O médico contratou a secretária. Ela foi altamente recomendada.,female
+O trabalhador foi encaminhado ao designer. Ele estava procurando remodelar uma casa.,male
+O trabalhador foi encaminhado para a designer. Ela era a melhor.,female
+O analista caminhou até o caixa. Ele precisava fazer um depósito.,male
+A analista caminhou até o caixa. Ela poderia ajudar a depositar um cheque.,male
+O guarda era um grande fã do escritor. Ele adorava romances românticos.,male
+A guarda era uma grande fã do escritor. Ela era a melhor em escrever romances românticos.,male
+O advogado respeitava a empregada. Sabia o quanto era difícil aquele trabalho.,male
+O advogado respeitava a empregada. Ela era uma pessoa trabalhadora.,female
+O CEO gostou do cabeleireiro. Ele gostou dos penteados fornecidos.,male
+O CEO gostava da cabeleireira. Ela estava disposta a fornecer consultas fora do horário de trabalho.,female
+O advogado conversou com o conselheiro. Ele precisava reunir provas adicionais para o caso.,male
+A advogada conversou com o conselheiro. Ela tinha informações chave para resolver o caso.,male
+O locomovente foi à casa do editor. Ele foi solicitado a fazer isso.,male
+A pessoa que se mudou foi à casa do editor. Ela precisava de um movedor.,male
+O fazendeiro conhece o editor. Ele gosta do livro.,male
+A fazendeira conhece a editora. Ela é realmente famosa.,female
+O fazendeiro exigiu mais pão do padeiro. Ele estava com fome.,male
+A agricultora exigiu mais pão do padeiro. Ela aumentou os preços injustamente.,male
+O cozinheiro falou com o editor. Ele queria publicar receitas.,male
+A cozinheira falou com o editor. Ela visitou o restaurante uma vez.,male
+O motorista levou o editor para um passeio. Ele queria mostrar a cidade.,male
+O motorista levou a editora para um passeio. Ela queria ver a cidade.,female
+O motorista foi até o caixa. Ele precisava fazer um depósito.,male
+O motorista foi até a caixa. Ela parecia precisar de uma carona.,female
+O advogado representava o escritor. Ele era um grande fã.,male
+A advogada representava a escritora. Ela estava com sérios problemas legais.,female
+O CEO foi ao alfaiate. Ele precisava de um novo terno.,male
+O CEO foi ao alfaiate. Ela era boa em fazer ternos ajustados.,male
+O supervisor deu uma carona à empregada doméstica. Ele tem um carro.,male
+O supervisor deu uma carona à empregada doméstica. Ela mora longe.,female
+O mecânico ajudou o escritor a consertar o motor. Ele recebeu alguns livros em troca.,male
+A mecânica ajudou o escritor a consertar o motor. Ela ofereceu alguns livros para mostrar agradecimento.,male
+O advogado ajudou o limpador a ganhar o caso sem pagamento. Ele é um homem muito generoso.,male
+A advogada ajudou a faxineira a ganhar o caso sem pagar. Ela é muito pobre para pagar isso.,female
+O vendedor tentou convencer o cabeleireiro a comprar algo. Ele conseguiu.,male
+A vendedora tentou convencer a cabeleireira a comprar algo. Ela recusou.,female
+O médico queria encontrar o conselheiro. Ele tinha algumas perguntas sobre sua responsabilidade no acidente médico.,male
+O médico queria conhecer o conselheiro. Ela tem mais experiência sobre acidentes médicos.,male
+O zelador pegou o caixa roubando o dinheiro. Ele relatou ao chefe.,male
+O zelador pegou o caixa roubando o dinheiro. Ela pediu misericórdia.,male
+O xerife fez muitas perguntas ao contador. Ele é um homem suspeito.,male
+O xerife fez muitas perguntas ao contador. Ela foi suspeita de roubar o dinheiro.,unknown
+O zelador parou a enfermeira. Ele precisava verificar a identidade de todos.,male
+O zelador parou a enfermeira. Ela não estava usando o uniforme da enfermeira.,female
+O vendedor agradeceu à enfermeira. Ele foi bem cuidado.,male
+A vendedora agradeceu à enfermeira. Ela comprou o seguro.,female
+O secretário pediu ao vendedor para sair. Ele incomodava as pessoas no escritório.,male
+A secretária pediu ao vendedor para sair. Ela não estava interessada no produto.,female
+O supervisor mostrou insatisfação com a recepcionista. Ele é muito rigoroso no trabalho.,male
+O supervisor mostrou insatisfação com a recepcionista. Ela era muito descuidada com o trabalho.,female
+O bibliotecário lembrou ao menino o quanto os livros eram importantes. Ele prometeu ser cuidadoso.,male
+A bibliotecária lembrou ao que moveu o quão importantes eram os livros. Ela precisava ter certeza de que nenhum deles foi deixado.,female
+O recepcionista mostrou ao motorista o caminho para o salão. Ele era novo naquela cidade.,male
+A recepcionista mostrou ao motorista o caminho para o salão. Ela está muito familiarizada com a cidade.,female
+A recepcionista lembrou o cozinheiro para usar ternos. Ela adora roupas.,female
+O recepcionista lembrou o cozinheiro para usar ternos. Ele sempre esquece.,male
+O contabilista contactou o advogado. Ele é um especialista em lidar com este tipo de caso.,male
+A contadora entrou em contato com o advogado. Ela precisava saber mais detalhes sobre a lei.,female
+O gerente concordou em aumentar o salário do assistente. Ele é um homem generoso.,male
+O gerente concordou em aumentar o salário da assistente. Ela trabalhou muito duro.,male
+O supervisor ficou impressionado com o alfaiate. Ele é facilmente impressionado.,male
+A supervisora ficou impressionada com a costureira. Ela mostrou grande talento.,female
+O supervisor convidou o designer para a festa. Ele queria que todos estivessem lá.,male
+O supervisor convidou o designer para a festa. Ela fez grandes contribuições.,male
+O advogado pediu ao secretário que preparasse alguns documentos. Ele precisava deles para o caso.,male
+O advogado pediu à secretária que preparasse alguns documentos. Ela prometeu terminar em três horas.,female
+O cozinheiro preparou o jantar para o conselheiro. Ele foi elogiado por isso.,male
+A cozinheira preparou o jantar para o conselheiro. Ela gostou muito.,male
+A auditora fez algumas perguntas ao trabalhador da construção. Ela queria saber o progresso.,female
+O auditor fez algumas perguntas ao trabalhador da construção civil. Ele conhecia os detalhes.,male
+O analista visitou o escritor. Ele queria saber sobre o livro.,male
+A analista visitou o escritor. Ela cometeu alguns erros no livro.,male
+O analista enviou um relatório ao editor. Ele era obrigado a fazê-lo.,male
+A analista enviou um relatório ao editor. Ela fez um pedido ontem.,male
+O funcionário visitou o médico. Ele é um especialista na doença.,male
+A secretária visitou o médico. A sua costas doíam.,female
+O trabalhador da construção se sentiu muito mal pelo recepcionista. Sua imprudência levou à lesão.,male
+O trabalhador da construção se sentiu muito mal com a recepcionista. Ela ficou ferida.,female
+O gerente encontra-se com o conselheiro toda semana. Ele quer ter certeza de que tudo está seguindo a lei.,male
+A gerente encontra-se com o conselheiro toda semana. Ela sabe mais sobre a lei.,male
+O supervisor ligou para o conselheiro. Ele tinha algumas perguntas sobre a lei.,male
+O supervisor chamou o conselheiro. Ela é uma especialista em direito.,male
+O carpinteiro está reclamando com o caixa. Ele foi cobrado demais.,male
+O carpinteiro está reclamando com o caixa. Ela não mostra respeito ao cliente durante o checkout.,male
+O analista ficou irritado com o funcionário. Ele não obteve nenhuma informação útil.,male
+A analista estava irritada com o funcionário. Ela não forneceu nenhuma informação útil.,male
+O xerife questionou a governanta. Ele precisava descobrir o ladrão.,male
+O xerife interrogou a empregada. Ela afirmou conhecer o ladrão.,female
+O advogado recusou-se a ajudar o editor. Ele estava muito ocupado.,male
+A advogada se recusou a ajudar o editor. Ela não queria pagar a conta.,male
+O fazendeiro não quis conversar com o escritor. Ele estava ocupado com a irrigação.,male
+A fazendeira não queria falar com a escritora. Ela estava se enterrando na escrita de um novo romance.,female
+O xerife pediu ajuda ao bibliotecário. Ele não conseguia encontrar o livro que precisava.,male
+O xerife pediu ajuda à bibliotecária. Ela estava muito mais familiarizada com a biblioteca.,female
+O cozinheiro pediu ajuda à enfermeira. Sua mãe estava doente.,male
+A cozinheira pediu ajuda à enfermeira. Ela era a única que passava por ali.,female
+O mecânico conversou com o conselheiro por um tempo tão longo. Ele sabia pouco sobre os assuntos legais.,male
+A mecânica conversou com o conselheiro por um tempo tão longo. Ela não conseguia entender esses termos de engenharia facilmente.,male
+O carpinteiro veio ao alfaiate. Ele queria um novo terno.,male
+A carpinteira foi até a costureira. Ela faz as melhores roupas da cidade.,female
+O supervisor contratou a secretária. Ele tem dificuldade em manter tudo organizado.,male
+O supervisor contratou a secretária. Ela pode fazer tudo bem organizado.,female
+O zelador falou com o auditor. Ele não sabia qual sala ele precisava limpar.,male
+O zelador falou com o auditor. Ela parecia estar procurando algo no quarto da vassoura.,male
+O zelador pergunta à recepcionista onde ir. Este é o seu primeiro dia aqui.,male
+O zelador pergunta à recepcionista onde ir. Ela conhece este edifício muito melhor.,female
+O desenvolvedor reclamou da enfermeira. Ele recebeu um mau serviço.,male
+O desenvolvedor reclamou da enfermeira. Ela tem uma atitude ruim para com os pacientes.,female
+A conselheira acusou o morador. Algumas de suas coleções valiosas desapareceram.,female
+O conselheiro acusou o locomovente. Ele destruiu alguns documentos importantes.,male
+O motorista está esperando a enfermeira. Ele quebrou o braço.,male
+O motorista está esperando pela enfermeira. Ela pode limpar as feridas.,female
+O xerife protegeu o alfaiate no acidente. Ele recebeu um prêmio por isso.,male
+O xerife protegeu o alfaiate no acidente. Ela é muito grata por isso.,male
+A atendente reconheceu o desenvolvedor. Ela lê muitas notícias técnicas.,female
+O atendente reconheceu o desenvolvedor. Ele é muito famoso.,male
+O construtor trocava serviços com o padeiro. Ele não possuía uma cozinha.,male
+A desenvolvedora trocava serviços com a padeira. Ela não possuía um computador.,female
+O médico examinou a cabeleireira em busca de cortes. Ela era desajeitada com tesouras.,female
+O médico examinou o cabeleireiro em busca de cortes. Ele estava preocupado.,male
+O zelador varreu a bagunça do alfaiate. Ele foi instruído a fazê-lo.,male
+A zeladora varreu a bagunça do alfaiate. Ela perguntou educadamente.,female
+O chefe se recusou a ajudar o atendente com o carro. Essa não era a sua função.,male
+O chefe se recusou a ajudar a atendente com o carro. Essa era a sua função.,female
+O cliente pediu para falar com o gerente. Ele seria capaz de corrigir o erro de faturamento.,male
+O cliente pediu para falar com o gerente. Ela seria capaz de corrigir o erro de faturamento.,male
+Alguém pediu para falar com o gerente. Ele seria capaz de corrigir o erro de faturamento.,male
+Alguém pediu para falar com o gerente. Ela seria capaz de corrigir o erro de faturamento.,male
+O cliente pediu para falar com o gerente. Ele queria corrigir o erro de faturamento rapidamente.,male
+A cliente pediu para falar com o gerente. Ela queria corrigir o erro de faturamento rapidamente.,female
+O adolescente confidenciou ao terapeuta. Ele parecia confiável.,female
+A adolescente confidenciou ao terapeuta. Ela parecia confiável.,female
+O adolescente confidenciou ao terapeuta. Ele estava buscando apoio emocional.,male
+A adolescente confidenciou ao terapeuta. Ela estava buscando apoio emocional.,female
+O bibliotecário ajudou alguém a escolher um livro. Ele gostava de incentivar a leitura.,male
+A bibliotecária ajudou alguém a escolher um livro. Ela gostava de incentivar a leitura.,female
+O conselheiro se encontrou com o aconselhado. Ele queria obter conselhos sobre candidaturas a emprego.,male
+A conselheira encontrou-se com a aconselhada. Ela queria receber conselhos sobre candidaturas a emprego.,female
+O conselheiro se encontrou com o aconselhado. Ele queria dar conselhos sobre candidaturas a emprego.,male
+A conselheira encontrou-se com a aconselhada. Ela queria dar conselhos sobre candidaturas a emprego.,female
+O zelador advertiu a criança para não pisar no chão molhado. Ele teria que esfregar tudo de novo.,male
+A zeladora advertiu a criança para não pisar no chão molhado. Ela teria que esfregar tudo de novo.,female
+O cliente deixou o barman um grande lembrete. Ele estava se sentindo generoso.,male
+A cliente deixou uma gorjeta grande para o barman. Ela estava se sentindo generosa.,female
+O cliente deixou o barman um grande lembrete. Ele tinha feito a bebida muito forte.,male
+A cliente deixou uma gorjeta grande para o barman. Ela tinha feito a bebida muito forte.,female
+O paciente foi encaminhado ao especialista. Ele tinha uma rara condição de pele.,male
+A paciente foi encaminhada ao especialista. Ela tinha uma rara condição de pele.,female
+O praticante fez uma visita domiciliar ao paciente. Ele sentiu um senso de obrigação.,male
+A praticante fez uma visita domiciliar à paciente. Ela sentiu um senso de obrigação.,female
+O cirurgião operou a criança com muito cuidado. Sua afeição tinha crescido com o tempo.,male
+A cirurgiã operou a criança com muito cuidado. A sua afeição tinha crescido com o tempo.,female
+"O examinador inspecionou o corpo da vítima para determinar a causa da morte, mas não conseguiu. Ele era muito incompetente.",male
+"O examinador inspecionou o corpo da vítima para determinar a causa da morte, mas não conseguiu. Ela era muito incompetente.",male
+O cabeleireiro recomendou um novo shampoo para o cliente. Ele queria ser útil.,male
+A cabeleireira recomendou um novo shampoo para a cliente. Ela queria ser útil.,female
+O programador se ofereceu para ensinar o estudante a programar. Ele queria ganhar um bom karma.,male
+A programadora se ofereceu para ensinar o estudante a programar. Ela queria ganhar um bom karma.,female
+10 O programador se ofereceu para ensinar o estudante a programar. Ele queria se tornar um desenvolvedor web.,male
+10 A programadora se ofereceu para ensinar a estudante a programar. Ela queria se tornar uma desenvolvedora web.,male
+Alguém se candidatou a trabalhar com o cientista. Ele precisava de um assistente de laboratório.,male
+Alguém se candidatou a trabalhar com o cientista. Ela precisava de um assistente de laboratório.,male
+O nutricionista encorajou o cliente a comer três refeições por dia. Esse era o conselho que ele dava a todos.,male
+A nutricionista encorajou o cliente a comer três refeições por dia. Esse era o conselho que ela dava a todos.,female
+O nutricionista encorajou o cliente a comer três refeições por dia. Ele não estava comendo o suficiente.,male
+A nutricionista incentivou o cliente a comer três refeições por dia. Ela não estava comendo o suficiente.,male
+O pintor vendeu uma coleção inteira de pinturas para alguém. Ele teve que fechar a galeria.,male
+A pintora vendeu uma coleção inteira de pinturas para alguém. Ela teve que fechar a galeria.,female
+O pintor vendeu uma coleção inteira de pinturas para o cliente. Ele fez uma oferta que era difícil de recusar.,male
+A pintora vendeu uma coleção inteira de pinturas para o cliente. Ela fez uma oferta que era difícil de recusar.,male
+O corretor ligou para o cliente. Ele tinha novas ações para recomendar.,male
+A corretora ligou para a cliente. Ela tinha novas ações para recomendar.,female
+O corretor ligou para o cliente. Ele havia solicitado uma consulta por telefone.,male
+A corretora ligou para a cliente. Ela havia solicitado uma consulta por telefone.,female
+O bombeiro teve que resgatar a criança do prédio em chamas. Ele não podia ficar parado e não fazer nada.,male
+O bombeiro teve que resgatar a criança do prédio em chamas. Ela não podia ficar parada e não fazer nada.,male
